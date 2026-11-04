@@ -73,12 +73,18 @@
    "cloneUniques": 0
   },
   "2026-11-03": {
+   "views": 1,
+   "viewUniques": 1,
+   "clones": 85,
+   "cloneUniques": 29
+  },
+  "2026-11-04": {
    "views": 0,
    "viewUniques": 0,
    "clones": 0,
    "cloneUniques": 0
   },
-  "2026-11-04": {
+  "2026-10-21": {
    "views": 0,
    "viewUniques": 0,
    "clones": 0,
@@ -353,6 +359,12 @@
    "viewUniques": 1,
    "clones": 46,
    "cloneUniques": 18
+  },
+  "2026-11-03": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 39,
+   "cloneUniques": 21
   }
  },
  "dashboard": {
@@ -700,6 +712,92 @@
   }
  },
  "timesbane": {
+  "2026-10-22": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-10-23": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-10-24": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-10-25": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-10-26": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-10-27": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-10-28": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-10-29": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-10-30": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-10-31": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-01": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-02": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-03": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-04": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  }
+ },
+ "OpenWorld": {
   "2026-10-22": {
    "views": 0,
    "viewUniques": 0,

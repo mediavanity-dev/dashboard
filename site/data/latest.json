@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T13:37:16.592Z",
+ "generatedAt": "2026-11-04T19:25:44.857Z",
  "owner": {
   "login": "mediavanity-dev",
   "url": "https://github.com/mediavanity-dev",
@@ -17,9 +17,9 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 0,
-    "pushedAt": "2026-11-04T13:11:30Z",
+    "pushedAt": "2026-11-04T19:05:27Z",
     "createdAt": "2026-10-31T17:03:54Z",
-    "sizeKB": 141
+    "sizeKB": 142
    },
    "site": {
     "url": "https://dailygeographer.com/",
@@ -31,7 +31,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 121
+     "ms": 238
     }
    },
    "workflows": [
@@ -53,10 +53,10 @@
      "url": "https://github.com/mediavanity-dev/dailygeographer/blob/main/.github/workflows/update.yml",
      "run": {
       "status": "completed",
-      "conclusion": "success",
+      "conclusion": "failure",
       "event": "schedule",
-      "at": "2026-11-04T13:08:07Z",
-      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/41835342606"
+      "at": "2026-11-04T18:59:36Z",
+      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/41892552083"
      }
     }
    ],
@@ -248,21 +248,21 @@
   },
   {
    "repo": {
-    "name": "dashboard",
-    "url": "https://github.com/mediavanity-dev/dashboard",
+    "name": "OpenWorld",
+    "url": "https://github.com/mediavanity-dev/OpenWorld",
     "description": null,
     "private": false,
-    "language": "HTML",
+    "language": "JavaScript",
     "stars": 0,
     "forks": 0,
     "watchers": 0,
     "openIssues": 0,
-    "pushedAt": "2026-11-04T07:42:43Z",
-    "createdAt": "2026-11-04T00:14:03Z",
-    "sizeKB": 35
+    "pushedAt": "2026-11-04T18:31:44Z",
+    "createdAt": "2026-11-04T18:20:59Z",
+    "sizeKB": 44
    },
    "site": {
-    "url": "https://mediavanity-dev.github.io/dashboard/",
+    "url": "https://mediavanity-dev.github.io/OpenWorld/",
     "domain": null,
     "https": true,
     "buildType": "workflow",
@@ -271,20 +271,20 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 42
+     "ms": 104
     }
    },
    "workflows": [
     {
-     "name": "Update and deploy",
+     "name": "Deploy to GitHub Pages",
      "state": "active",
-     "url": "https://github.com/mediavanity-dev/dashboard/blob/main/.github/workflows/update.yml",
+     "url": "https://github.com/mediavanity-dev/OpenWorld/blob/main/.github/workflows/pages.yml",
      "run": {
-      "status": "in_progress",
-      "conclusion": null,
-      "event": "schedule",
-      "at": "2026-11-04T13:37:03Z",
-      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/41839737412"
+      "status": "completed",
+      "conclusion": "success",
+      "event": "push",
+      "at": "2026-11-04T18:31:46Z",
+      "url": "https://github.com/mediavanity-dev/OpenWorld/actions/runs/41888042394"
      }
     }
    ],
@@ -448,9 +448,9 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 0,
-    "pushedAt": "2026-11-04T03:00:56Z",
+    "pushedAt": "2026-11-04T13:44:55Z",
     "createdAt": "2026-11-04T02:05:28Z",
-    "sizeKB": 102
+    "sizeKB": 138
    },
    "site": {
     "url": "https://timesbane.com/",
@@ -458,11 +458,11 @@
     "https": true,
     "buildType": "legacy",
     "buildStatus": "built",
-    "builtAt": "2026-11-04T03:02:03Z",
+    "builtAt": "2026-11-04T13:45:16Z",
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 96
+     "ms": 175
     }
    },
    "workflows": [
@@ -474,8 +474,199 @@
       "status": "completed",
       "conclusion": "success",
       "event": "dynamic",
-      "at": "2026-11-04T03:01:08Z",
-      "url": "https://github.com/mediavanity-dev/timesbane/actions/runs/41764416228"
+      "at": "2026-11-04T13:44:57Z",
+      "url": "https://github.com/mediavanity-dev/timesbane/actions/runs/41840929847"
+     }
+    }
+   ],
+   "traffic": {
+    "views": [
+     {
+      "date": "2026-10-22",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-23",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-24",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-25",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-26",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-27",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-28",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-29",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-30",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-31",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-01",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-02",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-03",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-04",
+      "count": 0,
+      "uniques": 0
+     }
+    ],
+    "clones": [
+     {
+      "date": "2026-10-22",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-23",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-24",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-25",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-26",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-27",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-28",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-29",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-30",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-31",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-01",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-02",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-03",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-04",
+      "count": 0,
+      "uniques": 0
+     }
+    ],
+    "referrers": [],
+    "paths": []
+   }
+  },
+  {
+   "repo": {
+    "name": "dashboard",
+    "url": "https://github.com/mediavanity-dev/dashboard",
+    "description": null,
+    "private": false,
+    "language": "HTML",
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "openIssues": 0,
+    "pushedAt": "2026-11-04T13:37:17Z",
+    "createdAt": "2026-11-04T00:14:03Z",
+    "sizeKB": 36
+   },
+   "site": {
+    "url": "https://mediavanity-dev.github.io/dashboard/",
+    "domain": null,
+    "https": true,
+    "buildType": "workflow",
+    "buildStatus": null,
+    "builtAt": null,
+    "probe": {
+     "ok": true,
+     "status": 200,
+     "ms": 101
+    }
+   },
+   "workflows": [
+    {
+     "name": "Update and deploy",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/dashboard/blob/main/.github/workflows/update.yml",
+     "run": {
+      "status": "in_progress",
+      "conclusion": null,
+      "event": "schedule",
+      "at": "2026-11-04T19:25:26Z",
+      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/41896788342"
      }
     }
    ],
@@ -653,7 +844,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 51
+     "ms": 121
     }
    },
    "workflows": [
@@ -844,7 +1035,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 64
+     "ms": 262
     }
    },
    "workflows": [
@@ -1035,7 +1226,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 74
+     "ms": 117
     }
    },
    "workflows": [
@@ -1238,7 +1429,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 115
+     "ms": 204
     }
    },
    "workflows": [
@@ -1257,11 +1448,6 @@
    ],
    "traffic": {
     "views": [
-     {
-      "date": "2026-10-20",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-21",
       "count": 0,
@@ -1326,14 +1512,14 @@
       "date": "2026-11-02",
       "count": 1,
       "uniques": 1
+     },
+     {
+      "date": "2026-11-03",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "clones": [
-     {
-      "date": "2026-10-20",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-21",
       "count": 0,
@@ -1398,6 +1584,11 @@
       "date": "2026-11-02",
       "count": 46,
       "uniques": 18
+     },
+     {
+      "date": "2026-11-03",
+      "count": 39,
+      "uniques": 21
      }
     ],
     "referrers": [
@@ -1441,7 +1632,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 63
+     "ms": 143
     }
    },
    "workflows": [
@@ -1461,6 +1652,11 @@
    "traffic": {
     "views": [
      {
+      "date": "2026-10-21",
+      "count": 0,
+      "uniques": 0
+     },
+     {
       "date": "2026-10-22",
       "count": 0,
       "uniques": 0
@@ -1522,17 +1718,17 @@
      },
      {
       "date": "2026-11-03",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-04",
-      "count": 0,
-      "uniques": 0
+      "count": 1,
+      "uniques": 1
      }
     ],
     "clones": [
      {
+      "date": "2026-10-21",
+      "count": 0,
+      "uniques": 0
+     },
+     {
       "date": "2026-10-22",
       "count": 0,
       "uniques": 0
@@ -1594,17 +1790,18 @@
      },
      {
       "date": "2026-11-03",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-04",
-      "count": 0,
-      "uniques": 0
+      "count": 85,
+      "uniques": 29
      }
     ],
     "referrers": [],
-    "paths": []
+    "paths": [
+     {
+      "path": "/mediavanity-dev/alchemy",
+      "count": 1,
+      "uniques": 1
+     }
+    ]
    }
   }
  ],
@@ -1615,18 +1812,23 @@
      "users": 35,
      "sessions": 37,
      "views": 47
+    },
+    "2026-11-04": {
+     "users": 3,
+     "sessions": 3,
+     "views": 4
     }
    },
    "pages": [
     {
      "name": "/",
-     "count": 47
+     "count": 51
     }
    ],
    "sources": [
     {
      "name": "(direct)",
-     "count": 37
+     "count": 40
     },
     {
      "name": "(not set)",
@@ -1645,6 +1847,10 @@
     {
      "name": "United Kingdom",
      "count": 4
+    },
+    {
+     "name": "Iran",
+     "count": 2
     },
     {
      "name": "Algeria",
@@ -1666,7 +1872,7 @@
    "devices": [
     {
      "name": "desktop",
-     "count": 22
+     "count": 24
     },
     {
      "name": "mobile",
@@ -1683,20 +1889,20 @@
     },
     "2026-11-04": {
      "users": 2,
-     "sessions": 2,
-     "views": 2
+     "sessions": 3,
+     "views": 3
     }
    },
    "pages": [
     {
      "name": "/fretboard/",
-     "count": 21
+     "count": 22
     }
    ],
    "sources": [
     {
      "name": "(direct)",
-     "count": 17
+     "count": 18
     },
     {
      "name": "(not set)",
@@ -1748,27 +1954,27 @@
      "views": 14
     },
     "2026-11-04": {
-     "users": 1,
-     "sessions": 1,
-     "views": 1
+     "users": 2,
+     "sessions": 2,
+     "views": 2
     }
    },
    "pages": [
     {
      "name": "/chordshapes/",
-     "count": 15
+     "count": 16
     }
    ],
    "sources": [
     {
      "name": "(direct)",
-     "count": 14
+     "count": 15
     }
    ],
    "countries": [
     {
      "name": "United States",
-     "count": 8
+     "count": 9
     },
     {
      "name": "Iran",
@@ -1790,7 +1996,7 @@
    "devices": [
     {
      "name": "desktop",
-     "count": 8
+     "count": 9
     },
     {
      "name": "mobile",
@@ -1804,24 +2010,29 @@
      "users": 5,
      "sessions": 6,
      "views": 6
+    },
+    "2026-11-04": {
+     "users": 1,
+     "sessions": 1,
+     "views": 1
     }
    },
    "pages": [
     {
      "name": "/",
-     "count": 6
+     "count": 7
     }
    ],
    "sources": [
     {
      "name": "(direct)",
-     "count": 6
+     "count": 7
     }
    ],
    "countries": [
     {
      "name": "United States",
-     "count": 5
+     "count": 6
     }
    ],
    "devices": [
@@ -1831,7 +2042,7 @@
     },
     {
      "name": "mobile",
-     "count": 1
+     "count": 2
     }
    ]
   },
