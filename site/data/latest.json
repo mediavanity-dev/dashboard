@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T01:06:51.282Z",
+ "generatedAt": "2026-11-04T01:25:07.117Z",
  "owner": {
   "login": "mediavanity-dev",
   "url": "https://github.com/mediavanity-dev",
@@ -17,9 +17,9 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 0,
-    "pushedAt": "2026-11-04T01:06:03Z",
+    "pushedAt": "2026-11-04T01:24:26Z",
     "createdAt": "2026-11-04T00:14:03Z",
-    "sizeKB": 0
+    "sizeKB": 22
    },
    "site": {
     "url": "https://mediavanity-dev.github.io/dashboard/",
@@ -31,7 +31,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 27
+     "ms": 91
     }
    },
    "workflows": [
@@ -40,11 +40,11 @@
      "state": "active",
      "url": "https://github.com/mediavanity-dev/dashboard/blob/main/.github/workflows/update.yml",
      "run": {
-      "status": "in_progress",
-      "conclusion": null,
-      "event": "workflow_dispatch",
-      "at": "2026-11-04T01:06:40Z",
-      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/41751738402"
+      "status": "completed",
+      "conclusion": "success",
+      "event": "push",
+      "at": "2026-11-04T01:24:28Z",
+      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/41753841282"
      }
     }
    ],
@@ -199,6 +199,437 @@
   },
   {
    "repo": {
+    "name": "fretboard",
+    "url": "https://github.com/mediavanity-dev/fretboard",
+    "description": null,
+    "private": false,
+    "language": "HTML",
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "openIssues": 0,
+    "pushedAt": "2026-11-04T01:24:23Z",
+    "createdAt": "2026-11-04T01:24:18Z",
+    "sizeKB": 0
+   },
+   "site": {
+    "url": "https://mediavanity-dev.github.io/fretboard/",
+    "domain": null,
+    "https": true,
+    "buildType": "legacy",
+    "buildStatus": "built",
+    "builtAt": "2026-11-04T01:24:59Z",
+    "probe": {
+     "ok": true,
+     "status": 200,
+     "ms": 91
+    }
+   },
+   "workflows": [
+    {
+     "name": "pages-build-deployment",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/fretboard/actions/workflows/pages/pages-build-deployment",
+     "run": {
+      "status": "completed",
+      "conclusion": "success",
+      "event": "dynamic",
+      "at": "2026-11-04T01:24:26Z",
+      "url": "https://github.com/mediavanity-dev/fretboard/actions/runs/41753837937"
+     }
+    }
+   ],
+   "traffic": {
+    "views": [
+     {
+      "date": "2026-10-22",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-23",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-24",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-25",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-26",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-27",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-28",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-29",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-30",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-31",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-01",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-02",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-03",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-04",
+      "count": 0,
+      "uniques": 0
+     }
+    ],
+    "clones": [
+     {
+      "date": "2026-10-22",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-23",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-24",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-25",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-26",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-27",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-28",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-29",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-30",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-31",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-01",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-02",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-03",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-04",
+      "count": 0,
+      "uniques": 0
+     }
+    ],
+    "referrers": [],
+    "paths": []
+   }
+  },
+  {
+   "repo": {
+    "name": "dailygeographer",
+    "url": "https://github.com/mediavanity-dev/dailygeographer",
+    "description": "A new country every day",
+    "private": false,
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "openIssues": 0,
+    "pushedAt": "2026-11-04T01:12:32Z",
+    "createdAt": "2026-10-31T17:03:54Z",
+    "sizeKB": 140
+   },
+   "site": {
+    "url": "https://dailygeographer.com/",
+    "domain": "dailygeographer.com",
+    "https": true,
+    "buildType": "workflow",
+    "buildStatus": null,
+    "builtAt": null,
+    "probe": {
+     "ok": true,
+     "status": 200,
+     "ms": 159
+    }
+   },
+   "workflows": [
+    {
+     "name": "Weekly list check",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/dailygeographer/blob/main/.github/workflows/check-list.yml",
+     "run": {
+      "status": "completed",
+      "conclusion": "success",
+      "event": "schedule",
+      "at": "2026-11-02T07:17:03Z",
+      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/41405292638"
+     }
+    },
+    {
+     "name": "Update and deploy",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/dailygeographer/blob/main/.github/workflows/update.yml",
+     "run": {
+      "status": "completed",
+      "conclusion": "success",
+      "event": "schedule",
+      "at": "2026-11-04T01:06:28Z",
+      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/41751715401"
+     }
+    }
+   ],
+   "traffic": {
+    "views": [
+     {
+      "date": "2026-10-20",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-21",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-22",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-23",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-24",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-25",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-26",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-27",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-28",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-29",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-30",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-31",
+      "count": 18,
+      "uniques": 2
+     },
+     {
+      "date": "2026-11-01",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-02",
+      "count": 4,
+      "uniques": 1
+     }
+    ],
+    "clones": [
+     {
+      "date": "2026-10-20",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-21",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-22",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-23",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-24",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-25",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-26",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-27",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-28",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-29",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-30",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-31",
+      "count": 73,
+      "uniques": 22
+     },
+     {
+      "date": "2026-11-01",
+      "count": 28,
+      "uniques": 13
+     },
+     {
+      "date": "2026-11-02",
+      "count": 143,
+      "uniques": 62
+     }
+    ],
+    "referrers": [
+     {
+      "referrer": "github.com",
+      "count": 5,
+      "uniques": 1
+     }
+    ],
+    "paths": [
+     {
+      "path": "/mediavanity-dev/dailygeographer",
+      "count": 7,
+      "uniques": 1
+     },
+     {
+      "path": "/mediavanity-dev/dailygeographer/blob/main/site/index.html",
+      "count": 2,
+      "uniques": 1
+     },
+     {
+      "path": "/mediavanity-dev/dailygeographer/tree/main/site",
+      "count": 2,
+      "uniques": 1
+     },
+     {
+      "path": "/mediavanity-dev/dailygeographer/actions/runs/41229178424",
+      "count": 1,
+      "uniques": 1
+     },
+     {
+      "path": "/mediavanity-dev/dailygeographer/activity",
+      "count": 1,
+      "uniques": 1
+     },
+     {
+      "path": "/mediavanity-dev/dailygeographer/edit/main/site/index.html",
+      "count": 1,
+      "uniques": 1
+     }
+    ]
+   }
+  },
+  {
+   "repo": {
     "name": "chordshapes",
     "url": "https://github.com/mediavanity-dev/chordshapes",
     "description": "Guitar chord shapes in every position and inversion, with progressions and voice leading",
@@ -222,7 +653,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 34
+     "ms": 116
     }
    },
    "workflows": [
@@ -413,7 +844,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 67
+     "ms": 115
     }
    },
    "workflows": [
@@ -616,7 +1047,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 117
+     "ms": 171
     }
    },
    "workflows": [
@@ -796,246 +1227,6 @@
   },
   {
    "repo": {
-    "name": "dailygeographer",
-    "url": "https://github.com/mediavanity-dev/dailygeographer",
-    "description": "A new country every day",
-    "private": false,
-    "language": "JavaScript",
-    "stars": 0,
-    "forks": 0,
-    "watchers": 0,
-    "openIssues": 0,
-    "pushedAt": "2026-11-04T00:25:32Z",
-    "createdAt": "2026-10-31T17:03:54Z",
-    "sizeKB": 140
-   },
-   "site": {
-    "url": "https://dailygeographer.com/",
-    "domain": "dailygeographer.com",
-    "https": true,
-    "buildType": "workflow",
-    "buildStatus": null,
-    "builtAt": null,
-    "probe": {
-     "ok": true,
-     "status": 200,
-     "ms": 84
-    }
-   },
-   "workflows": [
-    {
-     "name": "Weekly list check",
-     "state": "active",
-     "url": "https://github.com/mediavanity-dev/dailygeographer/blob/main/.github/workflows/check-list.yml",
-     "run": {
-      "status": "completed",
-      "conclusion": "success",
-      "event": "schedule",
-      "at": "2026-11-02T07:17:03Z",
-      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/41405292638"
-     }
-    },
-    {
-     "name": "Update and deploy",
-     "state": "active",
-     "url": "https://github.com/mediavanity-dev/dailygeographer/blob/main/.github/workflows/update.yml",
-     "run": {
-      "status": "in_progress",
-      "conclusion": null,
-      "event": "schedule",
-      "at": "2026-11-04T01:06:28Z",
-      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/41751715401"
-     }
-    }
-   ],
-   "traffic": {
-    "views": [
-     {
-      "date": "2026-10-20",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-21",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-22",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-23",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-24",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-25",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-26",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-27",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-28",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-29",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-30",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-31",
-      "count": 18,
-      "uniques": 2
-     },
-     {
-      "date": "2026-11-01",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-02",
-      "count": 4,
-      "uniques": 1
-     }
-    ],
-    "clones": [
-     {
-      "date": "2026-10-20",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-21",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-22",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-23",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-24",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-25",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-26",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-27",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-28",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-29",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-30",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-31",
-      "count": 73,
-      "uniques": 22
-     },
-     {
-      "date": "2026-11-01",
-      "count": 28,
-      "uniques": 13
-     },
-     {
-      "date": "2026-11-02",
-      "count": 143,
-      "uniques": 62
-     }
-    ],
-    "referrers": [
-     {
-      "referrer": "github.com",
-      "count": 5,
-      "uniques": 1
-     }
-    ],
-    "paths": [
-     {
-      "path": "/mediavanity-dev/dailygeographer",
-      "count": 7,
-      "uniques": 1
-     },
-     {
-      "path": "/mediavanity-dev/dailygeographer/blob/main/site/index.html",
-      "count": 2,
-      "uniques": 1
-     },
-     {
-      "path": "/mediavanity-dev/dailygeographer/tree/main/site",
-      "count": 2,
-      "uniques": 1
-     },
-     {
-      "path": "/mediavanity-dev/dailygeographer/actions/runs/41229178424",
-      "count": 1,
-      "uniques": 1
-     },
-     {
-      "path": "/mediavanity-dev/dailygeographer/activity",
-      "count": 1,
-      "uniques": 1
-     },
-     {
-      "path": "/mediavanity-dev/dailygeographer/edit/main/site/index.html",
-      "count": 1,
-      "uniques": 1
-     }
-    ]
-   }
-  },
-  {
-   "repo": {
     "name": "alchemy",
     "url": "https://github.com/mediavanity-dev/alchemy",
     "description": null,
@@ -1059,7 +1250,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 55
+     "ms": 102
     }
    },
    "workflows": [
