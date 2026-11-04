@@ -1,0 +1,60 @@
+name: Update and deploy
+
+on:
+  schedule:
+    - cron: '30 */6 * * *'   # every 6 hours; traffic history only needs one run per 14 days, statuses want more
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Collect data
+        if: github.event_name != 'push'
+        env:
+          GH_TOKEN: ${{ secrets.DASHBOARD_TOKEN }}
+          GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}
+          GA4_CREDENTIALS: ${{ secrets.GA4_CREDENTIALS }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "::error::DASHBOARD_TOKEN secret is missing. See README.md."; exit 1
+          fi
+          node collect.mjs
+      - name: Commit data
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data
+          git diff --cached --quiet || git commit -m "Update data $(date -u +%F\ %H:%M)"
+          # Someone may have pushed while the build ran; replay on top, keeping this run's data if both touched it.
+          git pull --rebase -X theirs
+          git push
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
