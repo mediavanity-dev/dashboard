@@ -1,11 +1,202 @@
 {
- "generatedAt": "2026-11-04T00:51:17.569Z",
+ "generatedAt": "2026-11-04T00:54:25.107Z",
  "owner": {
   "login": "mediavanity-dev",
   "url": "https://github.com/mediavanity-dev",
   "avatar": "https://avatars.githubusercontent.com/u/350796533?v=4"
  },
  "repos": [
+  {
+   "repo": {
+    "name": "dashboard",
+    "url": "https://github.com/mediavanity-dev/dashboard",
+    "description": null,
+    "private": false,
+    "language": "HTML",
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "openIssues": 0,
+    "pushedAt": "2026-11-04T00:51:19Z",
+    "createdAt": "2026-11-04T00:14:03Z",
+    "sizeKB": 0
+   },
+   "site": {
+    "url": "https://mediavanity-dev.github.io/dashboard/",
+    "domain": null,
+    "https": true,
+    "buildType": "workflow",
+    "buildStatus": null,
+    "builtAt": null,
+    "probe": {
+     "ok": true,
+     "status": 200,
+     "ms": 8
+    }
+   },
+   "workflows": [
+    {
+     "name": "Update and deploy",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/dashboard/blob/main/.github/workflows/update.yml",
+     "run": {
+      "status": "in_progress",
+      "conclusion": null,
+      "event": "workflow_dispatch",
+      "at": "2026-11-04T00:54:14Z",
+      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/41750259766"
+     }
+    }
+   ],
+   "traffic": {
+    "views": [
+     {
+      "date": "2026-10-22",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-23",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-24",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-25",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-26",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-27",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-28",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-29",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-30",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-31",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-01",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-02",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-03",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-04",
+      "count": 0,
+      "uniques": 0
+     }
+    ],
+    "clones": [
+     {
+      "date": "2026-10-22",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-23",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-24",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-25",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-26",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-27",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-28",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-29",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-30",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-31",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-01",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-02",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-03",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-04",
+      "count": 0,
+      "uniques": 0
+     }
+    ],
+    "referrers": [],
+    "paths": []
+   }
+  },
   {
    "repo": {
     "name": "standards",
@@ -31,7 +222,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 108
+     "ms": 46
     }
    },
    "workflows": [
@@ -234,7 +425,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 175
+     "ms": 86
     }
    },
    "workflows": [
@@ -437,7 +628,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 208
+     "ms": 77
     }
    },
    "workflows": [
@@ -677,7 +868,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 141
+     "ms": 43
     }
    },
    "workflows": [
@@ -691,197 +882,6 @@
       "event": "dynamic",
       "at": "2026-11-04T00:25:32Z",
       "url": "https://github.com/mediavanity-dev/alchemy/actions/runs/41746716582"
-     }
-    }
-   ],
-   "traffic": {
-    "views": [
-     {
-      "date": "2026-10-22",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-23",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-24",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-25",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-26",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-27",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-28",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-29",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-30",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-31",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-01",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-02",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-03",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-04",
-      "count": 0,
-      "uniques": 0
-     }
-    ],
-    "clones": [
-     {
-      "date": "2026-10-22",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-23",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-24",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-25",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-26",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-27",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-28",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-29",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-30",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-31",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-01",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-02",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-03",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-04",
-      "count": 0,
-      "uniques": 0
-     }
-    ],
-    "referrers": [],
-    "paths": []
-   }
-  },
-  {
-   "repo": {
-    "name": "dashboard",
-    "url": "https://github.com/mediavanity-dev/dashboard",
-    "description": null,
-    "private": false,
-    "language": "HTML",
-    "stars": 0,
-    "forks": 0,
-    "watchers": 0,
-    "openIssues": 0,
-    "pushedAt": "2026-11-04T00:18:07Z",
-    "createdAt": "2026-11-04T00:14:03Z",
-    "sizeKB": 0
-   },
-   "site": {
-    "url": "https://mediavanity-dev.github.io/dashboard/",
-    "domain": null,
-    "https": true,
-    "buildType": "workflow",
-    "buildStatus": null,
-    "builtAt": null,
-    "probe": {
-     "ok": true,
-     "status": 200,
-     "ms": 109
-    }
-   },
-   "workflows": [
-    {
-     "name": "Update and deploy",
-     "state": "active",
-     "url": "https://github.com/mediavanity-dev/dashboard/blob/main/.github/workflows/update.yml",
-     "run": {
-      "status": "in_progress",
-      "conclusion": null,
-      "event": "workflow_dispatch",
-      "at": "2026-11-04T00:51:04Z",
-      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/41749879252"
      }
     }
    ],
