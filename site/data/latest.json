@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T01:25:07.117Z",
+ "generatedAt": "2026-11-04T01:30:44.353Z",
  "owner": {
   "login": "mediavanity-dev",
   "url": "https://github.com/mediavanity-dev",
@@ -17,7 +17,7 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 0,
-    "pushedAt": "2026-11-04T01:24:26Z",
+    "pushedAt": "2026-11-04T01:25:08Z",
     "createdAt": "2026-11-04T00:14:03Z",
     "sizeKB": 22
    },
@@ -31,7 +31,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 91
+     "ms": 38
     }
    },
    "workflows": [
@@ -40,11 +40,11 @@
      "state": "active",
      "url": "https://github.com/mediavanity-dev/dashboard/blob/main/.github/workflows/update.yml",
      "run": {
-      "status": "completed",
-      "conclusion": "success",
-      "event": "push",
-      "at": "2026-11-04T01:24:28Z",
-      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/41753841282"
+      "status": "in_progress",
+      "conclusion": null,
+      "event": "schedule",
+      "at": "2026-11-04T01:30:30Z",
+      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/41754521835"
      }
     }
    ],
@@ -201,7 +201,7 @@
    "repo": {
     "name": "fretboard",
     "url": "https://github.com/mediavanity-dev/fretboard",
-    "description": null,
+    "description": "Learn the guitar neck by playing it: the app asks, you play, the microphone checks",
     "private": false,
     "language": "HTML",
     "stars": 0,
@@ -222,7 +222,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 91
+     "ms": 39
     }
    },
    "workflows": [
@@ -413,7 +413,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 159
+     "ms": 57
     }
    },
    "workflows": [
@@ -653,7 +653,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 116
+     "ms": 39
     }
    },
    "workflows": [
@@ -832,7 +832,7 @@
     "openIssues": 0,
     "pushedAt": "2026-11-04T00:25:36Z",
     "createdAt": "2026-11-02T04:01:35Z",
-    "sizeKB": 56
+    "sizeKB": 84
    },
    "site": {
     "url": "https://mediavanity-dev.github.io/standards/",
@@ -844,7 +844,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 115
+     "ms": 70
     }
    },
    "workflows": [
@@ -1035,7 +1035,7 @@
     "openIssues": 0,
     "pushedAt": "2026-11-04T00:25:34Z",
     "createdAt": "2026-11-02T02:16:33Z",
-    "sizeKB": 53
+    "sizeKB": 67
    },
    "site": {
     "url": "https://dailyditch.com/",
@@ -1047,7 +1047,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 171
+     "ms": 108
     }
    },
    "workflows": [
@@ -1250,7 +1250,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 102
+     "ms": 66
     }
    },
    "workflows": [
