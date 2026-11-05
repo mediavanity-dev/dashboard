@@ -55,7 +55,7 @@ GitHub → Settings → Developer settings → Fine-grained tokens → Generate 
 ## Connecting Google Analytics
 
 1. **Make the property.** https://analytics.google.com → Admin → Create → Property (one property for all sites). Add a **Web** data stream for `dailygeographer.com`. Copy its Measurement ID (`G-XXXXXXXXXX`). The same tag goes on every site; the dashboard separates them by domain and path.
-2. **Tag the sites.** Put the Google tag in the `<head>` of each site (dailygeographer, dailyditch, standards, alchemy, chordshapes, fretboard, timesbane).
+2. **Tag the sites.** Put the Google tag in the `<head>` of each site (dailygeographer, dailyditch, standards, alchemy, chordshapes, wholeguitar, timesbane).
 3. **Let the dashboard read it.** In https://console.cloud.google.com: create a project, enable the **Google Analytics Data API**, create a **service account**, and add a JSON key (downloads a file). Then in Analytics → Admin → Property access management, add the service account's email as **Viewer**.
 4. **Add the secrets** `GA4_PROPERTY_ID` (Admin → Property details) and `GA4_CREDENTIALS` (paste the JSON file's contents), then run the workflow (Actions → Update and deploy → Run workflow).
 
