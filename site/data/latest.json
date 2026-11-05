@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T07:44:57.046Z",
+ "generatedAt": "2026-11-05T13:40:27.301Z",
  "owner": {
   "login": "mediavanity-dev",
   "url": "https://github.com/mediavanity-dev",
@@ -17,7 +17,7 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 0,
-    "pushedAt": "2026-11-05T07:27:41Z",
+    "pushedAt": "2026-11-05T13:18:13Z",
     "createdAt": "2026-10-31T17:03:54Z",
     "sizeKB": 146
    },
@@ -31,7 +31,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 329
+     "ms": 92
     }
    },
    "workflows": [
@@ -55,8 +55,8 @@
       "status": "completed",
       "conclusion": "success",
       "event": "schedule",
-      "at": "2026-11-05T07:22:58Z",
-      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/41986834448"
+      "at": "2026-11-05T13:14:40Z",
+      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/42034040447"
      }
     }
    ],
@@ -248,6 +248,197 @@
   },
   {
    "repo": {
+    "name": "dashboard",
+    "url": "https://github.com/mediavanity-dev/dashboard",
+    "description": null,
+    "private": false,
+    "language": "HTML",
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "openIssues": 0,
+    "pushedAt": "2026-11-05T07:44:58Z",
+    "createdAt": "2026-11-04T00:14:03Z",
+    "sizeKB": 45
+   },
+   "site": {
+    "url": "https://mediavanity-dev.github.io/dashboard/",
+    "domain": null,
+    "https": true,
+    "buildType": "workflow",
+    "buildStatus": null,
+    "builtAt": null,
+    "probe": {
+     "ok": true,
+     "status": 200,
+     "ms": 36
+    }
+   },
+   "workflows": [
+    {
+     "name": "Update and deploy",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/dashboard/blob/main/.github/workflows/update.yml",
+     "run": {
+      "status": "in_progress",
+      "conclusion": null,
+      "event": "schedule",
+      "at": "2026-11-05T13:40:13Z",
+      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/42037810941"
+     }
+    }
+   ],
+   "traffic": {
+    "views": [
+     {
+      "date": "2026-10-23",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-24",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-25",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-26",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-27",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-28",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-29",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-30",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-31",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-01",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-02",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-03",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-04",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-05",
+      "count": 0,
+      "uniques": 0
+     }
+    ],
+    "clones": [
+     {
+      "date": "2026-10-23",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-24",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-25",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-26",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-27",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-28",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-29",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-30",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-31",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-01",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-02",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-03",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-04",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-05",
+      "count": 0,
+      "uniques": 0
+     }
+    ],
+    "referrers": [],
+    "paths": []
+   }
+  },
+  {
+   "repo": {
     "name": "OpenWorld",
     "url": "https://github.com/mediavanity-dev/OpenWorld",
     "description": null,
@@ -271,7 +462,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 116
+     "ms": 155
     }
    },
    "workflows": [
@@ -474,7 +665,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 91
+     "ms": 42
     }
    },
    "workflows": [
@@ -642,197 +833,6 @@
   },
   {
    "repo": {
-    "name": "dashboard",
-    "url": "https://github.com/mediavanity-dev/dashboard",
-    "description": null,
-    "private": false,
-    "language": "HTML",
-    "stars": 0,
-    "forks": 0,
-    "watchers": 0,
-    "openIssues": 0,
-    "pushedAt": "2026-11-05T03:05:13Z",
-    "createdAt": "2026-11-04T00:14:03Z",
-    "sizeKB": 43
-   },
-   "site": {
-    "url": "https://mediavanity-dev.github.io/dashboard/",
-    "domain": null,
-    "https": true,
-    "buildType": "workflow",
-    "buildStatus": null,
-    "builtAt": null,
-    "probe": {
-     "ok": true,
-     "status": 200,
-     "ms": 143
-    }
-   },
-   "workflows": [
-    {
-     "name": "Update and deploy",
-     "state": "active",
-     "url": "https://github.com/mediavanity-dev/dashboard/blob/main/.github/workflows/update.yml",
-     "run": {
-      "status": "in_progress",
-      "conclusion": null,
-      "event": "schedule",
-      "at": "2026-11-05T07:44:41Z",
-      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/41989372467"
-     }
-    }
-   ],
-   "traffic": {
-    "views": [
-     {
-      "date": "2026-10-23",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-24",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-25",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-26",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-27",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-28",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-29",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-30",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-31",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-01",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-02",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-03",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-04",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-05",
-      "count": 0,
-      "uniques": 0
-     }
-    ],
-    "clones": [
-     {
-      "date": "2026-10-23",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-24",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-25",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-26",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-27",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-28",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-29",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-30",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-31",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-01",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-02",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-03",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-04",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-05",
-      "count": 0,
-      "uniques": 0
-     }
-    ],
-    "referrers": [],
-    "paths": []
-   }
-  },
-  {
-   "repo": {
     "name": "alchemy",
     "url": "https://github.com/mediavanity-dev/alchemy",
     "description": null,
@@ -856,7 +856,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 147
+     "ms": 207
     }
    },
    "workflows": [
@@ -1053,7 +1053,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 209
+     "ms": 100
     }
    },
    "workflows": [
@@ -1261,7 +1261,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 108
+     "ms": 224
     }
    },
    "workflows": [
@@ -1452,7 +1452,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 126
+     "ms": 39
     }
    },
    "workflows": [
@@ -1655,7 +1655,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 182
+     "ms": 107
     }
    },
    "workflows": [
@@ -1843,21 +1843,26 @@
      "views": 47
     },
     "2026-11-04": {
-     "users": 18,
-     "sessions": 25,
-     "views": 34
+     "users": 19,
+     "sessions": 26,
+     "views": 36
+    },
+    "2026-11-05": {
+     "users": 1,
+     "sessions": 1,
+     "views": 1
     }
    },
    "pages": [
     {
      "name": "/",
-     "count": 81
+     "count": 84
     }
    ],
    "sources": [
     {
      "name": "(direct)",
-     "count": 62
+     "count": 64
     },
     {
      "name": "(not set)",
@@ -1867,7 +1872,7 @@
    "countries": [
     {
      "name": "United States",
-     "count": 34
+     "count": 36
     },
     {
      "name": "Netherlands",
@@ -1901,11 +1906,68 @@
    "devices": [
     {
      "name": "desktop",
-     "count": 33
+     "count": 35
     },
     {
      "name": "mobile",
      "count": 17
+    }
+   ]
+  },
+  "wholeguitar": {
+   "daily": {
+    "2026-11-04": {
+     "users": 18,
+     "sessions": 18,
+     "views": 19
+    }
+   },
+   "pages": [
+    {
+     "name": "/wholeguitar/",
+     "count": 39
+    }
+   ],
+   "sources": [
+    {
+     "name": "(direct)",
+     "count": 18
+    }
+   ],
+   "countries": [
+    {
+     "name": "United States",
+     "count": 10
+    },
+    {
+     "name": "Netherlands",
+     "count": 3
+    },
+    {
+     "name": "United Kingdom",
+     "count": 2
+    },
+    {
+     "name": "Canada",
+     "count": 1
+    },
+    {
+     "name": "Cyprus",
+     "count": 1
+    },
+    {
+     "name": "Iran",
+     "count": 1
+    }
+   ],
+   "devices": [
+    {
+     "name": "desktop",
+     "count": 13
+    },
+    {
+     "name": "mobile",
+     "count": 5
     }
    ]
   },
@@ -2037,59 +2099,6 @@
     }
    ]
   },
-  "wholeguitar": {
-   "daily": {
-    "2026-11-04": {
-     "users": 10,
-     "sessions": 10,
-     "views": 10
-    }
-   },
-   "pages": [
-    {
-     "name": "/wholeguitar/",
-     "count": 30
-    }
-   ],
-   "sources": [
-    {
-     "name": "(direct)",
-     "count": 10
-    }
-   ],
-   "countries": [
-    {
-     "name": "United States",
-     "count": 4
-    },
-    {
-     "name": "Netherlands",
-     "count": 3
-    },
-    {
-     "name": "Canada",
-     "count": 1
-    },
-    {
-     "name": "Iran",
-     "count": 1
-    },
-    {
-     "name": "United Kingdom",
-     "count": 1
-    }
-   ],
-   "devices": [
-    {
-     "name": "desktop",
-     "count": 9
-    },
-    {
-     "name": "mobile",
-     "count": 1
-    }
-   ]
-  },
   "dailygeographer": {
    "daily": {
     "2026-11-03": {
@@ -2099,20 +2108,24 @@
     },
     "2026-11-04": {
      "users": 2,
-     "sessions": 6,
-     "views": 6
+     "sessions": 7,
+     "views": 7
     }
    },
    "pages": [
     {
      "name": "/",
-     "count": 12
+     "count": 13
     }
    ],
    "sources": [
     {
      "name": "(direct)",
      "count": 12
+    },
+    {
+     "name": "mediavanity-dev.github.io",
+     "count": 1
     }
    ],
    "countries": [
