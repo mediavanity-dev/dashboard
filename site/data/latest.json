@@ -1,429 +1,11 @@
 {
- "generatedAt": "2026-11-05T19:47:00.670Z",
+ "generatedAt": "2026-11-05T22:05:16.397Z",
  "owner": {
   "login": "mediavanity-dev",
   "url": "https://github.com/mediavanity-dev",
   "avatar": "https://avatars.githubusercontent.com/u/350796533?v=4"
  },
  "repos": [
-  {
-   "repo": {
-    "name": "OpenWorld",
-    "url": "https://github.com/mediavanity-dev/OpenWorld",
-    "description": null,
-    "private": false,
-    "language": "JavaScript",
-    "stars": 0,
-    "forks": 0,
-    "watchers": 0,
-    "openIssues": 0,
-    "pushedAt": "2026-11-05T19:32:30Z",
-    "createdAt": "2026-11-04T18:20:59Z",
-    "sizeKB": 654
-   },
-   "site": {
-    "url": "https://mediavanity-dev.github.io/OpenWorld/",
-    "domain": null,
-    "https": true,
-    "buildType": "workflow",
-    "buildStatus": null,
-    "builtAt": null,
-    "probe": {
-     "ok": true,
-     "status": 200,
-     "ms": 123
-    }
-   },
-   "workflows": [
-    {
-     "name": "Checks",
-     "state": "active",
-     "url": "https://github.com/mediavanity-dev/OpenWorld/blob/main/.github/workflows/checks.yml",
-     "run": {
-      "status": "completed",
-      "conclusion": "success",
-      "event": "pull_request",
-      "at": "2026-11-05T19:29:25Z",
-      "url": "https://github.com/mediavanity-dev/OpenWorld/actions/runs/42094360686"
-     }
-    },
-    {
-     "name": "Deploy to GitHub Pages",
-     "state": "active",
-     "url": "https://github.com/mediavanity-dev/OpenWorld/blob/main/.github/workflows/pages.yml",
-     "run": {
-      "status": "completed",
-      "conclusion": "success",
-      "event": "push",
-      "at": "2026-11-05T19:32:32Z",
-      "url": "https://github.com/mediavanity-dev/OpenWorld/actions/runs/42094865034"
-     }
-    }
-   ],
-   "traffic": {
-    "views": [
-     {
-      "date": "2026-10-22",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-23",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-24",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-25",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-26",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-27",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-28",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-29",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-30",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-31",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-01",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-02",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-03",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-04",
-      "count": 1,
-      "uniques": 1
-     }
-    ],
-    "clones": [
-     {
-      "date": "2026-10-22",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-23",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-24",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-25",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-26",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-27",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-28",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-29",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-30",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-31",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-01",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-02",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-03",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-04",
-      "count": 49,
-      "uniques": 19
-     }
-    ],
-    "referrers": [
-     {
-      "referrer": "github.com",
-      "count": 1,
-      "uniques": 1
-     }
-    ],
-    "paths": [
-     {
-      "path": "/mediavanity-dev/OpenWorld",
-      "count": 1,
-      "uniques": 1
-     }
-    ]
-   }
-  },
-  {
-   "repo": {
-    "name": "dashboard",
-    "url": "https://github.com/mediavanity-dev/dashboard",
-    "description": null,
-    "private": false,
-    "language": "HTML",
-    "stars": 0,
-    "forks": 0,
-    "watchers": 0,
-    "openIssues": 0,
-    "pushedAt": "2026-11-05T19:23:37Z",
-    "createdAt": "2026-11-04T00:14:03Z",
-    "sizeKB": 46
-   },
-   "site": {
-    "url": "https://mediavanity-dev.github.io/dashboard/",
-    "domain": null,
-    "https": true,
-    "buildType": "workflow",
-    "buildStatus": null,
-    "builtAt": null,
-    "probe": {
-     "ok": true,
-     "status": 200,
-     "ms": 94
-    }
-   },
-   "workflows": [
-    {
-     "name": "Update and deploy",
-     "state": "active",
-     "url": "https://github.com/mediavanity-dev/dashboard/blob/main/.github/workflows/update.yml",
-     "run": {
-      "status": "in_progress",
-      "conclusion": null,
-      "event": "workflow_dispatch",
-      "at": "2026-11-05T19:46:44Z",
-      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/42097125267"
-     }
-    }
-   ],
-   "traffic": {
-    "views": [
-     {
-      "date": "2026-10-22",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-23",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-24",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-25",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-26",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-27",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-28",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-29",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-30",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-31",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-01",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-02",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-03",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-04",
-      "count": 2,
-      "uniques": 1
-     }
-    ],
-    "clones": [
-     {
-      "date": "2026-10-22",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-23",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-24",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-25",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-26",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-27",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-28",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-29",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-30",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-31",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-01",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-02",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-03",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-04",
-      "count": 165,
-      "uniques": 64
-     }
-    ],
-    "referrers": [
-     {
-      "referrer": "mediavanity-dev.github.io",
-      "count": 1,
-      "uniques": 1
-     }
-    ],
-    "paths": [
-     {
-      "path": "/mediavanity-dev/dashboard",
-      "count": 2,
-      "uniques": 1
-     }
-    ]
-   }
-  },
   {
    "repo": {
     "name": "dailygeographer",
@@ -435,9 +17,9 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 0,
-    "pushedAt": "2026-11-05T19:02:10Z",
+    "pushedAt": "2026-11-05T22:03:43Z",
     "createdAt": "2026-10-31T17:03:54Z",
-    "sizeKB": 147
+    "sizeKB": 148
    },
    "site": {
     "url": "https://dailygeographer.com/",
@@ -470,11 +52,11 @@
      "state": "active",
      "url": "https://github.com/mediavanity-dev/dailygeographer/blob/main/.github/workflows/update.yml",
      "run": {
-      "status": "completed",
-      "conclusion": "success",
-      "event": "schedule",
-      "at": "2026-11-05T18:58:21Z",
-      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/42089365983"
+      "status": "in_progress",
+      "conclusion": null,
+      "event": "workflow_dispatch",
+      "at": "2026-11-05T22:04:59Z",
+      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/42118374341"
      }
     }
    ],
@@ -666,6 +248,424 @@
   },
   {
    "repo": {
+    "name": "dashboard",
+    "url": "https://github.com/mediavanity-dev/dashboard",
+    "description": null,
+    "private": false,
+    "language": "HTML",
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "openIssues": 0,
+    "pushedAt": "2026-11-05T22:03:37Z",
+    "createdAt": "2026-11-04T00:14:03Z",
+    "sizeKB": 53
+   },
+   "site": {
+    "url": "https://mediavanity-dev.github.io/dashboard/",
+    "domain": null,
+    "https": true,
+    "buildType": "workflow",
+    "buildStatus": null,
+    "builtAt": null,
+    "probe": {
+     "ok": true,
+     "status": 200,
+     "ms": 46
+    }
+   },
+   "workflows": [
+    {
+     "name": "Update and deploy",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/dashboard/blob/main/.github/workflows/update.yml",
+     "run": {
+      "status": "in_progress",
+      "conclusion": null,
+      "event": "workflow_dispatch",
+      "at": "2026-11-05T22:04:57Z",
+      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/42118370160"
+     }
+    }
+   ],
+   "traffic": {
+    "views": [
+     {
+      "date": "2026-10-22",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-23",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-24",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-25",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-26",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-27",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-28",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-29",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-30",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-31",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-01",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-02",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-03",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-04",
+      "count": 2,
+      "uniques": 1
+     }
+    ],
+    "clones": [
+     {
+      "date": "2026-10-22",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-23",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-24",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-25",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-26",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-27",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-28",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-29",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-30",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-31",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-01",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-02",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-03",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-04",
+      "count": 165,
+      "uniques": 64
+     }
+    ],
+    "referrers": [
+     {
+      "referrer": "mediavanity-dev.github.io",
+      "count": 1,
+      "uniques": 1
+     }
+    ],
+    "paths": [
+     {
+      "path": "/mediavanity-dev/dashboard",
+      "count": 2,
+      "uniques": 1
+     }
+    ]
+   }
+  },
+  {
+   "repo": {
+    "name": "OpenWorld",
+    "url": "https://github.com/mediavanity-dev/OpenWorld",
+    "description": null,
+    "private": false,
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "openIssues": 0,
+    "pushedAt": "2026-11-05T19:32:30Z",
+    "createdAt": "2026-11-04T18:20:59Z",
+    "sizeKB": 833
+   },
+   "site": {
+    "url": "https://mediavanity-dev.github.io/OpenWorld/",
+    "domain": null,
+    "https": true,
+    "buildType": "workflow",
+    "buildStatus": null,
+    "builtAt": null,
+    "probe": {
+     "ok": true,
+     "status": 200,
+     "ms": 65
+    }
+   },
+   "workflows": [
+    {
+     "name": "Checks",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/OpenWorld/blob/main/.github/workflows/checks.yml",
+     "run": {
+      "status": "completed",
+      "conclusion": "success",
+      "event": "pull_request",
+      "at": "2026-11-05T19:29:25Z",
+      "url": "https://github.com/mediavanity-dev/OpenWorld/actions/runs/42094360686"
+     }
+    },
+    {
+     "name": "Deploy to GitHub Pages",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/OpenWorld/blob/main/.github/workflows/pages.yml",
+     "run": {
+      "status": "completed",
+      "conclusion": "success",
+      "event": "push",
+      "at": "2026-11-05T19:32:32Z",
+      "url": "https://github.com/mediavanity-dev/OpenWorld/actions/runs/42094865034"
+     }
+    }
+   ],
+   "traffic": {
+    "views": [
+     {
+      "date": "2026-10-22",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-23",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-24",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-25",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-26",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-27",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-28",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-29",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-30",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-31",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-01",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-02",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-03",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-04",
+      "count": 1,
+      "uniques": 1
+     }
+    ],
+    "clones": [
+     {
+      "date": "2026-10-22",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-23",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-24",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-25",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-26",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-27",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-28",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-29",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-30",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-31",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-01",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-02",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-03",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-04",
+      "count": 49,
+      "uniques": 19
+     }
+    ],
+    "referrers": [
+     {
+      "referrer": "github.com",
+      "count": 1,
+      "uniques": 1
+     }
+    ],
+    "paths": [
+     {
+      "path": "/mediavanity-dev/OpenWorld",
+      "count": 1,
+      "uniques": 1
+     }
+    ]
+   }
+  },
+  {
+   "repo": {
     "name": "wholeguitar",
     "url": "https://github.com/mediavanity-dev/wholeguitar",
     "description": "Learn the guitar neck by playing it: the app asks, you play, the microphone checks",
@@ -689,7 +689,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 111
+     "ms": 73
     }
    },
    "workflows": [
@@ -880,7 +880,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 146
+     "ms": 276
     }
    },
    "workflows": [
@@ -1077,7 +1077,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 192
+     "ms": 307
     }
    },
    "workflows": [
@@ -1285,7 +1285,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 137
+     "ms": 78
     }
    },
    "workflows": [
@@ -1476,7 +1476,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 94
+     "ms": 68
     }
    },
    "workflows": [
@@ -1679,7 +1679,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 257
+     "ms": 157
     }
    },
    "workflows": [
@@ -2134,18 +2134,23 @@
      "users": 2,
      "sessions": 7,
      "views": 7
+    },
+    "2026-11-05": {
+     "users": 1,
+     "sessions": 1,
+     "views": 1
     }
    },
    "pages": [
     {
      "name": "/",
-     "count": 13
+     "count": 14
     }
    ],
    "sources": [
     {
      "name": "(direct)",
-     "count": 12
+     "count": 13
     },
     {
      "name": "mediavanity-dev.github.io",
@@ -2155,7 +2160,7 @@
    "countries": [
     {
      "name": "United States",
-     "count": 7
+     "count": 8
     }
    ],
    "devices": [
@@ -2165,7 +2170,7 @@
     },
     {
      "name": "mobile",
-     "count": 2
+     "count": 3
     }
    ]
   },
@@ -2176,12 +2181,12 @@
      "sessions": 7,
      "views": 10
     },
-    "2026-11-03": {
-     "users": 1,
-     "sessions": 1,
-     "views": 1
-    },
     "2026-11-05": {
+     "users": 4,
+     "sessions": 5,
+     "views": 5
+    },
+    "2026-11-03": {
      "users": 1,
      "sessions": 1,
      "views": 1
@@ -2190,22 +2195,22 @@
    "pages": [
     {
      "name": "/alchemy/",
-     "count": 12
+     "count": 16
     }
    ],
    "sources": [
     {
      "name": "(direct)",
-     "count": 9
+     "count": 13
     }
    ],
    "countries": [
     {
-     "name": "Czechia",
-     "count": 2
+     "name": "United States",
+     "count": 4
     },
     {
-     "name": "United States",
+     "name": "Czechia",
      "count": 2
     },
     {
@@ -2224,7 +2229,7 @@
    "devices": [
     {
      "name": "mobile",
-     "count": 5
+     "count": 7
     },
     {
      "name": "desktop",
@@ -2289,27 +2294,32 @@
      "users": 1,
      "sessions": 1,
      "views": 2
+    },
+    "2026-11-05": {
+     "users": 1,
+     "sessions": 1,
+     "views": 1
     }
    },
    "pages": [
     {
      "name": "/",
-     "count": 3
+     "count": 4
     }
    ],
    "sources": [
     {
      "name": "(direct)",
-     "count": 2
+     "count": 3
     }
    ],
    "countries": [
     {
-     "name": "Germany",
-     "count": 1
+     "name": "United States",
+     "count": 2
     },
     {
-     "name": "United States",
+     "name": "Germany",
      "count": 1
     }
    ],
@@ -2317,6 +2327,10 @@
     {
      "name": "desktop",
      "count": 2
+    },
+    {
+     "name": "mobile",
+     "count": 1
     }
    ]
   }
