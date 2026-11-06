@@ -89,6 +89,12 @@
    "viewUniques": 0,
    "clones": 0,
    "cloneUniques": 0
+  },
+  "2026-11-05": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 14,
+   "cloneUniques": 7
   }
  },
  "dailygeographer": {
@@ -291,6 +297,12 @@
    "viewUniques": 1,
    "clones": 20,
    "cloneUniques": 12
+  },
+  "2026-11-05": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 1,
+   "cloneUniques": 1
   }
  },
  "dailyditch": {
