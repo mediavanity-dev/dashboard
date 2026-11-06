@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T01:39:17.226Z",
+ "generatedAt": "2026-11-06T07:42:32.455Z",
  "owner": {
   "login": "mediavanity-dev",
   "url": "https://github.com/mediavanity-dev",
@@ -17,7 +17,7 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 0,
-    "pushedAt": "2026-11-06T01:15:00Z",
+    "pushedAt": "2026-11-06T07:27:32Z",
     "createdAt": "2026-10-31T17:03:54Z",
     "sizeKB": 163
    },
@@ -31,7 +31,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 188
+     "ms": 182
     }
    },
    "workflows": [
@@ -55,18 +55,13 @@
       "status": "completed",
       "conclusion": "success",
       "event": "schedule",
-      "at": "2026-11-06T01:12:24Z",
-      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/42142249197"
+      "at": "2026-11-06T07:20:03Z",
+      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/42180174544"
      }
     }
    ],
    "traffic": {
     "views": [
-     {
-      "date": "2026-10-22",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-23",
       "count": 0,
@@ -131,14 +126,14 @@
       "date": "2026-11-04",
       "count": 1,
       "uniques": 1
+     },
+     {
+      "date": "2026-11-05",
+      "count": 1,
+      "uniques": 1
      }
     ],
     "clones": [
-     {
-      "date": "2026-10-22",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-23",
       "count": 0,
@@ -203,6 +198,11 @@
       "date": "2026-11-04",
       "count": 42,
       "uniques": 18
+     },
+     {
+      "date": "2026-11-05",
+      "count": 64,
+      "uniques": 25
      }
     ],
     "referrers": [
@@ -210,12 +210,17 @@
       "referrer": "github.com",
       "count": 6,
       "uniques": 1
+     },
+     {
+      "referrer": "mediavanity-dev.github.io",
+      "count": 1,
+      "uniques": 1
      }
     ],
     "paths": [
      {
       "path": "/mediavanity-dev/dailygeographer",
-      "count": 8,
+      "count": 9,
       "uniques": 1
      },
      {
@@ -248,214 +253,6 @@
   },
   {
    "repo": {
-    "name": "timesbane",
-    "url": "https://github.com/mediavanity-dev/timesbane",
-    "description": "A piece of art that does not explain itself.",
-    "private": false,
-    "language": "HTML",
-    "stars": 0,
-    "forks": 0,
-    "watchers": 0,
-    "openIssues": 0,
-    "pushedAt": "2026-11-05T23:26:23Z",
-    "createdAt": "2026-11-04T02:05:28Z",
-    "sizeKB": 166
-   },
-   "site": {
-    "url": "https://timesbane.com/",
-    "domain": "timesbane.com",
-    "https": true,
-    "buildType": "legacy",
-    "buildStatus": "built",
-    "builtAt": "2026-11-05T23:26:56Z",
-    "probe": {
-     "ok": true,
-     "status": 200,
-     "ms": 274
-    }
-   },
-   "workflows": [
-    {
-     "name": "pages-build-deployment",
-     "state": "active",
-     "url": "https://github.com/mediavanity-dev/timesbane/actions/workflows/pages/pages-build-deployment",
-     "run": {
-      "status": "completed",
-      "conclusion": "success",
-      "event": "dynamic",
-      "at": "2026-11-05T23:26:24Z",
-      "url": "https://github.com/mediavanity-dev/timesbane/actions/runs/42129231525"
-     }
-    }
-   ],
-   "traffic": {
-    "views": [
-     {
-      "date": "2026-10-22",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-23",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-24",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-25",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-26",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-27",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-28",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-29",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-30",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-31",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-01",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-02",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-03",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-04",
-      "count": 3,
-      "uniques": 1
-     }
-    ],
-    "clones": [
-     {
-      "date": "2026-10-22",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-23",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-24",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-25",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-26",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-27",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-28",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-29",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-30",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-31",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-01",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-02",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-03",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-04",
-      "count": 124,
-      "uniques": 56
-     }
-    ],
-    "referrers": [
-     {
-      "referrer": "github.com",
-      "count": 1,
-      "uniques": 1
-     }
-    ],
-    "paths": [
-     {
-      "path": "/mediavanity-dev/timesbane",
-      "count": 2,
-      "uniques": 1
-     },
-     {
-      "path": "/mediavanity-dev/timesbane/blob/main/index.html",
-      "count": 1,
-      "uniques": 1
-     }
-    ]
-   }
-  },
-  {
-   "repo": {
     "name": "dashboard",
     "url": "https://github.com/mediavanity-dev/dashboard",
     "description": null,
@@ -465,9 +262,9 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 0,
-    "pushedAt": "2026-11-05T22:05:18Z",
+    "pushedAt": "2026-11-06T01:39:18Z",
     "createdAt": "2026-11-04T00:14:03Z",
-    "sizeKB": 54
+    "sizeKB": 56
    },
    "site": {
     "url": "https://mediavanity-dev.github.io/dashboard/",
@@ -479,7 +276,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 99
+     "ms": 113
     }
    },
    "workflows": [
@@ -491,18 +288,13 @@
       "status": "in_progress",
       "conclusion": null,
       "event": "schedule",
-      "at": "2026-11-06T01:38:57Z",
-      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/42145227509"
+      "at": "2026-11-06T07:42:11Z",
+      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/42182605745"
      }
     }
    ],
    "traffic": {
     "views": [
-     {
-      "date": "2026-10-22",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-23",
       "count": 0,
@@ -567,14 +359,14 @@
       "date": "2026-11-04",
       "count": 2,
       "uniques": 1
+     },
+     {
+      "date": "2026-11-05",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "clones": [
-     {
-      "date": "2026-10-22",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-23",
       "count": 0,
@@ -639,6 +431,11 @@
       "date": "2026-11-04",
       "count": 165,
       "uniques": 64
+     },
+     {
+      "date": "2026-11-05",
+      "count": 66,
+      "uniques": 24
      }
     ],
     "referrers": [
@@ -652,6 +449,219 @@
      {
       "path": "/mediavanity-dev/dashboard",
       "count": 2,
+      "uniques": 1
+     }
+    ]
+   }
+  },
+  {
+   "repo": {
+    "name": "timesbane",
+    "url": "https://github.com/mediavanity-dev/timesbane",
+    "description": "A piece of art that does not explain itself.",
+    "private": false,
+    "language": "HTML",
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "openIssues": 0,
+    "pushedAt": "2026-11-05T23:26:23Z",
+    "createdAt": "2026-11-04T02:05:28Z",
+    "sizeKB": 166
+   },
+   "site": {
+    "url": "https://timesbane.com/",
+    "domain": "timesbane.com",
+    "https": true,
+    "buildType": "legacy",
+    "buildStatus": "built",
+    "builtAt": "2026-11-05T23:26:56Z",
+    "probe": {
+     "ok": true,
+     "status": 200,
+     "ms": 257
+    }
+   },
+   "workflows": [
+    {
+     "name": "pages-build-deployment",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/timesbane/actions/workflows/pages/pages-build-deployment",
+     "run": {
+      "status": "completed",
+      "conclusion": "success",
+      "event": "dynamic",
+      "at": "2026-11-05T23:26:24Z",
+      "url": "https://github.com/mediavanity-dev/timesbane/actions/runs/42129231525"
+     }
+    }
+   ],
+   "traffic": {
+    "views": [
+     {
+      "date": "2026-10-23",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-24",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-25",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-26",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-27",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-28",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-29",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-30",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-31",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-01",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-02",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-03",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-04",
+      "count": 3,
+      "uniques": 1
+     },
+     {
+      "date": "2026-11-05",
+      "count": 1,
+      "uniques": 1
+     }
+    ],
+    "clones": [
+     {
+      "date": "2026-10-23",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-24",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-25",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-26",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-27",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-28",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-29",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-30",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-31",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-01",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-02",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-03",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-04",
+      "count": 124,
+      "uniques": 56
+     },
+     {
+      "date": "2026-11-05",
+      "count": 10,
+      "uniques": 4
+     }
+    ],
+    "referrers": [
+     {
+      "referrer": "github.com",
+      "count": 1,
+      "uniques": 1
+     },
+     {
+      "referrer": "mediavanity-dev.github.io",
+      "count": 1,
+      "uniques": 1
+     }
+    ],
+    "paths": [
+     {
+      "path": "/mediavanity-dev/timesbane",
+      "count": 3,
+      "uniques": 2
+     },
+     {
+      "path": "/mediavanity-dev/timesbane/blob/main/index.html",
+      "count": 1,
       "uniques": 1
      }
     ]
@@ -682,7 +692,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 111
+     "ms": 119
     }
    },
    "workflows": [
@@ -713,11 +723,6 @@
    ],
    "traffic": {
     "views": [
-     {
-      "date": "2026-10-22",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-23",
       "count": 0,
@@ -782,14 +787,14 @@
       "date": "2026-11-04",
       "count": 1,
       "uniques": 1
+     },
+     {
+      "date": "2026-11-05",
+      "count": 4,
+      "uniques": 1
      }
     ],
     "clones": [
-     {
-      "date": "2026-10-22",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-23",
       "count": 0,
@@ -854,9 +859,19 @@
       "date": "2026-11-04",
       "count": 49,
       "uniques": 19
+     },
+     {
+      "date": "2026-11-05",
+      "count": 144,
+      "uniques": 44
      }
     ],
     "referrers": [
+     {
+      "referrer": "mediavanity-dev.github.io",
+      "count": 3,
+      "uniques": 1
+     },
      {
       "referrer": "github.com",
       "count": 1,
@@ -866,6 +881,11 @@
     "paths": [
      {
       "path": "/mediavanity-dev/OpenWorld",
+      "count": 4,
+      "uniques": 1
+     },
+     {
+      "path": "/mediavanity-dev/OpenWorld/blob/main/BACKLOG.md",
       "count": 1,
       "uniques": 1
      }
@@ -897,7 +917,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 88
+     "ms": 113
     }
    },
    "workflows": [
@@ -916,11 +936,6 @@
    ],
    "traffic": {
     "views": [
-     {
-      "date": "2026-10-22",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-23",
       "count": 0,
@@ -985,14 +1000,14 @@
       "date": "2026-11-04",
       "count": 0,
       "uniques": 0
+     },
+     {
+      "date": "2026-11-05",
+      "count": 2,
+      "uniques": 1
      }
     ],
     "clones": [
-     {
-      "date": "2026-10-22",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-23",
       "count": 0,
@@ -1057,10 +1072,27 @@
       "date": "2026-11-04",
       "count": 22,
       "uniques": 15
+     },
+     {
+      "date": "2026-11-05",
+      "count": 60,
+      "uniques": 26
      }
     ],
-    "referrers": [],
-    "paths": []
+    "referrers": [
+     {
+      "referrer": "mediavanity-dev.github.io",
+      "count": 2,
+      "uniques": 1
+     }
+    ],
+    "paths": [
+     {
+      "path": "/mediavanity-dev/wholeguitar",
+      "count": 2,
+      "uniques": 1
+     }
+    ]
    }
   },
   {
@@ -1088,7 +1120,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 131
+     "ms": 141
     }
    },
    "workflows": [
@@ -1285,7 +1317,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 79
+     "ms": 108
     }
    },
    "workflows": [
@@ -1304,11 +1336,6 @@
    ],
    "traffic": {
     "views": [
-     {
-      "date": "2026-10-22",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-23",
       "count": 0,
@@ -1373,14 +1400,14 @@
       "date": "2026-11-04",
       "count": 0,
       "uniques": 0
+     },
+     {
+      "date": "2026-11-05",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "clones": [
-     {
-      "date": "2026-10-22",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-23",
       "count": 0,
@@ -1445,6 +1472,11 @@
       "date": "2026-11-04",
       "count": 23,
       "uniques": 16
+     },
+     {
+      "date": "2026-11-05",
+      "count": 1,
+      "uniques": 1
      }
     ],
     "referrers": [],
@@ -1476,7 +1508,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 91
+     "ms": 127
     }
    },
    "workflows": [
@@ -1679,7 +1711,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 202
+     "ms": 200
     }
    },
    "workflows": [
@@ -1698,11 +1730,6 @@
    ],
    "traffic": {
     "views": [
-     {
-      "date": "2026-10-22",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-23",
       "count": 0,
@@ -1767,14 +1794,14 @@
       "date": "2026-11-04",
       "count": 0,
       "uniques": 0
+     },
+     {
+      "date": "2026-11-05",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "clones": [
-     {
-      "date": "2026-10-22",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-23",
       "count": 0,
@@ -1839,6 +1866,11 @@
       "date": "2026-11-04",
       "count": 6,
       "uniques": 4
+     },
+     {
+      "date": "2026-11-05",
+      "count": 1,
+      "uniques": 1
      }
     ],
     "referrers": [
@@ -1872,31 +1904,35 @@
      "views": 36
     },
     "2026-11-05": {
-     "users": 3,
-     "sessions": 3,
-     "views": 3
+     "users": 4,
+     "sessions": 8,
+     "views": 8
     }
    },
    "pages": [
     {
      "name": "/",
-     "count": 86
+     "count": 91
     }
    ],
    "sources": [
     {
      "name": "(direct)",
-     "count": 65
+     "count": 66
     },
     {
      "name": "google",
+     "count": 4
+    },
+    {
+     "name": "(not set)",
      "count": 1
     }
    ],
    "countries": [
     {
      "name": "United States",
-     "count": 37
+     "count": 38
     },
     {
      "name": "Netherlands",
@@ -1934,7 +1970,7 @@
     },
     {
      "name": "mobile",
-     "count": 18
+     "count": 19
     }
    ]
   },
@@ -2129,8 +2165,8 @@
     },
     "2026-11-05": {
      "users": 3,
-     "sessions": 4,
-     "views": 4
+     "sessions": 7,
+     "views": 7
     },
     "2026-11-04": {
      "users": 2,
@@ -2141,13 +2177,13 @@
    "pages": [
     {
      "name": "/",
-     "count": 17
+     "count": 20
     }
    ],
    "sources": [
     {
      "name": "(direct)",
-     "count": 16
+     "count": 19
     },
     {
      "name": "mediavanity-dev.github.io",
@@ -2282,6 +2318,11 @@
   },
   "dailyditch": {
    "daily": {
+    "2026-11-05": {
+     "users": 2,
+     "sessions": 3,
+     "views": 3
+    },
     "2026-11-03": {
      "users": 1,
      "sessions": 1,
@@ -2291,29 +2332,24 @@
      "users": 1,
      "sessions": 1,
      "views": 2
-    },
-    "2026-11-05": {
-     "users": 1,
-     "sessions": 2,
-     "views": 2
     }
    },
    "pages": [
     {
      "name": "/",
-     "count": 5
+     "count": 6
     }
    ],
    "sources": [
     {
      "name": "(direct)",
-     "count": 4
+     "count": 5
     }
    ],
    "countries": [
     {
      "name": "United States",
-     "count": 2
+     "count": 3
     },
     {
      "name": "Germany",
@@ -2327,7 +2363,7 @@
     },
     {
      "name": "mobile",
-     "count": 1
+     "count": 2
     }
    ]
   }

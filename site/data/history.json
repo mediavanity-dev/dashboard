@@ -187,6 +187,12 @@
    "viewUniques": 1,
    "clones": 42,
    "cloneUniques": 18
+  },
+  "2026-11-05": {
+   "views": 1,
+   "viewUniques": 1,
+   "clones": 64,
+   "cloneUniques": 25
   }
  },
  "standards": {
@@ -383,6 +389,12 @@
    "viewUniques": 0,
    "clones": 6,
    "cloneUniques": 4
+  },
+  "2026-11-05": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 1,
+   "cloneUniques": 1
   }
  },
  "dashboard": {
@@ -473,8 +485,8 @@
   "2026-11-05": {
    "views": 0,
    "viewUniques": 0,
-   "clones": 0,
-   "cloneUniques": 0
+   "clones": 66,
+   "cloneUniques": 24
   }
  },
  "chordshapes": {
@@ -565,8 +577,8 @@
   "2026-11-05": {
    "views": 0,
    "viewUniques": 0,
-   "clones": 0,
-   "cloneUniques": 0
+   "clones": 1,
+   "cloneUniques": 1
   }
  },
  "fretboard": {
@@ -833,10 +845,10 @@
    "cloneUniques": 56
   },
   "2026-11-05": {
-   "views": 0,
-   "viewUniques": 0,
-   "clones": 0,
-   "cloneUniques": 0
+   "views": 1,
+   "viewUniques": 1,
+   "clones": 10,
+   "cloneUniques": 4
   }
  },
  "OpenWorld": {
@@ -925,10 +937,10 @@
    "cloneUniques": 19
   },
   "2026-11-05": {
-   "views": 0,
-   "viewUniques": 0,
-   "clones": 0,
-   "cloneUniques": 0
+   "views": 4,
+   "viewUniques": 1,
+   "clones": 144,
+   "cloneUniques": 44
   }
  },
  "wholeguitar": {
@@ -1011,10 +1023,10 @@
    "cloneUniques": 15
   },
   "2026-11-05": {
-   "views": 0,
-   "viewUniques": 0,
-   "clones": 0,
-   "cloneUniques": 0
+   "views": 2,
+   "viewUniques": 1,
+   "clones": 60,
+   "cloneUniques": 26
   },
   "2026-10-22": {
    "views": 0,
