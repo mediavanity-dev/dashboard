@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T07:42:32.455Z",
+ "generatedAt": "2026-11-06T13:34:19.471Z",
  "owner": {
   "login": "mediavanity-dev",
   "url": "https://github.com/mediavanity-dev",
@@ -17,9 +17,9 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 0,
-    "pushedAt": "2026-11-06T07:27:32Z",
+    "pushedAt": "2026-11-06T13:13:15Z",
     "createdAt": "2026-10-31T17:03:54Z",
-    "sizeKB": 163
+    "sizeKB": 164
    },
    "site": {
     "url": "https://dailygeographer.com/",
@@ -31,7 +31,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 182
+     "ms": 248
     }
    },
    "workflows": [
@@ -55,8 +55,8 @@
       "status": "completed",
       "conclusion": "success",
       "event": "schedule",
-      "at": "2026-11-06T07:20:03Z",
-      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/42180174544"
+      "at": "2026-11-06T13:08:25Z",
+      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/42223083334"
      }
     }
    ],
@@ -262,9 +262,9 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 0,
-    "pushedAt": "2026-11-06T01:39:18Z",
+    "pushedAt": "2026-11-06T07:42:34Z",
     "createdAt": "2026-11-04T00:14:03Z",
-    "sizeKB": 56
+    "sizeKB": 61
    },
    "site": {
     "url": "https://mediavanity-dev.github.io/dashboard/",
@@ -276,7 +276,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 113
+     "ms": 121
     }
    },
    "workflows": [
@@ -288,8 +288,8 @@
       "status": "in_progress",
       "conclusion": null,
       "event": "schedule",
-      "at": "2026-11-06T07:42:11Z",
-      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/42182605745"
+      "at": "2026-11-06T13:33:58Z",
+      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/42226513694"
      }
     }
    ],
@@ -479,7 +479,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 257
+     "ms": 219
     }
    },
    "workflows": [
@@ -692,7 +692,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 119
+     "ms": 123
     }
    },
    "workflows": [
@@ -1120,7 +1120,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 141
+     "ms": 160
     }
    },
    "workflows": [
@@ -1317,7 +1317,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 108
+     "ms": 127
     }
    },
    "workflows": [
@@ -1508,7 +1508,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 127
+     "ms": 170
     }
    },
    "workflows": [
@@ -1711,7 +1711,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 200
+     "ms": 180
     }
    },
    "workflows": [
@@ -2164,9 +2164,9 @@
      "views": 6
     },
     "2026-11-05": {
-     "users": 3,
-     "sessions": 7,
-     "views": 7
+     "users": 4,
+     "sessions": 9,
+     "views": 9
     },
     "2026-11-04": {
      "users": 2,
@@ -2177,13 +2177,13 @@
    "pages": [
     {
      "name": "/",
-     "count": 20
+     "count": 22
     }
    ],
    "sources": [
     {
      "name": "(direct)",
-     "count": 19
+     "count": 21
     },
     {
      "name": "mediavanity-dev.github.io",
@@ -2193,13 +2193,13 @@
    "countries": [
     {
      "name": "United States",
-     "count": 9
+     "count": 10
     }
    ],
    "devices": [
     {
      "name": "desktop",
-     "count": 5
+     "count": 6
     },
     {
      "name": "mobile",
@@ -2215,9 +2215,9 @@
      "views": 30
     },
     "2026-11-05": {
-     "users": 4,
-     "sessions": 6,
-     "views": 6
+     "users": 5,
+     "sessions": 7,
+     "views": 7
     },
     "2026-11-03": {
      "users": 1,
@@ -2228,13 +2228,13 @@
    "pages": [
     {
      "name": "/alchemy/",
-     "count": 17
+     "count": 18
     }
    ],
    "sources": [
     {
      "name": "(direct)",
-     "count": 14
+     "count": 15
     }
    ],
    "countries": [
@@ -2257,12 +2257,16 @@
     {
      "name": "Germany",
      "count": 1
+    },
+    {
+     "name": "Netherlands",
+     "count": 1
     }
    ],
    "devices": [
     {
      "name": "mobile",
-     "count": 7
+     "count": 8
     },
     {
      "name": "desktop",
