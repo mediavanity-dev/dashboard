@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T13:19:29.740Z",
+ "generatedAt": "2026-11-08T19:12:55.527Z",
  "owner": {
   "login": "mediavanity-dev",
   "url": "https://github.com/mediavanity-dev",
@@ -17,9 +17,9 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 0,
-    "pushedAt": "2026-11-08T12:55:52Z",
+    "pushedAt": "2026-11-08T18:53:36Z",
     "createdAt": "2026-10-31T17:03:54Z",
-    "sizeKB": 129
+    "sizeKB": 130
    },
    "site": {
     "url": "https://dailygeographer.com/",
@@ -31,7 +31,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 73
+     "ms": 147
     }
    },
    "workflows": [
@@ -55,8 +55,8 @@
       "status": "completed",
       "conclusion": "success",
       "event": "schedule",
-      "at": "2026-11-08T12:54:43Z",
-      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/42482432655"
+      "at": "2026-11-08T18:49:20Z",
+      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/42511893213"
      }
     }
    ],
@@ -262,9 +262,9 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 0,
-    "pushedAt": "2026-11-08T07:30:07Z",
+    "pushedAt": "2026-11-08T13:19:30Z",
     "createdAt": "2026-11-04T00:14:03Z",
-    "sizeKB": 83
+    "sizeKB": 89
    },
    "site": {
     "url": "https://mediavanity-dev.github.io/dashboard/",
@@ -276,7 +276,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 41
+     "ms": 114
     }
    },
    "workflows": [
@@ -288,8 +288,8 @@
       "status": "in_progress",
       "conclusion": null,
       "event": "schedule",
-      "at": "2026-11-08T13:19:12Z",
-      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/42484383493"
+      "at": "2026-11-08T19:12:35Z",
+      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/42513875247"
      }
     }
    ],
@@ -479,7 +479,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 54
+     "ms": 114
     }
    },
    "workflows": [
@@ -704,7 +704,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 81
+     "ms": 301
     }
    },
    "workflows": [
@@ -907,7 +907,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 222
+     "ms": 218
     }
    },
    "workflows": [
@@ -1120,7 +1120,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 59
+     "ms": 117
     }
    },
    "workflows": [
@@ -1323,7 +1323,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 50
+     "ms": 123
     }
    },
    "workflows": [
@@ -1514,7 +1514,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 51
+     "ms": 119
     }
    },
    "workflows": [
@@ -1717,7 +1717,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 92
+     "ms": 394
     }
    },
    "workflows": [
@@ -2209,21 +2209,21 @@
      "views": 5
     },
     "2026-11-08": {
-     "users": 1,
-     "sessions": 1,
-     "views": 1
+     "users": 2,
+     "sessions": 2,
+     "views": 2
     }
    },
    "pages": [
     {
      "name": "/",
-     "count": 35
+     "count": 36
     }
    ],
    "sources": [
     {
      "name": "(direct)",
-     "count": 33
+     "count": 34
     },
     {
      "name": "(not set)",
@@ -2244,6 +2244,10 @@
      "count": 1
     },
     {
+     "name": "South Korea",
+     "count": 1
+    },
+    {
      "name": "Taiwan",
      "count": 1
     }
@@ -2255,7 +2259,7 @@
     },
     {
      "name": "mobile",
-     "count": 5
+     "count": 6
     }
    ]
   },
