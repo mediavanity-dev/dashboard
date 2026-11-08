@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T01:36:06.440Z",
+ "generatedAt": "2026-11-08T07:30:06.067Z",
  "owner": {
   "login": "mediavanity-dev",
   "url": "https://github.com/mediavanity-dev",
@@ -17,9 +17,9 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 0,
-    "pushedAt": "2026-11-08T01:11:35Z",
+    "pushedAt": "2026-11-08T07:09:50Z",
     "createdAt": "2026-10-31T17:03:54Z",
-    "sizeKB": 128
+    "sizeKB": 129
    },
    "site": {
     "url": "https://dailygeographer.com/",
@@ -31,7 +31,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 162
+     "ms": 58
     }
    },
    "workflows": [
@@ -55,8 +55,8 @@
       "status": "completed",
       "conclusion": "success",
       "event": "schedule",
-      "at": "2026-11-08T01:07:57Z",
-      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/42432895795"
+      "at": "2026-11-08T07:03:02Z",
+      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/42457169732"
      }
     }
    ],
@@ -253,6 +253,434 @@
   },
   {
    "repo": {
+    "name": "OpenWorld",
+    "url": "https://github.com/mediavanity-dev/OpenWorld",
+    "description": null,
+    "private": false,
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "openIssues": 0,
+    "pushedAt": "2026-11-08T04:29:22Z",
+    "createdAt": "2026-11-04T18:20:59Z",
+    "sizeKB": 1264
+   },
+   "site": {
+    "url": "https://mediavanity-dev.github.io/OpenWorld/",
+    "domain": null,
+    "https": true,
+    "buildType": "workflow",
+    "buildStatus": null,
+    "builtAt": null,
+    "probe": {
+     "ok": true,
+     "status": 200,
+     "ms": 59
+    }
+   },
+   "workflows": [
+    {
+     "name": "Checks",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/OpenWorld/blob/main/.github/workflows/checks.yml",
+     "run": {
+      "status": "completed",
+      "conclusion": "success",
+      "event": "pull_request",
+      "at": "2026-11-08T04:27:43Z",
+      "url": "https://github.com/mediavanity-dev/OpenWorld/actions/runs/42446907737"
+     }
+    },
+    {
+     "name": "Deploy to GitHub Pages",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/OpenWorld/blob/main/.github/workflows/pages.yml",
+     "run": {
+      "status": "completed",
+      "conclusion": "success",
+      "event": "push",
+      "at": "2026-11-08T04:29:24Z",
+      "url": "https://github.com/mediavanity-dev/OpenWorld/actions/runs/42447014341"
+     }
+    }
+   ],
+   "traffic": {
+    "views": [
+     {
+      "date": "2026-10-24",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-25",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-26",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-27",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-28",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-29",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-30",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-31",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-01",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-02",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-03",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-04",
+      "count": 1,
+      "uniques": 1
+     },
+     {
+      "date": "2026-11-05",
+      "count": 4,
+      "uniques": 1
+     },
+     {
+      "date": "2026-11-06",
+      "count": 0,
+      "uniques": 0
+     }
+    ],
+    "clones": [
+     {
+      "date": "2026-10-24",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-25",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-26",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-27",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-28",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-29",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-30",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-31",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-01",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-02",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-03",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-04",
+      "count": 49,
+      "uniques": 19
+     },
+     {
+      "date": "2026-11-05",
+      "count": 144,
+      "uniques": 44
+     },
+     {
+      "date": "2026-11-06",
+      "count": 68,
+      "uniques": 29
+     }
+    ],
+    "referrers": [
+     {
+      "referrer": "mediavanity-dev.github.io",
+      "count": 3,
+      "uniques": 1
+     },
+     {
+      "referrer": "github.com",
+      "count": 1,
+      "uniques": 1
+     }
+    ],
+    "paths": [
+     {
+      "path": "/mediavanity-dev/OpenWorld",
+      "count": 4,
+      "uniques": 1
+     },
+     {
+      "path": "/mediavanity-dev/OpenWorld/blob/main/BACKLOG.md",
+      "count": 1,
+      "uniques": 1
+     }
+    ]
+   }
+  },
+  {
+   "repo": {
+    "name": "dashboard",
+    "url": "https://github.com/mediavanity-dev/dashboard",
+    "description": null,
+    "private": false,
+    "language": "HTML",
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "openIssues": 0,
+    "pushedAt": "2026-11-08T01:36:07Z",
+    "createdAt": "2026-11-04T00:14:03Z",
+    "sizeKB": 82
+   },
+   "site": {
+    "url": "https://mediavanity-dev.github.io/dashboard/",
+    "domain": null,
+    "https": true,
+    "buildType": "workflow",
+    "buildStatus": null,
+    "builtAt": null,
+    "probe": {
+     "ok": true,
+     "status": 200,
+     "ms": 37
+    }
+   },
+   "workflows": [
+    {
+     "name": "Update and deploy",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/dashboard/blob/main/.github/workflows/update.yml",
+     "run": {
+      "status": "in_progress",
+      "conclusion": null,
+      "event": "schedule",
+      "at": "2026-11-08T07:29:50Z",
+      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/42459019357"
+     }
+    }
+   ],
+   "traffic": {
+    "views": [
+     {
+      "date": "2026-10-24",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-25",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-26",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-27",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-28",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-29",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-30",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-31",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-01",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-02",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-03",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-04",
+      "count": 2,
+      "uniques": 1
+     },
+     {
+      "date": "2026-11-05",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-06",
+      "count": 0,
+      "uniques": 0
+     }
+    ],
+    "clones": [
+     {
+      "date": "2026-10-24",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-25",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-26",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-27",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-28",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-29",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-30",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-31",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-01",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-02",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-03",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-04",
+      "count": 165,
+      "uniques": 64
+     },
+     {
+      "date": "2026-11-05",
+      "count": 66,
+      "uniques": 24
+     },
+     {
+      "date": "2026-11-06",
+      "count": 81,
+      "uniques": 37
+     }
+    ],
+    "referrers": [
+     {
+      "referrer": "mediavanity-dev.github.io",
+      "count": 1,
+      "uniques": 1
+     }
+    ],
+    "paths": [
+     {
+      "path": "/mediavanity-dev/dashboard",
+      "count": 2,
+      "uniques": 1
+     }
+    ]
+   }
+  },
+  {
+   "repo": {
     "name": "alchemy",
     "url": "https://github.com/mediavanity-dev/alchemy",
     "description": null,
@@ -276,7 +704,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 316
+     "ms": 125
     }
    },
    "workflows": [
@@ -450,209 +878,6 @@
   },
   {
    "repo": {
-    "name": "dashboard",
-    "url": "https://github.com/mediavanity-dev/dashboard",
-    "description": null,
-    "private": false,
-    "language": "HTML",
-    "stars": 0,
-    "forks": 0,
-    "watchers": 0,
-    "openIssues": 0,
-    "pushedAt": "2026-11-07T19:13:03Z",
-    "createdAt": "2026-11-04T00:14:03Z",
-    "sizeKB": 81
-   },
-   "site": {
-    "url": "https://mediavanity-dev.github.io/dashboard/",
-    "domain": null,
-    "https": true,
-    "buildType": "workflow",
-    "buildStatus": null,
-    "builtAt": null,
-    "probe": {
-     "ok": true,
-     "status": 200,
-     "ms": 78
-    }
-   },
-   "workflows": [
-    {
-     "name": "Update and deploy",
-     "state": "active",
-     "url": "https://github.com/mediavanity-dev/dashboard/blob/main/.github/workflows/update.yml",
-     "run": {
-      "status": "in_progress",
-      "conclusion": null,
-      "event": "schedule",
-      "at": "2026-11-08T01:35:49Z",
-      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/42434928757"
-     }
-    }
-   ],
-   "traffic": {
-    "views": [
-     {
-      "date": "2026-10-24",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-25",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-26",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-27",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-28",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-29",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-30",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-31",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-01",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-02",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-03",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-04",
-      "count": 2,
-      "uniques": 1
-     },
-     {
-      "date": "2026-11-05",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-06",
-      "count": 0,
-      "uniques": 0
-     }
-    ],
-    "clones": [
-     {
-      "date": "2026-10-24",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-25",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-26",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-27",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-28",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-29",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-30",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-31",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-01",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-02",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-03",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-04",
-      "count": 165,
-      "uniques": 64
-     },
-     {
-      "date": "2026-11-05",
-      "count": 66,
-      "uniques": 24
-     },
-     {
-      "date": "2026-11-06",
-      "count": 81,
-      "uniques": 37
-     }
-    ],
-    "referrers": [
-     {
-      "referrer": "mediavanity-dev.github.io",
-      "count": 1,
-      "uniques": 1
-     }
-    ],
-    "paths": [
-     {
-      "path": "/mediavanity-dev/dashboard",
-      "count": 2,
-      "uniques": 1
-     }
-    ]
-   }
-  },
-  {
-   "repo": {
     "name": "timesbane",
     "url": "https://github.com/mediavanity-dev/timesbane",
     "description": "A piece of art that does not explain itself.",
@@ -676,7 +901,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 543
+     "ms": 113
     }
    },
    "workflows": [
@@ -866,231 +1091,6 @@
   },
   {
    "repo": {
-    "name": "OpenWorld",
-    "url": "https://github.com/mediavanity-dev/OpenWorld",
-    "description": null,
-    "private": false,
-    "language": "JavaScript",
-    "stars": 0,
-    "forks": 0,
-    "watchers": 0,
-    "openIssues": 0,
-    "pushedAt": "2026-11-05T19:32:30Z",
-    "createdAt": "2026-11-04T18:20:59Z",
-    "sizeKB": 833
-   },
-   "site": {
-    "url": "https://mediavanity-dev.github.io/OpenWorld/",
-    "domain": null,
-    "https": true,
-    "buildType": "workflow",
-    "buildStatus": null,
-    "builtAt": null,
-    "probe": {
-     "ok": true,
-     "status": 200,
-     "ms": 93
-    }
-   },
-   "workflows": [
-    {
-     "name": "Checks",
-     "state": "active",
-     "url": "https://github.com/mediavanity-dev/OpenWorld/blob/main/.github/workflows/checks.yml",
-     "run": {
-      "status": "completed",
-      "conclusion": "success",
-      "event": "pull_request",
-      "at": "2026-11-05T19:29:25Z",
-      "url": "https://github.com/mediavanity-dev/OpenWorld/actions/runs/42094360686"
-     }
-    },
-    {
-     "name": "Deploy to GitHub Pages",
-     "state": "active",
-     "url": "https://github.com/mediavanity-dev/OpenWorld/blob/main/.github/workflows/pages.yml",
-     "run": {
-      "status": "completed",
-      "conclusion": "success",
-      "event": "push",
-      "at": "2026-11-05T19:32:32Z",
-      "url": "https://github.com/mediavanity-dev/OpenWorld/actions/runs/42094865034"
-     }
-    }
-   ],
-   "traffic": {
-    "views": [
-     {
-      "date": "2026-10-24",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-25",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-26",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-27",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-28",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-29",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-30",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-31",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-01",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-02",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-03",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-04",
-      "count": 1,
-      "uniques": 1
-     },
-     {
-      "date": "2026-11-05",
-      "count": 4,
-      "uniques": 1
-     },
-     {
-      "date": "2026-11-06",
-      "count": 0,
-      "uniques": 0
-     }
-    ],
-    "clones": [
-     {
-      "date": "2026-10-24",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-25",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-26",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-27",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-28",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-29",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-30",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-31",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-01",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-02",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-03",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-04",
-      "count": 49,
-      "uniques": 19
-     },
-     {
-      "date": "2026-11-05",
-      "count": 144,
-      "uniques": 44
-     },
-     {
-      "date": "2026-11-06",
-      "count": 68,
-      "uniques": 29
-     }
-    ],
-    "referrers": [
-     {
-      "referrer": "mediavanity-dev.github.io",
-      "count": 3,
-      "uniques": 1
-     },
-     {
-      "referrer": "github.com",
-      "count": 1,
-      "uniques": 1
-     }
-    ],
-    "paths": [
-     {
-      "path": "/mediavanity-dev/OpenWorld",
-      "count": 4,
-      "uniques": 1
-     },
-     {
-      "path": "/mediavanity-dev/OpenWorld/blob/main/BACKLOG.md",
-      "count": 1,
-      "uniques": 1
-     }
-    ]
-   }
-  },
-  {
-   "repo": {
     "name": "wholeguitar",
     "url": "https://github.com/mediavanity-dev/wholeguitar",
     "description": "Learn the guitar neck by playing it: the app asks, you play, the microphone checks",
@@ -1114,7 +1114,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 91
+     "ms": 46
     }
    },
    "workflows": [
@@ -1317,7 +1317,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 99
+     "ms": 40
     }
    },
    "workflows": [
@@ -1508,7 +1508,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 82
+     "ms": 59
     }
    },
    "workflows": [
@@ -1711,7 +1711,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 211
+     "ms": 134
     }
    },
    "workflows": [
@@ -2204,6 +2204,11 @@
      "sessions": 9,
      "views": 9
     },
+    "2026-11-07": {
+     "users": 4,
+     "sessions": 4,
+     "views": 5
+    },
     "2026-11-04": {
      "users": 2,
      "sessions": 7,
@@ -2213,23 +2218,22 @@
      "users": 2,
      "sessions": 5,
      "views": 5
-    },
-    "2026-11-07": {
-     "users": 1,
-     "sessions": 1,
-     "views": 1
     }
    },
    "pages": [
     {
      "name": "/",
-     "count": 28
+     "count": 32
     }
    ],
    "sources": [
     {
      "name": "(direct)",
-     "count": 27
+     "count": 30
+    },
+    {
+     "name": "(not set)",
+     "count": 1
     },
     {
      "name": "mediavanity-dev.github.io",
@@ -2239,7 +2243,11 @@
    "countries": [
     {
      "name": "United States",
-     "count": 11
+     "count": 12
+    },
+    {
+     "name": "China",
+     "count": 1
     },
     {
      "name": "Taiwan",
@@ -2249,11 +2257,11 @@
    "devices": [
     {
      "name": "desktop",
-     "count": 8
+     "count": 9
     },
     {
      "name": "mobile",
-     "count": 4
+     "count": 5
     }
    ]
   },
@@ -2275,9 +2283,9 @@
      "views": 3
     },
     "2026-11-07": {
-     "users": 2,
-     "sessions": 6,
-     "views": 8
+     "users": 3,
+     "sessions": 7,
+     "views": 10
     },
     "2026-11-03": {
      "users": 1,
@@ -2288,13 +2296,13 @@
    "pages": [
     {
      "name": "/alchemy/",
-     "count": 31
+     "count": 33
     }
    ],
    "sources": [
     {
      "name": "(direct)",
-     "count": 23
+     "count": 24
     },
     {
      "name": "github.com",
