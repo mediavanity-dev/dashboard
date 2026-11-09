@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T01:39:31.444Z",
+ "generatedAt": "2026-11-09T07:52:17.181Z",
  "owner": {
   "login": "mediavanity-dev",
   "url": "https://github.com/mediavanity-dev",
@@ -16,8 +16,8 @@
     "stars": 0,
     "forks": 0,
     "watchers": 0,
-    "openIssues": 0,
-    "pushedAt": "2026-11-09T01:16:33Z",
+    "openIssues": 1,
+    "pushedAt": "2026-11-09T07:39:14Z",
     "createdAt": "2026-10-31T17:03:54Z",
     "sizeKB": 135
    },
@@ -31,7 +31,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 204
+     "ms": 191
     }
    },
    "workflows": [
@@ -43,8 +43,8 @@
       "status": "completed",
       "conclusion": "success",
       "event": "schedule",
-      "at": "2026-11-02T07:17:03Z",
-      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/41405292638"
+      "at": "2026-11-09T07:21:43Z",
+      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/42578849967"
      }
     },
     {
@@ -55,18 +55,13 @@
       "status": "completed",
       "conclusion": "success",
       "event": "schedule",
-      "at": "2026-11-09T01:11:31Z",
-      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/42544227807"
+      "at": "2026-11-09T07:30:13Z",
+      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/42579736462"
      }
     }
    ],
    "traffic": {
     "views": [
-     {
-      "date": "2026-10-25",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-26",
       "count": 0,
@@ -131,14 +126,14 @@
       "date": "2026-11-07",
       "count": 0,
       "uniques": 0
+     },
+     {
+      "date": "2026-11-08",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "clones": [
-     {
-      "date": "2026-10-25",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-26",
       "count": 0,
@@ -203,6 +198,11 @@
       "date": "2026-11-07",
       "count": 53,
       "uniques": 22
+     },
+     {
+      "date": "2026-11-08",
+      "count": 33,
+      "uniques": 13
      }
     ],
     "referrers": [
@@ -262,9 +262,9 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 0,
-    "pushedAt": "2026-11-08T19:12:56Z",
+    "pushedAt": "2026-11-09T01:39:32Z",
     "createdAt": "2026-11-04T00:14:03Z",
-    "sizeKB": 90
+    "sizeKB": 91
    },
    "site": {
     "url": "https://mediavanity-dev.github.io/dashboard/",
@@ -276,7 +276,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 106
+     "ms": 65
     }
    },
    "workflows": [
@@ -288,18 +288,13 @@
       "status": "in_progress",
       "conclusion": null,
       "event": "schedule",
-      "at": "2026-11-09T01:39:12Z",
-      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/42546692888"
+      "at": "2026-11-09T07:51:22Z",
+      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/42581940164"
      }
     }
    ],
    "traffic": {
     "views": [
-     {
-      "date": "2026-10-25",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-26",
       "count": 0,
@@ -364,14 +359,14 @@
       "date": "2026-11-07",
       "count": 0,
       "uniques": 0
+     },
+     {
+      "date": "2026-11-08",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "clones": [
-     {
-      "date": "2026-10-25",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-26",
       "count": 0,
@@ -436,6 +431,11 @@
       "date": "2026-11-07",
       "count": 60,
       "uniques": 29
+     },
+     {
+      "date": "2026-11-08",
+      "count": 50,
+      "uniques": 22
      }
     ],
     "referrers": [
@@ -479,7 +479,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 113
+     "ms": 67
     }
    },
    "workflows": [
@@ -704,7 +704,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 153
+     "ms": 114
     }
    },
    "workflows": [
@@ -723,11 +723,6 @@
    ],
    "traffic": {
     "views": [
-     {
-      "date": "2026-10-25",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-26",
       "count": 0,
@@ -792,14 +787,14 @@
       "date": "2026-11-07",
       "count": 1,
       "uniques": 1
+     },
+     {
+      "date": "2026-11-08",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "clones": [
-     {
-      "date": "2026-10-25",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-26",
       "count": 0,
@@ -864,6 +859,11 @@
       "date": "2026-11-07",
       "count": 11,
       "uniques": 6
+     },
+     {
+      "date": "2026-11-08",
+      "count": 1,
+      "uniques": 1
      }
     ],
     "referrers": [
@@ -907,7 +907,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 206
+     "ms": 207
     }
    },
    "workflows": [
@@ -926,11 +926,6 @@
    ],
    "traffic": {
     "views": [
-     {
-      "date": "2026-10-25",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-26",
       "count": 0,
@@ -995,14 +990,14 @@
       "date": "2026-11-07",
       "count": 0,
       "uniques": 0
+     },
+     {
+      "date": "2026-11-08",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "clones": [
-     {
-      "date": "2026-10-25",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-26",
       "count": 0,
@@ -1067,6 +1062,11 @@
       "date": "2026-11-07",
       "count": 2,
       "uniques": 2
+     },
+     {
+      "date": "2026-11-08",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "referrers": [
@@ -1120,7 +1120,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 132
+     "ms": 127
     }
    },
    "workflows": [
@@ -1323,7 +1323,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 131
+     "ms": 81
     }
    },
    "workflows": [
@@ -1342,11 +1342,6 @@
    ],
    "traffic": {
     "views": [
-     {
-      "date": "2026-10-25",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-26",
       "count": 0,
@@ -1411,14 +1406,14 @@
       "date": "2026-11-07",
       "count": 0,
       "uniques": 0
+     },
+     {
+      "date": "2026-11-08",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "clones": [
-     {
-      "date": "2026-10-25",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-26",
       "count": 0,
@@ -1483,6 +1478,11 @@
       "date": "2026-11-07",
       "count": 0,
       "uniques": 0
+     },
+     {
+      "date": "2026-11-08",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "referrers": [],
@@ -1514,7 +1514,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 122
+     "ms": 93
     }
    },
    "workflows": [
@@ -1533,11 +1533,6 @@
    ],
    "traffic": {
     "views": [
-     {
-      "date": "2026-10-25",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-26",
       "count": 0,
@@ -1602,14 +1597,14 @@
       "date": "2026-11-07",
       "count": 0,
       "uniques": 0
+     },
+     {
+      "date": "2026-11-08",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "clones": [
-     {
-      "date": "2026-10-25",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-26",
       "count": 0,
@@ -1674,6 +1669,11 @@
       "date": "2026-11-07",
       "count": 1,
       "uniques": 1
+     },
+     {
+      "date": "2026-11-08",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "referrers": [
@@ -1717,7 +1717,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 176
+     "ms": 149
     }
    },
    "workflows": [
@@ -1736,11 +1736,6 @@
    ],
    "traffic": {
     "views": [
-     {
-      "date": "2026-10-25",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-26",
       "count": 0,
@@ -1805,14 +1800,14 @@
       "date": "2026-11-07",
       "count": 0,
       "uniques": 0
+     },
+     {
+      "date": "2026-11-08",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "clones": [
-     {
-      "date": "2026-10-25",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-26",
       "count": 0,
@@ -1877,6 +1872,11 @@
       "date": "2026-11-07",
       "count": 1,
       "uniques": 1
+     },
+     {
+      "date": "2026-11-08",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "referrers": [
@@ -2069,7 +2069,7 @@
      "views": 0
     },
     "2026-11-07": {
-     "users": 0,
+     "users": 1,
      "sessions": 1,
      "views": 0
     }
@@ -2089,7 +2089,7 @@
    "countries": [
     {
      "name": "United States",
-     "count": 13
+     "count": 14
     },
     {
      "name": "Belarus",
@@ -2119,7 +2119,7 @@
     },
     {
      "name": "mobile",
-     "count": 6
+     "count": 7
     }
    ]
   },
@@ -2224,10 +2224,6 @@
     {
      "name": "(direct)",
      "count": 34
-    },
-    {
-     "name": "(not set)",
-     "count": 1
     },
     {
      "name": "mediavanity-dev.github.io",
