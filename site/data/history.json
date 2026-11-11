@@ -119,6 +119,12 @@
    "viewUniques": 0,
    "clones": 0,
    "cloneUniques": 0
+  },
+  "2026-11-10": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 1,
+   "cloneUniques": 1
   }
  },
  "dailygeographer": {
@@ -247,6 +253,12 @@
    "viewUniques": 0,
    "clones": 67,
    "cloneUniques": 25
+  },
+  "2026-11-10": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 33,
+   "cloneUniques": 11
   }
  },
  "standards": {
@@ -371,6 +383,12 @@
    "cloneUniques": 0
   },
   "2026-11-09": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-10": {
    "views": 0,
    "viewUniques": 0,
    "clones": 0,
@@ -619,6 +637,12 @@
    "viewUniques": 0,
    "clones": 65,
    "cloneUniques": 30
+  },
+  "2026-11-10": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 33,
+   "cloneUniques": 14
   }
  },
  "chordshapes": {
@@ -731,6 +755,12 @@
    "cloneUniques": 0
   },
   "2026-11-09": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-10": {
    "views": 0,
    "viewUniques": 0,
    "clones": 0,
@@ -1145,6 +1175,12 @@
    "viewUniques": 0,
    "clones": 21,
    "cloneUniques": 16
+  },
+  "2026-11-10": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 1,
+   "cloneUniques": 1
   }
  },
  "wholeguitar": {
@@ -1261,6 +1297,12 @@
    "viewUniques": 0,
    "clones": 1,
    "cloneUniques": 1
+  },
+  "2026-11-10": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
   }
  }
 }
