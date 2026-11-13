@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T19:23:24.079Z",
+ "generatedAt": "2026-11-13T01:36:11.568Z",
  "owner": {
   "login": "mediavanity-dev",
   "url": "https://github.com/mediavanity-dev",
@@ -17,9 +17,9 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 1,
-    "pushedAt": "2026-11-12T19:07:40Z",
+    "pushedAt": "2026-11-13T01:20:00Z",
     "createdAt": "2026-10-31T17:03:54Z",
-    "sizeKB": 161
+    "sizeKB": 167
    },
    "site": {
     "url": "https://dailygeographer.com/",
@@ -31,7 +31,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 232
+     "ms": 225
     }
    },
    "workflows": [
@@ -55,8 +55,8 @@
       "status": "completed",
       "conclusion": "success",
       "event": "schedule",
-      "at": "2026-11-12T18:58:59Z",
-      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/43285423301"
+      "at": "2026-11-13T01:13:44Z",
+      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/43343301320"
      }
     }
    ],
@@ -253,6 +253,221 @@
   },
   {
    "repo": {
+    "name": "alchemy",
+    "url": "https://github.com/mediavanity-dev/alchemy",
+    "description": null,
+    "private": false,
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "openIssues": 0,
+    "pushedAt": "2026-11-12T20:14:29Z",
+    "createdAt": "2026-11-03T03:12:24Z",
+    "sizeKB": 496
+   },
+   "site": {
+    "url": "https://mediavanity-dev.github.io/alchemy/",
+    "domain": null,
+    "https": true,
+    "buildType": "legacy",
+    "buildStatus": "built",
+    "builtAt": "2026-11-12T20:14:51Z",
+    "probe": {
+     "ok": true,
+     "status": 200,
+     "ms": 217
+    }
+   },
+   "workflows": [
+    {
+     "name": "iOS → TestFlight",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/alchemy/blob/main/.github/workflows/ios-testflight.yml",
+     "run": {
+      "status": "completed",
+      "conclusion": "success",
+      "event": "workflow_dispatch",
+      "at": "2026-11-12T20:14:33Z",
+      "url": "https://github.com/mediavanity-dev/alchemy/actions/runs/43298323248"
+     }
+    },
+    {
+     "name": "pages-build-deployment",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/alchemy/actions/workflows/pages/pages-build-deployment",
+     "run": {
+      "status": "completed",
+      "conclusion": "success",
+      "event": "dynamic",
+      "at": "2026-11-12T20:14:30Z",
+      "url": "https://github.com/mediavanity-dev/alchemy/actions/runs/43298313240"
+     }
+    }
+   ],
+   "traffic": {
+    "views": [
+     {
+      "date": "2026-10-29",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-30",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-31",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-01",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-02",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-03",
+      "count": 1,
+      "uniques": 1
+     },
+     {
+      "date": "2026-11-04",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-05",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-06",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-07",
+      "count": 1,
+      "uniques": 1
+     },
+     {
+      "date": "2026-11-08",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-09",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-10",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-11",
+      "count": 0,
+      "uniques": 0
+     }
+    ],
+    "clones": [
+     {
+      "date": "2026-10-29",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-30",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-10-31",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-01",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-02",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-03",
+      "count": 85,
+      "uniques": 29
+     },
+     {
+      "date": "2026-11-04",
+      "count": 18,
+      "uniques": 11
+     },
+     {
+      "date": "2026-11-05",
+      "count": 14,
+      "uniques": 7
+     },
+     {
+      "date": "2026-11-06",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-07",
+      "count": 11,
+      "uniques": 6
+     },
+     {
+      "date": "2026-11-08",
+      "count": 1,
+      "uniques": 1
+     },
+     {
+      "date": "2026-11-09",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-10",
+      "count": 1,
+      "uniques": 1
+     },
+     {
+      "date": "2026-11-11",
+      "count": 0,
+      "uniques": 0
+     }
+    ],
+    "referrers": [
+     {
+      "referrer": "mediavanity-dev.github.io",
+      "count": 1,
+      "uniques": 1
+     }
+    ],
+    "paths": [
+     {
+      "path": "/mediavanity-dev/alchemy",
+      "count": 2,
+      "uniques": 2
+     }
+    ]
+   }
+  },
+  {
+   "repo": {
     "name": "dashboard",
     "url": "https://github.com/mediavanity-dev/dashboard",
     "description": null,
@@ -262,9 +477,9 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 0,
-    "pushedAt": "2026-11-12T13:41:43Z",
+    "pushedAt": "2026-11-12T19:23:25Z",
     "createdAt": "2026-11-04T00:14:03Z",
-    "sizeKB": 136
+    "sizeKB": 143
    },
    "site": {
     "url": "https://mediavanity-dev.github.io/dashboard/",
@@ -276,7 +491,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 86
+     "ms": 122
     }
    },
    "workflows": [
@@ -288,8 +503,8 @@
       "status": "in_progress",
       "conclusion": null,
       "event": "schedule",
-      "at": "2026-11-12T19:23:04Z",
-      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/43289601265"
+      "at": "2026-11-13T01:35:51Z",
+      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/43346098958"
      }
     }
    ],
@@ -479,7 +694,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 290
+     "ms": 128
     }
    },
    "workflows": [
@@ -681,209 +896,6 @@
   },
   {
    "repo": {
-    "name": "alchemy",
-    "url": "https://github.com/mediavanity-dev/alchemy",
-    "description": null,
-    "private": false,
-    "language": "JavaScript",
-    "stars": 0,
-    "forks": 0,
-    "watchers": 0,
-    "openIssues": 0,
-    "pushedAt": "2026-11-07T20:19:26Z",
-    "createdAt": "2026-11-03T03:12:24Z",
-    "sizeKB": 373
-   },
-   "site": {
-    "url": "https://mediavanity-dev.github.io/alchemy/",
-    "domain": null,
-    "https": true,
-    "buildType": "legacy",
-    "buildStatus": "built",
-    "builtAt": "2026-11-07T20:19:45Z",
-    "probe": {
-     "ok": true,
-     "status": 200,
-     "ms": 140
-    }
-   },
-   "workflows": [
-    {
-     "name": "pages-build-deployment",
-     "state": "active",
-     "url": "https://github.com/mediavanity-dev/alchemy/actions/workflows/pages/pages-build-deployment",
-     "run": {
-      "status": "completed",
-      "conclusion": "success",
-      "event": "dynamic",
-      "at": "2026-11-07T20:19:27Z",
-      "url": "https://github.com/mediavanity-dev/alchemy/actions/runs/42410494629"
-     }
-    }
-   ],
-   "traffic": {
-    "views": [
-     {
-      "date": "2026-10-29",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-30",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-31",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-01",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-02",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-03",
-      "count": 1,
-      "uniques": 1
-     },
-     {
-      "date": "2026-11-04",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-05",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-06",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-07",
-      "count": 1,
-      "uniques": 1
-     },
-     {
-      "date": "2026-11-08",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-09",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-10",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-11",
-      "count": 0,
-      "uniques": 0
-     }
-    ],
-    "clones": [
-     {
-      "date": "2026-10-29",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-30",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-31",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-01",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-02",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-03",
-      "count": 85,
-      "uniques": 29
-     },
-     {
-      "date": "2026-11-04",
-      "count": 18,
-      "uniques": 11
-     },
-     {
-      "date": "2026-11-05",
-      "count": 14,
-      "uniques": 7
-     },
-     {
-      "date": "2026-11-06",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-07",
-      "count": 11,
-      "uniques": 6
-     },
-     {
-      "date": "2026-11-08",
-      "count": 1,
-      "uniques": 1
-     },
-     {
-      "date": "2026-11-09",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-10",
-      "count": 1,
-      "uniques": 1
-     },
-     {
-      "date": "2026-11-11",
-      "count": 0,
-      "uniques": 0
-     }
-    ],
-    "referrers": [
-     {
-      "referrer": "mediavanity-dev.github.io",
-      "count": 1,
-      "uniques": 1
-     }
-    ],
-    "paths": [
-     {
-      "path": "/mediavanity-dev/alchemy",
-      "count": 2,
-      "uniques": 2
-     }
-    ]
-   }
-  },
-  {
-   "repo": {
     "name": "timesbane",
     "url": "https://github.com/mediavanity-dev/timesbane",
     "description": "A piece of art that does not explain itself.",
@@ -907,7 +919,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 205
+     "ms": 217
     }
    },
    "workflows": [
@@ -1120,7 +1132,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 122
+     "ms": 135
     }
    },
    "workflows": [
@@ -1323,7 +1335,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 151
+     "ms": 192
     }
    },
    "workflows": [
@@ -1514,7 +1526,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 106
+     "ms": 115
     }
    },
    "workflows": [
@@ -1717,7 +1729,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 209
+     "ms": 219
     }
    },
    "workflows": [
@@ -1918,18 +1930,23 @@
      "users": 3,
      "sessions": 7,
      "views": 8
+    },
+    "2026-11-12": {
+     "users": 1,
+     "sessions": 1,
+     "views": 1
     }
    },
    "pages": [
     {
      "name": "/",
-     "count": 98
+     "count": 99
     }
    ],
    "sources": [
     {
      "name": "(direct)",
-     "count": 70
+     "count": 71
     },
     {
      "name": "google",
@@ -1939,7 +1956,7 @@
    "countries": [
     {
      "name": "United States",
-     "count": 38
+     "count": 39
     },
     {
      "name": "Netherlands",
@@ -1981,7 +1998,7 @@
    "devices": [
     {
      "name": "desktop",
-     "count": 39
+     "count": 40
     },
     {
      "name": "mobile",
