@@ -1,11 +1,256 @@
 {
- "generatedAt": "2026-11-14T01:30:37.013Z",
+ "generatedAt": "2026-11-14T07:30:55.379Z",
  "owner": {
   "login": "mediavanity-dev",
   "url": "https://github.com/mediavanity-dev",
   "avatar": "https://avatars.githubusercontent.com/u/350796533?v=4"
  },
  "repos": [
+  {
+   "repo": {
+    "name": "dailygeographer",
+    "url": "https://github.com/mediavanity-dev/dailygeographer",
+    "description": "A new country every day",
+    "private": false,
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "openIssues": 1,
+    "pushedAt": "2026-11-14T07:13:01Z",
+    "createdAt": "2026-10-31T17:03:54Z",
+    "sizeKB": 187
+   },
+   "site": {
+    "url": "https://dailygeographer.com/",
+    "domain": "dailygeographer.com",
+    "https": true,
+    "buildType": "workflow",
+    "buildStatus": null,
+    "builtAt": null,
+    "probe": {
+     "ok": true,
+     "status": 200,
+     "ms": 166
+    }
+   },
+   "workflows": [
+    {
+     "name": "Weekly list check",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/dailygeographer/blob/main/.github/workflows/check-list.yml",
+     "run": {
+      "status": "completed",
+      "conclusion": "success",
+      "event": "schedule",
+      "at": "2026-11-09T07:21:43Z",
+      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/42578849967"
+     }
+    },
+    {
+     "name": "Update and deploy",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/dailygeographer/blob/main/.github/workflows/update.yml",
+     "run": {
+      "status": "completed",
+      "conclusion": "success",
+      "event": "schedule",
+      "at": "2026-11-14T07:04:03Z",
+      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/43569317126"
+     }
+    }
+   ],
+   "traffic": {
+    "views": [
+     {
+      "date": "2026-10-31",
+      "count": 18,
+      "uniques": 2
+     },
+     {
+      "date": "2026-11-01",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-02",
+      "count": 4,
+      "uniques": 1
+     },
+     {
+      "date": "2026-11-03",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-04",
+      "count": 1,
+      "uniques": 1
+     },
+     {
+      "date": "2026-11-05",
+      "count": 1,
+      "uniques": 1
+     },
+     {
+      "date": "2026-11-06",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-07",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-08",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-09",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-10",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-11",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-12",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-13",
+      "count": 0,
+      "uniques": 0
+     }
+    ],
+    "clones": [
+     {
+      "date": "2026-10-31",
+      "count": 73,
+      "uniques": 22
+     },
+     {
+      "date": "2026-11-01",
+      "count": 28,
+      "uniques": 13
+     },
+     {
+      "date": "2026-11-02",
+      "count": 143,
+      "uniques": 62
+     },
+     {
+      "date": "2026-11-03",
+      "count": 109,
+      "uniques": 47
+     },
+     {
+      "date": "2026-11-04",
+      "count": 42,
+      "uniques": 18
+     },
+     {
+      "date": "2026-11-05",
+      "count": 64,
+      "uniques": 25
+     },
+     {
+      "date": "2026-11-06",
+      "count": 78,
+      "uniques": 35
+     },
+     {
+      "date": "2026-11-07",
+      "count": 53,
+      "uniques": 22
+     },
+     {
+      "date": "2026-11-08",
+      "count": 33,
+      "uniques": 13
+     },
+     {
+      "date": "2026-11-09",
+      "count": 67,
+      "uniques": 25
+     },
+     {
+      "date": "2026-11-10",
+      "count": 33,
+      "uniques": 11
+     },
+     {
+      "date": "2026-11-11",
+      "count": 32,
+      "uniques": 16
+     },
+     {
+      "date": "2026-11-12",
+      "count": 19,
+      "uniques": 10
+     },
+     {
+      "date": "2026-11-13",
+      "count": 15,
+      "uniques": 7
+     }
+    ],
+    "referrers": [
+     {
+      "referrer": "github.com",
+      "count": 6,
+      "uniques": 1
+     },
+     {
+      "referrer": "mediavanity-dev.github.io",
+      "count": 1,
+      "uniques": 1
+     }
+    ],
+    "paths": [
+     {
+      "path": "/mediavanity-dev/dailygeographer",
+      "count": 9,
+      "uniques": 1
+     },
+     {
+      "path": "/mediavanity-dev/dailygeographer/blob/main/site/index.html",
+      "count": 2,
+      "uniques": 1
+     },
+     {
+      "path": "/mediavanity-dev/dailygeographer/tree/main/site",
+      "count": 2,
+      "uniques": 1
+     },
+     {
+      "path": "/mediavanity-dev/dailygeographer/actions/runs/41229178424",
+      "count": 1,
+      "uniques": 1
+     },
+     {
+      "path": "/mediavanity-dev/dailygeographer/activity",
+      "count": 1,
+      "uniques": 1
+     },
+     {
+      "path": "/mediavanity-dev/dailygeographer/edit/main/site/index.html",
+      "count": 1,
+      "uniques": 1
+     }
+    ]
+   }
+  },
   {
    "repo": {
     "name": "ask-the-potato",
@@ -17,9 +262,9 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 0,
-    "pushedAt": "2026-11-14T01:28:05Z",
+    "pushedAt": "2026-11-14T01:51:55Z",
     "createdAt": "2026-11-14T01:24:41Z",
-    "sizeKB": 0
+    "sizeKB": 17
    },
    "site": {
     "url": "https://mediavanity-dev.github.io/ask-the-potato/",
@@ -27,11 +272,11 @@
     "https": true,
     "buildType": "legacy",
     "buildStatus": "built",
-    "builtAt": "2026-11-14T01:28:41Z",
+    "builtAt": "2026-11-14T01:52:31Z",
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 107
+     "ms": 99
     }
    },
    "workflows": [
@@ -43,8 +288,8 @@
       "status": "completed",
       "conclusion": "success",
       "event": "dynamic",
-      "at": "2026-11-14T01:28:06Z",
-      "url": "https://github.com/mediavanity-dev/ask-the-potato/actions/runs/43540759562"
+      "at": "2026-11-14T01:51:57Z",
+      "url": "https://github.com/mediavanity-dev/ask-the-potato/actions/runs/43543085003"
      }
     }
    ],
@@ -199,478 +444,6 @@
   },
   {
    "repo": {
-    "name": "dailygeographer",
-    "url": "https://github.com/mediavanity-dev/dailygeographer",
-    "description": "A new country every day",
-    "private": false,
-    "language": "JavaScript",
-    "stars": 0,
-    "forks": 0,
-    "watchers": 0,
-    "openIssues": 1,
-    "pushedAt": "2026-11-14T01:07:52Z",
-    "createdAt": "2026-10-31T17:03:54Z",
-    "sizeKB": 185
-   },
-   "site": {
-    "url": "https://dailygeographer.com/",
-    "domain": "dailygeographer.com",
-    "https": true,
-    "buildType": "workflow",
-    "buildStatus": null,
-    "builtAt": null,
-    "probe": {
-     "ok": true,
-     "status": 200,
-     "ms": 194
-    }
-   },
-   "workflows": [
-    {
-     "name": "Weekly list check",
-     "state": "active",
-     "url": "https://github.com/mediavanity-dev/dailygeographer/blob/main/.github/workflows/check-list.yml",
-     "run": {
-      "status": "completed",
-      "conclusion": "success",
-      "event": "schedule",
-      "at": "2026-11-09T07:21:43Z",
-      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/42578849967"
-     }
-    },
-    {
-     "name": "Update and deploy",
-     "state": "active",
-     "url": "https://github.com/mediavanity-dev/dailygeographer/blob/main/.github/workflows/update.yml",
-     "run": {
-      "status": "completed",
-      "conclusion": "success",
-      "event": "schedule",
-      "at": "2026-11-14T01:05:03Z",
-      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/43538387106"
-     }
-    }
-   ],
-   "traffic": {
-    "views": [
-     {
-      "date": "2026-10-30",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-31",
-      "count": 18,
-      "uniques": 2
-     },
-     {
-      "date": "2026-11-01",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-02",
-      "count": 4,
-      "uniques": 1
-     },
-     {
-      "date": "2026-11-03",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-04",
-      "count": 1,
-      "uniques": 1
-     },
-     {
-      "date": "2026-11-05",
-      "count": 1,
-      "uniques": 1
-     },
-     {
-      "date": "2026-11-06",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-07",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-08",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-09",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-10",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-11",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-12",
-      "count": 0,
-      "uniques": 0
-     }
-    ],
-    "clones": [
-     {
-      "date": "2026-10-30",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-31",
-      "count": 73,
-      "uniques": 22
-     },
-     {
-      "date": "2026-11-01",
-      "count": 28,
-      "uniques": 13
-     },
-     {
-      "date": "2026-11-02",
-      "count": 143,
-      "uniques": 62
-     },
-     {
-      "date": "2026-11-03",
-      "count": 109,
-      "uniques": 47
-     },
-     {
-      "date": "2026-11-04",
-      "count": 42,
-      "uniques": 18
-     },
-     {
-      "date": "2026-11-05",
-      "count": 64,
-      "uniques": 25
-     },
-     {
-      "date": "2026-11-06",
-      "count": 78,
-      "uniques": 35
-     },
-     {
-      "date": "2026-11-07",
-      "count": 53,
-      "uniques": 22
-     },
-     {
-      "date": "2026-11-08",
-      "count": 33,
-      "uniques": 13
-     },
-     {
-      "date": "2026-11-09",
-      "count": 67,
-      "uniques": 25
-     },
-     {
-      "date": "2026-11-10",
-      "count": 33,
-      "uniques": 11
-     },
-     {
-      "date": "2026-11-11",
-      "count": 32,
-      "uniques": 16
-     },
-     {
-      "date": "2026-11-12",
-      "count": 19,
-      "uniques": 10
-     }
-    ],
-    "referrers": [
-     {
-      "referrer": "github.com",
-      "count": 6,
-      "uniques": 1
-     },
-     {
-      "referrer": "mediavanity-dev.github.io",
-      "count": 1,
-      "uniques": 1
-     }
-    ],
-    "paths": [
-     {
-      "path": "/mediavanity-dev/dailygeographer",
-      "count": 9,
-      "uniques": 1
-     },
-     {
-      "path": "/mediavanity-dev/dailygeographer/blob/main/site/index.html",
-      "count": 2,
-      "uniques": 1
-     },
-     {
-      "path": "/mediavanity-dev/dailygeographer/tree/main/site",
-      "count": 2,
-      "uniques": 1
-     },
-     {
-      "path": "/mediavanity-dev/dailygeographer/actions/runs/41229178424",
-      "count": 1,
-      "uniques": 1
-     },
-     {
-      "path": "/mediavanity-dev/dailygeographer/activity",
-      "count": 1,
-      "uniques": 1
-     },
-     {
-      "path": "/mediavanity-dev/dailygeographer/edit/main/site/index.html",
-      "count": 1,
-      "uniques": 1
-     }
-    ]
-   }
-  },
-  {
-   "repo": {
-    "name": "alchemy",
-    "url": "https://github.com/mediavanity-dev/alchemy",
-    "description": null,
-    "private": false,
-    "language": "JavaScript",
-    "stars": 0,
-    "forks": 0,
-    "watchers": 0,
-    "openIssues": 0,
-    "pushedAt": "2026-11-14T00:58:39Z",
-    "createdAt": "2026-11-03T03:12:24Z",
-    "sizeKB": 5727
-   },
-   "site": {
-    "url": "https://mediavanity-dev.github.io/alchemy/",
-    "domain": null,
-    "https": true,
-    "buildType": "legacy",
-    "buildStatus": "built",
-    "builtAt": "2026-11-14T00:59:01Z",
-    "probe": {
-     "ok": true,
-     "status": 200,
-     "ms": 176
-    }
-   },
-   "workflows": [
-    {
-     "name": "iOS → TestFlight",
-     "state": "active",
-     "url": "https://github.com/mediavanity-dev/alchemy/blob/main/.github/workflows/ios-testflight.yml",
-     "run": {
-      "status": "completed",
-      "conclusion": "success",
-      "event": "workflow_dispatch",
-      "at": "2026-11-14T00:58:41Z",
-      "url": "https://github.com/mediavanity-dev/alchemy/actions/runs/43537664411"
-     }
-    },
-    {
-     "name": "App Store listing",
-     "state": "active",
-     "url": "https://github.com/mediavanity-dev/alchemy/blob/main/.github/workflows/store-listing.yml",
-     "run": {
-      "status": "completed",
-      "conclusion": "success",
-      "event": "workflow_dispatch",
-      "at": "2026-11-13T13:17:22Z",
-      "url": "https://github.com/mediavanity-dev/alchemy/actions/runs/43432382173"
-     }
-    },
-    {
-     "name": "pages-build-deployment",
-     "state": "active",
-     "url": "https://github.com/mediavanity-dev/alchemy/actions/workflows/pages/pages-build-deployment",
-     "run": {
-      "status": "completed",
-      "conclusion": "success",
-      "event": "dynamic",
-      "at": "2026-11-14T00:58:40Z",
-      "url": "https://github.com/mediavanity-dev/alchemy/actions/runs/43537663887"
-     }
-    }
-   ],
-   "traffic": {
-    "views": [
-     {
-      "date": "2026-10-30",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-31",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-01",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-02",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-03",
-      "count": 1,
-      "uniques": 1
-     },
-     {
-      "date": "2026-11-04",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-05",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-06",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-07",
-      "count": 1,
-      "uniques": 1
-     },
-     {
-      "date": "2026-11-08",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-09",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-10",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-11",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-12",
-      "count": 0,
-      "uniques": 0
-     }
-    ],
-    "clones": [
-     {
-      "date": "2026-10-30",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-10-31",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-01",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-02",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-03",
-      "count": 85,
-      "uniques": 29
-     },
-     {
-      "date": "2026-11-04",
-      "count": 18,
-      "uniques": 11
-     },
-     {
-      "date": "2026-11-05",
-      "count": 14,
-      "uniques": 7
-     },
-     {
-      "date": "2026-11-06",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-07",
-      "count": 11,
-      "uniques": 6
-     },
-     {
-      "date": "2026-11-08",
-      "count": 1,
-      "uniques": 1
-     },
-     {
-      "date": "2026-11-09",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-10",
-      "count": 1,
-      "uniques": 1
-     },
-     {
-      "date": "2026-11-11",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-12",
-      "count": 13,
-      "uniques": 6
-     }
-    ],
-    "referrers": [
-     {
-      "referrer": "mediavanity-dev.github.io",
-      "count": 1,
-      "uniques": 1
-     }
-    ],
-    "paths": [
-     {
-      "path": "/mediavanity-dev/alchemy",
-      "count": 2,
-      "uniques": 2
-     }
-    ]
-   }
-  },
-  {
-   "repo": {
     "name": "dashboard",
     "url": "https://github.com/mediavanity-dev/dashboard",
     "description": null,
@@ -680,9 +453,9 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 0,
-    "pushedAt": "2026-11-13T19:22:53Z",
+    "pushedAt": "2026-11-14T01:30:38Z",
     "createdAt": "2026-11-04T00:14:03Z",
-    "sizeKB": 154
+    "sizeKB": 156
    },
    "site": {
     "url": "https://mediavanity-dev.github.io/dashboard/",
@@ -694,7 +467,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 99
+     "ms": 115
     }
    },
    "workflows": [
@@ -706,8 +479,8 @@
       "status": "in_progress",
       "conclusion": null,
       "event": "schedule",
-      "at": "2026-11-14T01:30:17Z",
-      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/43540969960"
+      "at": "2026-11-14T07:30:33Z",
+      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/43571414908"
      }
     }
    ],
@@ -874,6 +647,233 @@
   },
   {
    "repo": {
+    "name": "alchemy",
+    "url": "https://github.com/mediavanity-dev/alchemy",
+    "description": null,
+    "private": false,
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "openIssues": 0,
+    "pushedAt": "2026-11-14T00:58:39Z",
+    "createdAt": "2026-11-03T03:12:24Z",
+    "sizeKB": 5727
+   },
+   "site": {
+    "url": "https://mediavanity-dev.github.io/alchemy/",
+    "domain": null,
+    "https": true,
+    "buildType": "legacy",
+    "buildStatus": "built",
+    "builtAt": "2026-11-14T00:59:01Z",
+    "probe": {
+     "ok": true,
+     "status": 200,
+     "ms": 149
+    }
+   },
+   "workflows": [
+    {
+     "name": "iOS → TestFlight",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/alchemy/blob/main/.github/workflows/ios-testflight.yml",
+     "run": {
+      "status": "completed",
+      "conclusion": "success",
+      "event": "workflow_dispatch",
+      "at": "2026-11-14T00:58:41Z",
+      "url": "https://github.com/mediavanity-dev/alchemy/actions/runs/43537664411"
+     }
+    },
+    {
+     "name": "App Store listing",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/alchemy/blob/main/.github/workflows/store-listing.yml",
+     "run": {
+      "status": "completed",
+      "conclusion": "success",
+      "event": "workflow_dispatch",
+      "at": "2026-11-13T13:17:22Z",
+      "url": "https://github.com/mediavanity-dev/alchemy/actions/runs/43432382173"
+     }
+    },
+    {
+     "name": "pages-build-deployment",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/alchemy/actions/workflows/pages/pages-build-deployment",
+     "run": {
+      "status": "completed",
+      "conclusion": "success",
+      "event": "dynamic",
+      "at": "2026-11-14T00:58:40Z",
+      "url": "https://github.com/mediavanity-dev/alchemy/actions/runs/43537663887"
+     }
+    }
+   ],
+   "traffic": {
+    "views": [
+     {
+      "date": "2026-10-31",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-01",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-02",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-03",
+      "count": 1,
+      "uniques": 1
+     },
+     {
+      "date": "2026-11-04",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-05",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-06",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-07",
+      "count": 1,
+      "uniques": 1
+     },
+     {
+      "date": "2026-11-08",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-09",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-10",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-11",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-12",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-13",
+      "count": 0,
+      "uniques": 0
+     }
+    ],
+    "clones": [
+     {
+      "date": "2026-10-31",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-01",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-02",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-03",
+      "count": 85,
+      "uniques": 29
+     },
+     {
+      "date": "2026-11-04",
+      "count": 18,
+      "uniques": 11
+     },
+     {
+      "date": "2026-11-05",
+      "count": 14,
+      "uniques": 7
+     },
+     {
+      "date": "2026-11-06",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-07",
+      "count": 11,
+      "uniques": 6
+     },
+     {
+      "date": "2026-11-08",
+      "count": 1,
+      "uniques": 1
+     },
+     {
+      "date": "2026-11-09",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-10",
+      "count": 1,
+      "uniques": 1
+     },
+     {
+      "date": "2026-11-11",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-12",
+      "count": 13,
+      "uniques": 6
+     },
+     {
+      "date": "2026-11-13",
+      "count": 71,
+      "uniques": 16
+     }
+    ],
+    "referrers": [
+     {
+      "referrer": "mediavanity-dev.github.io",
+      "count": 1,
+      "uniques": 1
+     }
+    ],
+    "paths": [
+     {
+      "path": "/mediavanity-dev/alchemy",
+      "count": 2,
+      "uniques": 2
+     }
+    ]
+   }
+  },
+  {
+   "repo": {
     "name": "alchemy-app",
     "url": "https://github.com/mediavanity-dev/alchemy-app",
     "description": "Website for Alchemy: Melody to Chords, for iPhone",
@@ -897,7 +897,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 115
+     "ms": 111
     }
    },
    "workflows": [
@@ -917,6 +917,11 @@
    "traffic": {
     "views": [
      {
+      "date": "2026-10-31",
+      "count": 0,
+      "uniques": 0
+     },
+     {
       "date": "2026-11-01",
       "count": 0,
       "uniques": 0
@@ -978,17 +983,17 @@
      },
      {
       "date": "2026-11-13",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-14",
       "count": 0,
       "uniques": 0
      }
     ],
     "clones": [
      {
+      "date": "2026-10-31",
+      "count": 0,
+      "uniques": 0
+     },
+     {
       "date": "2026-11-01",
       "count": 0,
       "uniques": 0
@@ -1050,13 +1055,8 @@
      },
      {
       "date": "2026-11-13",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-14",
-      "count": 0,
-      "uniques": 0
+      "count": 25,
+      "uniques": 16
      }
     ],
     "referrers": [],
@@ -1088,7 +1088,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 117
+     "ms": 206
     }
    },
    "workflows": [
@@ -1313,7 +1313,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 254
+     "ms": 211
     }
    },
    "workflows": [
@@ -1526,7 +1526,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 126
+     "ms": 106
     }
    },
    "workflows": [
@@ -1729,7 +1729,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 181
+     "ms": 114
     }
    },
    "workflows": [
@@ -1748,11 +1748,6 @@
    ],
    "traffic": {
     "views": [
-     {
-      "date": "2026-10-30",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-31",
       "count": 0,
@@ -1817,14 +1812,14 @@
       "date": "2026-11-12",
       "count": 0,
       "uniques": 0
+     },
+     {
+      "date": "2026-11-13",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "clones": [
-     {
-      "date": "2026-10-30",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-31",
       "count": 0,
@@ -1889,6 +1884,11 @@
       "date": "2026-11-12",
       "count": 0,
       "uniques": 0
+     },
+     {
+      "date": "2026-11-13",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "referrers": [],
@@ -1920,7 +1920,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 117
+     "ms": 121
     }
    },
    "workflows": [
@@ -1939,11 +1939,6 @@
    ],
    "traffic": {
     "views": [
-     {
-      "date": "2026-10-30",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-31",
       "count": 0,
@@ -2008,14 +2003,14 @@
       "date": "2026-11-12",
       "count": 0,
       "uniques": 0
+     },
+     {
+      "date": "2026-11-13",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "clones": [
-     {
-      "date": "2026-10-30",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-31",
       "count": 0,
@@ -2080,6 +2075,11 @@
       "date": "2026-11-12",
       "count": 0,
       "uniques": 0
+     },
+     {
+      "date": "2026-11-13",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "referrers": [
@@ -2123,7 +2123,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 263
+     "ms": 199
     }
    },
    "workflows": [
@@ -2142,11 +2142,6 @@
    ],
    "traffic": {
     "views": [
-     {
-      "date": "2026-10-30",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-31",
       "count": 0,
@@ -2211,14 +2206,14 @@
       "date": "2026-11-12",
       "count": 0,
       "uniques": 0
+     },
+     {
+      "date": "2026-11-13",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "clones": [
-     {
-      "date": "2026-10-30",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-10-31",
       "count": 0,
@@ -2281,6 +2276,11 @@
      },
      {
       "date": "2026-11-12",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-13",
       "count": 0,
       "uniques": 0
      }
@@ -2667,12 +2667,17 @@
      "users": 1,
      "sessions": 2,
      "views": 2
+    },
+    "2026-11-13": {
+     "users": 1,
+     "sessions": 1,
+     "views": 2
     }
    },
    "pages": [
     {
      "name": "/",
-     "count": 46
+     "count": 48
     }
    ],
    "sources": [
@@ -2682,6 +2687,10 @@
     },
     {
      "name": "dataindex.pro",
+     "count": 1
+    },
+    {
+     "name": "github.com",
      "count": 1
     },
     {
@@ -2776,12 +2785,17 @@
      "users": 1,
      "sessions": 2,
      "views": 3
+    },
+    "2026-11-13": {
+     "users": 1,
+     "sessions": 1,
+     "views": 2
     }
    },
    "pages": [
     {
      "name": "/alchemy/",
-     "count": 45
+     "count": 47
     }
    ],
    "sources": [
@@ -2791,7 +2805,7 @@
     },
     {
      "name": "github.com",
-     "count": 1
+     "count": 2
     }
    ],
    "countries": [
