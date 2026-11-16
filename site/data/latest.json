@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T01:52:00.658Z",
+ "generatedAt": "2026-11-16T09:13:40.102Z",
  "owner": {
   "login": "mediavanity-dev",
   "url": "https://github.com/mediavanity-dev",
@@ -17,9 +17,9 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 1,
-    "pushedAt": "2026-11-16T01:37:07Z",
+    "pushedAt": "2026-11-16T08:59:12Z",
     "createdAt": "2026-10-31T17:03:54Z",
-    "sizeKB": 206
+    "sizeKB": 208
    },
    "site": {
     "url": "https://dailygeographer.com/",
@@ -31,7 +31,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 134
+     "ms": 194
     }
    },
    "workflows": [
@@ -43,8 +43,8 @@
       "status": "completed",
       "conclusion": "success",
       "event": "schedule",
-      "at": "2026-11-09T07:21:43Z",
-      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/42578849967"
+      "at": "2026-11-16T08:39:03Z",
+      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/43832951274"
      }
     },
     {
@@ -55,8 +55,8 @@
       "status": "completed",
       "conclusion": "success",
       "event": "schedule",
-      "at": "2026-11-16T01:28:24Z",
-      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/43786462464"
+      "at": "2026-11-16T08:50:35Z",
+      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/43834531854"
      }
     }
    ],
@@ -248,6 +248,591 @@
   },
   {
    "repo": {
+    "name": "standards-support",
+    "url": "https://github.com/mediavanity-dev/standards-support",
+    "description": "Support and privacy pages for the Standards iOS app",
+    "private": false,
+    "language": "HTML",
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "openIssues": 0,
+    "pushedAt": "2026-11-16T02:35:57Z",
+    "createdAt": "2026-11-16T02:35:51Z",
+    "sizeKB": 2
+   },
+   "site": {
+    "url": "https://mediavanity-dev.github.io/standards-support/",
+    "domain": null,
+    "https": true,
+    "buildType": "legacy",
+    "buildStatus": "built",
+    "builtAt": "2026-11-16T02:36:36Z",
+    "probe": {
+     "ok": true,
+     "status": 200,
+     "ms": 131
+    }
+   },
+   "workflows": [
+    {
+     "name": "pages-build-deployment",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/standards-support/actions/workflows/pages/pages-build-deployment",
+     "run": {
+      "status": "completed",
+      "conclusion": "success",
+      "event": "dynamic",
+      "at": "2026-11-16T02:36:00Z",
+      "url": "https://github.com/mediavanity-dev/standards-support/actions/runs/43793151498"
+     }
+    }
+   ],
+   "traffic": {
+    "views": [
+     {
+      "date": "2026-11-03",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-04",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-05",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-06",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-07",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-08",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-09",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-10",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-11",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-12",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-13",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-14",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-15",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-16",
+      "count": 0,
+      "uniques": 0
+     }
+    ],
+    "clones": [
+     {
+      "date": "2026-11-03",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-04",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-05",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-06",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-07",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-08",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-09",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-10",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-11",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-12",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-13",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-14",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-15",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-16",
+      "count": 0,
+      "uniques": 0
+     }
+    ],
+    "referrers": [],
+    "paths": []
+   }
+  },
+  {
+   "repo": {
+    "name": "chordshapes",
+    "url": "https://github.com/mediavanity-dev/chordshapes",
+    "description": "Guitar chord shapes in every position and inversion, with progressions and voice leading",
+    "private": false,
+    "language": "HTML",
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "openIssues": 0,
+    "pushedAt": "2026-11-16T01:59:34Z",
+    "createdAt": "2026-11-04T01:05:39Z",
+    "sizeKB": 26
+   },
+   "site": {
+    "url": "https://mediavanity-dev.github.io/chordshapes/",
+    "domain": null,
+    "https": true,
+    "buildType": "legacy",
+    "buildStatus": "built",
+    "builtAt": "2026-11-16T01:59:56Z",
+    "probe": {
+     "ok": true,
+     "status": 200,
+     "ms": 113
+    }
+   },
+   "workflows": [
+    {
+     "name": "pages-build-deployment",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/chordshapes/actions/workflows/pages/pages-build-deployment",
+     "run": {
+      "status": "completed",
+      "conclusion": "success",
+      "event": "dynamic",
+      "at": "2026-11-16T01:59:35Z",
+      "url": "https://github.com/mediavanity-dev/chordshapes/actions/runs/43789442141"
+     }
+    }
+   ],
+   "traffic": {
+    "views": [
+     {
+      "date": "2026-11-01",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-02",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-03",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-04",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-05",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-06",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-07",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-08",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-09",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-10",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-11",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-12",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-13",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-14",
+      "count": 0,
+      "uniques": 0
+     }
+    ],
+    "clones": [
+     {
+      "date": "2026-11-01",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-02",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-03",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-04",
+      "count": 23,
+      "uniques": 16
+     },
+     {
+      "date": "2026-11-05",
+      "count": 1,
+      "uniques": 1
+     },
+     {
+      "date": "2026-11-06",
+      "count": 1,
+      "uniques": 1
+     },
+     {
+      "date": "2026-11-07",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-08",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-09",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-10",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-11",
+      "count": 1,
+      "uniques": 1
+     },
+     {
+      "date": "2026-11-12",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-13",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-14",
+      "count": 0,
+      "uniques": 0
+     }
+    ],
+    "referrers": [],
+    "paths": []
+   }
+  },
+  {
+   "repo": {
+    "name": "dashboard",
+    "url": "https://github.com/mediavanity-dev/dashboard",
+    "description": null,
+    "private": false,
+    "language": "HTML",
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "openIssues": 0,
+    "pushedAt": "2026-11-16T01:52:01Z",
+    "createdAt": "2026-11-04T00:14:03Z",
+    "sizeKB": 85
+   },
+   "site": {
+    "url": "https://mediavanity-dev.github.io/dashboard/",
+    "domain": null,
+    "https": true,
+    "buildType": "workflow",
+    "buildStatus": null,
+    "builtAt": null,
+    "probe": {
+     "ok": true,
+     "status": 200,
+     "ms": 122
+    }
+   },
+   "workflows": [
+    {
+     "name": "Update and deploy",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/dashboard/blob/main/.github/workflows/update.yml",
+     "run": {
+      "status": "in_progress",
+      "conclusion": null,
+      "event": "schedule",
+      "at": "2026-11-16T09:13:11Z",
+      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/43837766262"
+     }
+    }
+   ],
+   "traffic": {
+    "views": [
+     {
+      "date": "2026-11-01",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-02",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-03",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-04",
+      "count": 2,
+      "uniques": 1
+     },
+     {
+      "date": "2026-11-05",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-06",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-07",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-08",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-09",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-10",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-11",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-12",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-13",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-14",
+      "count": 0,
+      "uniques": 0
+     }
+    ],
+    "clones": [
+     {
+      "date": "2026-11-01",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-02",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-03",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-04",
+      "count": 165,
+      "uniques": 64
+     },
+     {
+      "date": "2026-11-05",
+      "count": 66,
+      "uniques": 24
+     },
+     {
+      "date": "2026-11-06",
+      "count": 81,
+      "uniques": 37
+     },
+     {
+      "date": "2026-11-07",
+      "count": 60,
+      "uniques": 29
+     },
+     {
+      "date": "2026-11-08",
+      "count": 50,
+      "uniques": 22
+     },
+     {
+      "date": "2026-11-09",
+      "count": 65,
+      "uniques": 30
+     },
+     {
+      "date": "2026-11-10",
+      "count": 33,
+      "uniques": 14
+     },
+     {
+      "date": "2026-11-11",
+      "count": 19,
+      "uniques": 10
+     },
+     {
+      "date": "2026-11-12",
+      "count": 29,
+      "uniques": 12
+     },
+     {
+      "date": "2026-11-13",
+      "count": 36,
+      "uniques": 16
+     },
+     {
+      "date": "2026-11-14",
+      "count": 6,
+      "uniques": 3
+     }
+    ],
+    "referrers": [
+     {
+      "referrer": "mediavanity-dev.github.io",
+      "count": 1,
+      "uniques": 1
+     }
+    ],
+    "paths": [
+     {
+      "path": "/mediavanity-dev/dashboard",
+      "count": 2,
+      "uniques": 1
+     }
+    ]
+   }
+  },
+  {
+   "repo": {
     "name": "alchemy-app",
     "url": "https://github.com/mediavanity-dev/alchemy-app",
     "description": "Website for Alchemy: Melody to Chords, for iPhone",
@@ -271,7 +856,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 750
+     "ms": 168
     }
    },
    "workflows": [
@@ -439,209 +1024,6 @@
   },
   {
    "repo": {
-    "name": "dashboard",
-    "url": "https://github.com/mediavanity-dev/dashboard",
-    "description": null,
-    "private": false,
-    "language": "HTML",
-    "stars": 0,
-    "forks": 0,
-    "watchers": 0,
-    "openIssues": 0,
-    "pushedAt": "2026-11-15T19:13:20Z",
-    "createdAt": "2026-11-04T00:14:03Z",
-    "sizeKB": 84
-   },
-   "site": {
-    "url": "https://mediavanity-dev.github.io/dashboard/",
-    "domain": null,
-    "https": true,
-    "buildType": "workflow",
-    "buildStatus": null,
-    "builtAt": null,
-    "probe": {
-     "ok": true,
-     "status": 200,
-     "ms": 42
-    }
-   },
-   "workflows": [
-    {
-     "name": "Update and deploy",
-     "state": "active",
-     "url": "https://github.com/mediavanity-dev/dashboard/blob/main/.github/workflows/update.yml",
-     "run": {
-      "status": "in_progress",
-      "conclusion": null,
-      "event": "schedule",
-      "at": "2026-11-16T01:51:40Z",
-      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/43788704757"
-     }
-    }
-   ],
-   "traffic": {
-    "views": [
-     {
-      "date": "2026-11-01",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-02",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-03",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-04",
-      "count": 2,
-      "uniques": 1
-     },
-     {
-      "date": "2026-11-05",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-06",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-07",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-08",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-09",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-10",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-11",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-12",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-13",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-14",
-      "count": 0,
-      "uniques": 0
-     }
-    ],
-    "clones": [
-     {
-      "date": "2026-11-01",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-02",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-03",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-04",
-      "count": 165,
-      "uniques": 64
-     },
-     {
-      "date": "2026-11-05",
-      "count": 66,
-      "uniques": 24
-     },
-     {
-      "date": "2026-11-06",
-      "count": 81,
-      "uniques": 37
-     },
-     {
-      "date": "2026-11-07",
-      "count": 60,
-      "uniques": 29
-     },
-     {
-      "date": "2026-11-08",
-      "count": 50,
-      "uniques": 22
-     },
-     {
-      "date": "2026-11-09",
-      "count": 65,
-      "uniques": 30
-     },
-     {
-      "date": "2026-11-10",
-      "count": 33,
-      "uniques": 14
-     },
-     {
-      "date": "2026-11-11",
-      "count": 19,
-      "uniques": 10
-     },
-     {
-      "date": "2026-11-12",
-      "count": 29,
-      "uniques": 12
-     },
-     {
-      "date": "2026-11-13",
-      "count": 36,
-      "uniques": 16
-     },
-     {
-      "date": "2026-11-14",
-      "count": 6,
-      "uniques": 3
-     }
-    ],
-    "referrers": [
-     {
-      "referrer": "mediavanity-dev.github.io",
-      "count": 1,
-      "uniques": 1
-     }
-    ],
-    "paths": [
-     {
-      "path": "/mediavanity-dev/dashboard",
-      "count": 2,
-      "uniques": 1
-     }
-    ]
-   }
-  },
-  {
-   "repo": {
     "name": "ask-the-potato",
     "url": "https://github.com/mediavanity-dev/ask-the-potato",
     "description": "A wise potato oracle that answers your questions 🥔",
@@ -665,7 +1047,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 148
+     "ms": 112
     }
    },
    "workflows": [
@@ -873,7 +1255,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 48
+     "ms": 126
     }
    },
    "workflows": [
@@ -1098,7 +1480,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 130
+     "ms": 209
     }
    },
    "workflows": [
@@ -1311,7 +1693,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 103
+     "ms": 131
     }
    },
    "workflows": [
@@ -1491,400 +1873,6 @@
   },
   {
    "repo": {
-    "name": "chordshapes",
-    "url": "https://github.com/mediavanity-dev/chordshapes",
-    "description": "Guitar chord shapes in every position and inversion, with progressions and voice leading",
-    "private": false,
-    "language": "HTML",
-    "stars": 0,
-    "forks": 0,
-    "watchers": 0,
-    "openIssues": 0,
-    "pushedAt": "2026-11-04T01:05:45Z",
-    "createdAt": "2026-11-04T01:05:39Z",
-    "sizeKB": 21
-   },
-   "site": {
-    "url": "https://mediavanity-dev.github.io/chordshapes/",
-    "domain": null,
-    "https": true,
-    "buildType": "legacy",
-    "buildStatus": "built",
-    "builtAt": "2026-11-04T01:06:22Z",
-    "probe": {
-     "ok": true,
-     "status": 200,
-     "ms": 73
-    }
-   },
-   "workflows": [
-    {
-     "name": "pages-build-deployment",
-     "state": "active",
-     "url": "https://github.com/mediavanity-dev/chordshapes/actions/workflows/pages/pages-build-deployment",
-     "run": {
-      "status": "completed",
-      "conclusion": "success",
-      "event": "dynamic",
-      "at": "2026-11-04T01:05:56Z",
-      "url": "https://github.com/mediavanity-dev/chordshapes/actions/runs/41751649229"
-     }
-    }
-   ],
-   "traffic": {
-    "views": [
-     {
-      "date": "2026-11-01",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-02",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-03",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-04",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-05",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-06",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-07",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-08",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-09",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-10",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-11",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-12",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-13",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-14",
-      "count": 0,
-      "uniques": 0
-     }
-    ],
-    "clones": [
-     {
-      "date": "2026-11-01",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-02",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-03",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-04",
-      "count": 23,
-      "uniques": 16
-     },
-     {
-      "date": "2026-11-05",
-      "count": 1,
-      "uniques": 1
-     },
-     {
-      "date": "2026-11-06",
-      "count": 1,
-      "uniques": 1
-     },
-     {
-      "date": "2026-11-07",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-08",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-09",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-10",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-11",
-      "count": 1,
-      "uniques": 1
-     },
-     {
-      "date": "2026-11-12",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-13",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-14",
-      "count": 0,
-      "uniques": 0
-     }
-    ],
-    "referrers": [],
-    "paths": []
-   }
-  },
-  {
-   "repo": {
-    "name": "standards",
-    "url": "https://github.com/mediavanity-dev/standards",
-    "description": "Jazz standards chord charts with transposition and guitar/piano voicings",
-    "private": false,
-    "language": "HTML",
-    "stars": 0,
-    "forks": 0,
-    "watchers": 0,
-    "openIssues": 0,
-    "pushedAt": "2026-11-04T00:25:36Z",
-    "createdAt": "2026-11-02T04:01:35Z",
-    "sizeKB": 84
-   },
-   "site": {
-    "url": "https://mediavanity-dev.github.io/standards/",
-    "domain": null,
-    "https": true,
-    "buildType": "legacy",
-    "buildStatus": "built",
-    "builtAt": "2026-11-04T00:26:13Z",
-    "probe": {
-     "ok": true,
-     "status": 200,
-     "ms": 54
-    }
-   },
-   "workflows": [
-    {
-     "name": "pages-build-deployment",
-     "state": "active",
-     "url": "https://github.com/mediavanity-dev/standards/actions/workflows/pages/pages-build-deployment",
-     "run": {
-      "status": "completed",
-      "conclusion": "success",
-      "event": "dynamic",
-      "at": "2026-11-04T00:25:38Z",
-      "url": "https://github.com/mediavanity-dev/standards/actions/runs/41746728392"
-     }
-    }
-   ],
-   "traffic": {
-    "views": [
-     {
-      "date": "2026-11-01",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-02",
-      "count": 2,
-      "uniques": 1
-     },
-     {
-      "date": "2026-11-03",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-04",
-      "count": 2,
-      "uniques": 1
-     },
-     {
-      "date": "2026-11-05",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-06",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-07",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-08",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-09",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-10",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-11",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-12",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-13",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-14",
-      "count": 0,
-      "uniques": 0
-     }
-    ],
-    "clones": [
-     {
-      "date": "2026-11-01",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-02",
-      "count": 56,
-      "uniques": 22
-     },
-     {
-      "date": "2026-11-03",
-      "count": 22,
-      "uniques": 11
-     },
-     {
-      "date": "2026-11-04",
-      "count": 20,
-      "uniques": 12
-     },
-     {
-      "date": "2026-11-05",
-      "count": 1,
-      "uniques": 1
-     },
-     {
-      "date": "2026-11-06",
-      "count": 2,
-      "uniques": 2
-     },
-     {
-      "date": "2026-11-07",
-      "count": 1,
-      "uniques": 1
-     },
-     {
-      "date": "2026-11-08",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-09",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-10",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-11",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-12",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-13",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-14",
-      "count": 2,
-      "uniques": 2
-     }
-    ],
-    "referrers": [
-     {
-      "referrer": "github.com",
-      "count": 4,
-      "uniques": 1
-     }
-    ],
-    "paths": [
-     {
-      "path": "/mediavanity-dev/standards",
-      "count": 4,
-      "uniques": 1
-     }
-    ]
-   }
-  },
-  {
-   "repo": {
     "name": "dailyditch",
     "url": "https://github.com/mediavanity-dev/dailyditch",
     "description": "Live Audio-Visual Analyzer - dailyditch.com",
@@ -1908,7 +1896,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 104
+     "ms": 177
     }
    },
    "workflows": [
@@ -2114,27 +2102,22 @@
      "users": 1,
      "sessions": 1,
      "views": 1
-    },
-    "2026-11-13": {
-     "users": 0,
-     "sessions": 2,
-     "views": 2
     }
    },
    "pages": [
     {
      "name": "/",
-     "count": 101
+     "count": 99
     }
    ],
    "sources": [
     {
      "name": "(direct)",
-     "count": 72
+     "count": 71
     },
     {
      "name": "google",
-     "count": 7
+     "count": 6
     }
    ],
    "countries": [
@@ -2264,14 +2247,14 @@
   "mediavanity-dev.github.io": {
    "daily": {
     "2026-11-03": {
-     "users": 15,
-     "sessions": 16,
-     "views": 19
+     "users": 17,
+     "sessions": 18,
+     "views": 22
     },
     "2026-11-04": {
-     "users": 9,
-     "sessions": 14,
-     "views": 42
+     "users": 10,
+     "sessions": 16,
+     "views": 55
     },
     "2026-11-05": {
      "users": 6,
@@ -2304,30 +2287,34 @@
      "views": 2
     },
     "2026-11-12": {
-     "users": 2,
-     "sessions": 3,
-     "views": 3
+     "users": 3,
+     "sessions": 4,
+     "views": 4
     },
-    "2026-11-13": {
-     "users": 1,
+    "2026-11-15": {
+     "users": 0,
      "sessions": 1,
-     "views": 2
+     "views": 0
     }
    },
    "pages": [
     {
      "name": "/alchemy/",
-     "count": 47
+     "count": 45
     },
     {
      "name": "/fretboard/",
      "count": 30
+    },
+    {
+     "name": "/standards/",
+     "count": 19
     }
    ],
    "sources": [
     {
      "name": "(direct)",
-     "count": 60
+     "count": 65
     },
     {
      "name": "github.com",
@@ -2337,7 +2324,7 @@
    "countries": [
     {
      "name": "United States",
-     "count": 24
+     "count": 26
     },
     {
      "name": "Czechia",
@@ -2374,16 +2361,20 @@
     {
      "name": "United Kingdom",
      "count": 1
+    },
+    {
+     "name": "Russia",
+     "count": 1
     }
    ],
    "devices": [
     {
      "name": "mobile",
-     "count": 21
+     "count": 22
     },
     {
      "name": "desktop",
-     "count": 15
+     "count": 17
     }
    ]
   },
@@ -2399,6 +2390,11 @@
      "sessions": 2,
      "views": 2
     },
+    "2026-11-15": {
+     "users": 1,
+     "sessions": 1,
+     "views": 2
+    },
     "2026-11-09": {
      "users": 0,
      "sessions": 1,
@@ -2408,13 +2404,17 @@
    "pages": [
     {
      "name": "/chordshapes/",
-     "count": 21
+     "count": 22
     }
    ],
    "sources": [
     {
      "name": "(direct)",
      "count": 16
+    },
+    {
+     "name": "github.com",
+     "count": 1
     }
    ],
    "countries": [
@@ -2502,26 +2502,21 @@
      "sessions": 2,
      "views": 2
     },
-    "2026-11-13": {
-     "users": 2,
-     "sessions": 2,
-     "views": 3
-    },
     "2026-11-12": {
      "users": 1,
      "sessions": 2,
      "views": 2
     },
     "2026-11-15": {
-     "users": 0,
-     "sessions": 1,
-     "views": 1
+     "users": 1,
+     "sessions": 2,
+     "views": 3
     }
    },
    "pages": [
     {
      "name": "/",
-     "count": 54
+     "count": 53
     }
    ],
    "sources": [
@@ -2531,10 +2526,6 @@
     },
     {
      "name": "dataindex.pro",
-     "count": 1
-    },
-    {
-     "name": "github.com",
      "count": 1
     },
     {
@@ -2564,10 +2555,6 @@
      "count": 1
     },
     {
-     "name": "India",
-     "count": 1
-    },
-    {
      "name": "Russia",
      "count": 1
     },
@@ -2579,71 +2566,11 @@
    "devices": [
     {
      "name": "desktop",
-     "count": 19
+     "count": 18
     },
     {
      "name": "mobile",
      "count": 11
-    }
-   ]
-  },
-  "standards": {
-   "daily": {
-    "2026-11-03": {
-     "users": 2,
-     "sessions": 2,
-     "views": 3
-    },
-    "2026-11-04": {
-     "users": 1,
-     "sessions": 2,
-     "views": 13
-    },
-    "2026-11-12": {
-     "users": 1,
-     "sessions": 1,
-     "views": 1
-    },
-    "2026-11-13": {
-     "users": 1,
-     "sessions": 1,
-     "views": 1
-    }
-   },
-   "pages": [
-    {
-     "name": "/standards/",
-     "count": 19
-    }
-   ],
-   "sources": [
-    {
-     "name": "(direct)",
-     "count": 5
-    },
-    {
-     "name": "(not set)",
-     "count": 1
-    }
-   ],
-   "countries": [
-    {
-     "name": "United States",
-     "count": 2
-    },
-    {
-     "name": "Russia",
-     "count": 1
-    }
-   ],
-   "devices": [
-    {
-     "name": "desktop",
-     "count": 2
-    },
-    {
-     "name": "mobile",
-     "count": 1
     }
    ]
   },
