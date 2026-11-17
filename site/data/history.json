@@ -307,6 +307,18 @@
    "viewUniques": 1,
    "clones": 58,
    "cloneUniques": 28
+  },
+  "2026-11-15": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 16,
+   "cloneUniques": 8
+  },
+  "2026-11-16": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 51,
+   "cloneUniques": 23
   }
  },
  "standards": {
@@ -623,6 +635,18 @@
    "viewUniques": 0,
    "clones": 2,
    "cloneUniques": 2
+  },
+  "2026-11-15": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-16": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
   }
  },
  "dashboard": {
@@ -769,6 +793,18 @@
    "viewUniques": 0,
    "clones": 6,
    "cloneUniques": 3
+  },
+  "2026-11-15": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 13,
+   "cloneUniques": 6
+  },
+  "2026-11-16": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 29,
+   "cloneUniques": 14
   }
  },
  "chordshapes": {
@@ -915,6 +951,18 @@
    "viewUniques": 0,
    "clones": 0,
    "cloneUniques": 0
+  },
+  "2026-11-15": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-16": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 9,
+   "cloneUniques": 7
   }
  },
  "fretboard": {
@@ -1385,6 +1433,18 @@
    "viewUniques": 0,
    "clones": 2,
    "cloneUniques": 2
+  },
+  "2026-11-15": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-16": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 40,
+   "cloneUniques": 14
   }
  },
  "wholeguitar": {
@@ -1623,6 +1683,18 @@
    "viewUniques": 0,
    "clones": 0,
    "cloneUniques": 0
+  },
+  "2026-11-15": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 3,
+   "cloneUniques": 3
+  },
+  "2026-11-16": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 7,
+   "cloneUniques": 4
   }
  },
  "ask-the-potato": {
@@ -1713,8 +1785,14 @@
   "2026-11-15": {
    "views": 0,
    "viewUniques": 0,
-   "clones": 0,
-   "cloneUniques": 0
+   "clones": 2,
+   "cloneUniques": 2
+  },
+  "2026-11-16": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 14,
+   "cloneUniques": 9
   }
  },
  "standards-support": {
@@ -1724,6 +1802,92 @@
    "clones": 0,
    "cloneUniques": 0
   },
+  "2026-11-04": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-05": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-06": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-07": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-08": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-09": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-10": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-11": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-12": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-13": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-14": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-15": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-16": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 21,
+   "cloneUniques": 15
+  },
+  "2026-11-17": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  }
+ },
+ "pet-resting-respiratory-rate-support": {
   "2026-11-04": {
    "views": 0,
    "viewUniques": 0,
