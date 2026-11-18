@@ -319,6 +319,12 @@
    "viewUniques": 0,
    "clones": 51,
    "cloneUniques": 23
+  },
+  "2026-11-17": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 50,
+   "cloneUniques": 23
   }
  },
  "standards": {
@@ -647,6 +653,12 @@
    "viewUniques": 0,
    "clones": 0,
    "cloneUniques": 0
+  },
+  "2026-11-17": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 1,
+   "cloneUniques": 1
   }
  },
  "dashboard": {
@@ -805,6 +817,12 @@
    "viewUniques": 0,
    "clones": 29,
    "cloneUniques": 14
+  },
+  "2026-11-17": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 33,
+   "cloneUniques": 17
   }
  },
  "chordshapes": {
@@ -963,6 +981,12 @@
    "viewUniques": 0,
    "clones": 9,
    "cloneUniques": 7
+  },
+  "2026-11-17": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
   }
  },
  "fretboard": {
@@ -1299,6 +1323,12 @@
    "viewUniques": 0,
    "clones": 0,
    "cloneUniques": 0
+  },
+  "2026-11-17": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
   }
  },
  "OpenWorld": {
@@ -1457,6 +1487,12 @@
    "viewUniques": 0,
    "clones": 40,
    "cloneUniques": 14
+  },
+  "2026-11-17": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 79,
+   "cloneUniques": 37
   }
  },
  "wholeguitar": {
@@ -1615,6 +1651,12 @@
    "viewUniques": 0,
    "clones": 0,
    "cloneUniques": 0
+  },
+  "2026-11-17": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 1,
+   "cloneUniques": 1
   }
  },
  "alchemy-app": {
@@ -1719,6 +1761,12 @@
    "viewUniques": 0,
    "clones": 7,
    "cloneUniques": 4
+  },
+  "2026-11-17": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 12,
+   "cloneUniques": 8
   }
  },
  "ask-the-potato": {
@@ -1817,6 +1865,12 @@
    "viewUniques": 0,
    "clones": 14,
    "cloneUniques": 9
+  },
+  "2026-11-17": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 1,
+   "cloneUniques": 1
   }
  },
  "standards-support": {
@@ -1907,8 +1961,8 @@
   "2026-11-17": {
    "views": 0,
    "viewUniques": 0,
-   "clones": 0,
-   "cloneUniques": 0
+   "clones": 5,
+   "cloneUniques": 5
   }
  },
  "pet-resting-respiratory-rate-support": {
@@ -1993,8 +2047,8 @@
   "2026-11-17": {
    "views": 0,
    "viewUniques": 0,
-   "clones": 0,
-   "cloneUniques": 0
+   "clones": 25,
+   "cloneUniques": 18
   },
   "2026-11-18": {
    "views": 0,
