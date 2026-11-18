@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T13:41:49.535Z",
+ "generatedAt": "2026-11-18T19:24:54.170Z",
  "owner": {
   "login": "mediavanity-dev",
   "url": "https://github.com/mediavanity-dev",
@@ -17,9 +17,9 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 1,
-    "pushedAt": "2026-11-18T13:24:28Z",
+    "pushedAt": "2026-11-18T19:08:27Z",
     "createdAt": "2026-10-31T17:03:54Z",
-    "sizeKB": 234
+    "sizeKB": 237
    },
    "site": {
     "url": "https://dailygeographer.com/",
@@ -31,7 +31,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 156
+     "ms": 78
     }
    },
    "workflows": [
@@ -55,8 +55,8 @@
       "status": "completed",
       "conclusion": "success",
       "event": "schedule",
-      "at": "2026-11-18T13:19:19Z",
-      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/44312513289"
+      "at": "2026-11-18T18:59:42Z",
+      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/44375683519"
      }
     }
    ],
@@ -243,6 +243,625 @@
   },
   {
    "repo": {
+    "name": "OpenWorld",
+    "url": "https://github.com/mediavanity-dev/OpenWorld",
+    "description": null,
+    "private": false,
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "openIssues": 0,
+    "pushedAt": "2026-11-18T18:32:57Z",
+    "createdAt": "2026-11-04T18:20:59Z",
+    "sizeKB": 691
+   },
+   "site": {
+    "url": "https://mediavanity-dev.github.io/OpenWorld/",
+    "domain": null,
+    "https": true,
+    "buildType": "workflow",
+    "buildStatus": null,
+    "builtAt": null,
+    "probe": {
+     "ok": true,
+     "status": 200,
+     "ms": 45
+    }
+   },
+   "workflows": [
+    {
+     "name": "Checks",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/OpenWorld/blob/main/.github/workflows/checks.yml",
+     "run": {
+      "status": "completed",
+      "conclusion": "success",
+      "event": "pull_request",
+      "at": "2026-11-18T18:31:44Z",
+      "url": "https://github.com/mediavanity-dev/OpenWorld/actions/runs/44370691366"
+     }
+    },
+    {
+     "name": "iOS → TestFlight",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/OpenWorld/blob/main/.github/workflows/ios-testflight.yml",
+     "run": {
+      "status": "completed",
+      "conclusion": "success",
+      "event": "workflow_dispatch",
+      "at": "2026-11-18T18:33:00Z",
+      "url": "https://github.com/mediavanity-dev/OpenWorld/actions/runs/44370922721"
+     }
+    },
+    {
+     "name": "Deploy to GitHub Pages",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/OpenWorld/blob/main/.github/workflows/pages.yml",
+     "run": {
+      "status": "completed",
+      "conclusion": "success",
+      "event": "push",
+      "at": "2026-11-18T18:32:59Z",
+      "url": "https://github.com/mediavanity-dev/OpenWorld/actions/runs/44370920181"
+     }
+    }
+   ],
+   "traffic": {
+    "views": [
+     {
+      "date": "2026-11-04",
+      "count": 1,
+      "uniques": 1
+     },
+     {
+      "date": "2026-11-05",
+      "count": 4,
+      "uniques": 1
+     },
+     {
+      "date": "2026-11-06",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-07",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-08",
+      "count": 1,
+      "uniques": 1
+     },
+     {
+      "date": "2026-11-09",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-10",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-11",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-12",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-13",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-14",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-15",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-16",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-17",
+      "count": 0,
+      "uniques": 0
+     }
+    ],
+    "clones": [
+     {
+      "date": "2026-11-04",
+      "count": 49,
+      "uniques": 19
+     },
+     {
+      "date": "2026-11-05",
+      "count": 144,
+      "uniques": 44
+     },
+     {
+      "date": "2026-11-06",
+      "count": 68,
+      "uniques": 29
+     },
+     {
+      "date": "2026-11-07",
+      "count": 18,
+      "uniques": 13
+     },
+     {
+      "date": "2026-11-08",
+      "count": 137,
+      "uniques": 50
+     },
+     {
+      "date": "2026-11-09",
+      "count": 21,
+      "uniques": 16
+     },
+     {
+      "date": "2026-11-10",
+      "count": 1,
+      "uniques": 1
+     },
+     {
+      "date": "2026-11-11",
+      "count": 2,
+      "uniques": 2
+     },
+     {
+      "date": "2026-11-12",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-13",
+      "count": 4,
+      "uniques": 4
+     },
+     {
+      "date": "2026-11-14",
+      "count": 2,
+      "uniques": 2
+     },
+     {
+      "date": "2026-11-15",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-16",
+      "count": 40,
+      "uniques": 14
+     },
+     {
+      "date": "2026-11-17",
+      "count": 79,
+      "uniques": 37
+     }
+    ],
+    "referrers": [
+     {
+      "referrer": "mediavanity-dev.github.io",
+      "count": 4,
+      "uniques": 1
+     },
+     {
+      "referrer": "github.com",
+      "count": 1,
+      "uniques": 1
+     }
+    ],
+    "paths": [
+     {
+      "path": "/mediavanity-dev/OpenWorld",
+      "count": 5,
+      "uniques": 1
+     },
+     {
+      "path": "/mediavanity-dev/OpenWorld/blob/main/BACKLOG.md",
+      "count": 1,
+      "uniques": 1
+     }
+    ]
+   }
+  },
+  {
+   "repo": {
+    "name": "grandparents-pregnancy-tracker-support",
+    "url": "https://github.com/mediavanity-dev/grandparents-pregnancy-tracker-support",
+    "description": "Support and privacy pages for the Grandparents Pregnancy Tracker iPhone app",
+    "private": false,
+    "language": "HTML",
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "openIssues": 0,
+    "pushedAt": "2026-11-18T17:56:21Z",
+    "createdAt": "2026-11-18T17:56:15Z",
+    "sizeKB": 2
+   },
+   "site": {
+    "url": "https://mediavanity-dev.github.io/grandparents-pregnancy-tracker-support/",
+    "domain": null,
+    "https": true,
+    "buildType": "legacy",
+    "buildStatus": "built",
+    "builtAt": "2026-11-18T17:56:58Z",
+    "probe": {
+     "ok": true,
+     "status": 200,
+     "ms": 24
+    }
+   },
+   "workflows": [
+    {
+     "name": "pages-build-deployment",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/grandparents-pregnancy-tracker-support/actions/workflows/pages/pages-build-deployment",
+     "run": {
+      "status": "completed",
+      "conclusion": "success",
+      "event": "dynamic",
+      "at": "2026-11-18T17:56:24Z",
+      "url": "https://github.com/mediavanity-dev/grandparents-pregnancy-tracker-support/actions/runs/44364179352"
+     }
+    }
+   ],
+   "traffic": {
+    "views": [
+     {
+      "date": "2026-11-05",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-06",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-07",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-08",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-09",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-10",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-11",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-12",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-13",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-14",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-15",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-16",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-17",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-18",
+      "count": 0,
+      "uniques": 0
+     }
+    ],
+    "clones": [
+     {
+      "date": "2026-11-05",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-06",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-07",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-08",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-09",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-10",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-11",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-12",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-13",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-14",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-15",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-16",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-17",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-18",
+      "count": 0,
+      "uniques": 0
+     }
+    ],
+    "referrers": [],
+    "paths": []
+   }
+  },
+  {
+   "repo": {
+    "name": "standards-support",
+    "url": "https://github.com/mediavanity-dev/standards-support",
+    "description": "Support and privacy pages for Standards: Jazz Chord Charts (iOS)",
+    "private": false,
+    "language": "HTML",
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "openIssues": 0,
+    "pushedAt": "2026-11-18T17:34:20Z",
+    "createdAt": "2026-11-16T02:35:51Z",
+    "sizeKB": 3
+   },
+   "site": {
+    "url": "https://mediavanity-dev.github.io/standards-support/",
+    "domain": null,
+    "https": true,
+    "buildType": "legacy",
+    "buildStatus": "built",
+    "builtAt": "2026-11-18T17:34:56Z",
+    "probe": {
+     "ok": true,
+     "status": 200,
+     "ms": 39
+    }
+   },
+   "workflows": [
+    {
+     "name": "pages-build-deployment",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/standards-support/actions/workflows/pages/pages-build-deployment",
+     "run": {
+      "status": "completed",
+      "conclusion": "success",
+      "event": "dynamic",
+      "at": "2026-11-18T17:34:22Z",
+      "url": "https://github.com/mediavanity-dev/standards-support/actions/runs/44360159552"
+     }
+    }
+   ],
+   "traffic": {
+    "views": [
+     {
+      "date": "2026-11-04",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-05",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-06",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-07",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-08",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-09",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-10",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-11",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-12",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-13",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-14",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-15",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-16",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-17",
+      "count": 0,
+      "uniques": 0
+     }
+    ],
+    "clones": [
+     {
+      "date": "2026-11-04",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-05",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-06",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-07",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-08",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-09",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-10",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-11",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-12",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-13",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-14",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-15",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-16",
+      "count": 21,
+      "uniques": 15
+     },
+     {
+      "date": "2026-11-17",
+      "count": 5,
+      "uniques": 5
+     }
+    ],
+    "referrers": [],
+    "paths": []
+   }
+  },
+  {
+   "repo": {
     "name": "dashboard",
     "url": "https://github.com/mediavanity-dev/dashboard",
     "description": null,
@@ -252,9 +871,9 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 0,
-    "pushedAt": "2026-11-18T07:44:50Z",
+    "pushedAt": "2026-11-18T13:41:51Z",
     "createdAt": "2026-11-04T00:14:03Z",
-    "sizeKB": 114
+    "sizeKB": 122
    },
    "site": {
     "url": "https://mediavanity-dev.github.io/dashboard/",
@@ -266,7 +885,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 121
+     "ms": 75
     }
    },
    "workflows": [
@@ -278,8 +897,8 @@
       "status": "in_progress",
       "conclusion": null,
       "event": "schedule",
-      "at": "2026-11-18T13:41:24Z",
-      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/44316260568"
+      "at": "2026-11-18T19:24:29Z",
+      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/44380198968"
      }
     }
    ],
@@ -469,7 +1088,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 91
+     "ms": 90
     }
    },
    "workflows": [
@@ -637,243 +1256,6 @@
   },
   {
    "repo": {
-    "name": "OpenWorld",
-    "url": "https://github.com/mediavanity-dev/OpenWorld",
-    "description": null,
-    "private": false,
-    "language": "JavaScript",
-    "stars": 0,
-    "forks": 0,
-    "watchers": 0,
-    "openIssues": 0,
-    "pushedAt": "2026-11-17T01:47:51Z",
-    "createdAt": "2026-11-04T18:20:59Z",
-    "sizeKB": 691
-   },
-   "site": {
-    "url": "https://mediavanity-dev.github.io/OpenWorld/",
-    "domain": null,
-    "https": true,
-    "buildType": "workflow",
-    "buildStatus": null,
-    "builtAt": null,
-    "probe": {
-     "ok": true,
-     "status": 200,
-     "ms": 72
-    }
-   },
-   "workflows": [
-    {
-     "name": "Checks",
-     "state": "active",
-     "url": "https://github.com/mediavanity-dev/OpenWorld/blob/main/.github/workflows/checks.yml",
-     "run": {
-      "status": "completed",
-      "conclusion": "success",
-      "event": "pull_request",
-      "at": "2026-11-17T01:46:14Z",
-      "url": "https://github.com/mediavanity-dev/OpenWorld/actions/runs/43998073693"
-     }
-    },
-    {
-     "name": "iOS → TestFlight",
-     "state": "active",
-     "url": "https://github.com/mediavanity-dev/OpenWorld/blob/main/.github/workflows/ios-testflight.yml",
-     "run": {
-      "status": "completed",
-      "conclusion": "success",
-      "event": "workflow_dispatch",
-      "at": "2026-11-17T01:47:54Z",
-      "url": "https://github.com/mediavanity-dev/OpenWorld/actions/runs/43998272837"
-     }
-    },
-    {
-     "name": "Deploy to GitHub Pages",
-     "state": "active",
-     "url": "https://github.com/mediavanity-dev/OpenWorld/blob/main/.github/workflows/pages.yml",
-     "run": {
-      "status": "completed",
-      "conclusion": "success",
-      "event": "push",
-      "at": "2026-11-17T01:47:53Z",
-      "url": "https://github.com/mediavanity-dev/OpenWorld/actions/runs/43998272201"
-     }
-    }
-   ],
-   "traffic": {
-    "views": [
-     {
-      "date": "2026-11-04",
-      "count": 1,
-      "uniques": 1
-     },
-     {
-      "date": "2026-11-05",
-      "count": 4,
-      "uniques": 1
-     },
-     {
-      "date": "2026-11-06",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-07",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-08",
-      "count": 1,
-      "uniques": 1
-     },
-     {
-      "date": "2026-11-09",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-10",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-11",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-12",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-13",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-14",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-15",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-16",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-17",
-      "count": 0,
-      "uniques": 0
-     }
-    ],
-    "clones": [
-     {
-      "date": "2026-11-04",
-      "count": 49,
-      "uniques": 19
-     },
-     {
-      "date": "2026-11-05",
-      "count": 144,
-      "uniques": 44
-     },
-     {
-      "date": "2026-11-06",
-      "count": 68,
-      "uniques": 29
-     },
-     {
-      "date": "2026-11-07",
-      "count": 18,
-      "uniques": 13
-     },
-     {
-      "date": "2026-11-08",
-      "count": 137,
-      "uniques": 50
-     },
-     {
-      "date": "2026-11-09",
-      "count": 21,
-      "uniques": 16
-     },
-     {
-      "date": "2026-11-10",
-      "count": 1,
-      "uniques": 1
-     },
-     {
-      "date": "2026-11-11",
-      "count": 2,
-      "uniques": 2
-     },
-     {
-      "date": "2026-11-12",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-13",
-      "count": 4,
-      "uniques": 4
-     },
-     {
-      "date": "2026-11-14",
-      "count": 2,
-      "uniques": 2
-     },
-     {
-      "date": "2026-11-15",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-16",
-      "count": 40,
-      "uniques": 14
-     },
-     {
-      "date": "2026-11-17",
-      "count": 79,
-      "uniques": 37
-     }
-    ],
-    "referrers": [
-     {
-      "referrer": "mediavanity-dev.github.io",
-      "count": 4,
-      "uniques": 1
-     },
-     {
-      "referrer": "github.com",
-      "count": 1,
-      "uniques": 1
-     }
-    ],
-    "paths": [
-     {
-      "path": "/mediavanity-dev/OpenWorld",
-      "count": 5,
-      "uniques": 1
-     },
-     {
-      "path": "/mediavanity-dev/OpenWorld/blob/main/BACKLOG.md",
-      "count": 1,
-      "uniques": 1
-     }
-    ]
-   }
-  },
-  {
-   "repo": {
     "name": "alchemy-app",
     "url": "https://github.com/mediavanity-dev/alchemy-app",
     "description": "Website for Alchemy: Melody to Chords, for iPhone",
@@ -897,7 +1279,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 127
+     "ms": 61
     }
    },
    "workflows": [
@@ -1065,197 +1447,6 @@
   },
   {
    "repo": {
-    "name": "standards-support",
-    "url": "https://github.com/mediavanity-dev/standards-support",
-    "description": "Support and privacy pages for the Standards iOS app",
-    "private": false,
-    "language": "HTML",
-    "stars": 0,
-    "forks": 0,
-    "watchers": 0,
-    "openIssues": 0,
-    "pushedAt": "2026-11-16T02:35:57Z",
-    "createdAt": "2026-11-16T02:35:51Z",
-    "sizeKB": 2
-   },
-   "site": {
-    "url": "https://mediavanity-dev.github.io/standards-support/",
-    "domain": null,
-    "https": true,
-    "buildType": "legacy",
-    "buildStatus": "built",
-    "builtAt": "2026-11-16T02:36:36Z",
-    "probe": {
-     "ok": true,
-     "status": 200,
-     "ms": 83
-    }
-   },
-   "workflows": [
-    {
-     "name": "pages-build-deployment",
-     "state": "active",
-     "url": "https://github.com/mediavanity-dev/standards-support/actions/workflows/pages/pages-build-deployment",
-     "run": {
-      "status": "completed",
-      "conclusion": "success",
-      "event": "dynamic",
-      "at": "2026-11-16T02:36:00Z",
-      "url": "https://github.com/mediavanity-dev/standards-support/actions/runs/43793151498"
-     }
-    }
-   ],
-   "traffic": {
-    "views": [
-     {
-      "date": "2026-11-04",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-05",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-06",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-07",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-08",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-09",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-10",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-11",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-12",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-13",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-14",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-15",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-16",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-17",
-      "count": 0,
-      "uniques": 0
-     }
-    ],
-    "clones": [
-     {
-      "date": "2026-11-04",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-05",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-06",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-07",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-08",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-09",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-10",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-11",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-12",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-13",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-14",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-15",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-16",
-      "count": 21,
-      "uniques": 15
-     },
-     {
-      "date": "2026-11-17",
-      "count": 5,
-      "uniques": 5
-     }
-    ],
-    "referrers": [],
-    "paths": []
-   }
-  },
-  {
-   "repo": {
     "name": "chordshapes",
     "url": "https://github.com/mediavanity-dev/chordshapes",
     "description": "Guitar chord shapes in every position and inversion, with progressions and voice leading",
@@ -1279,7 +1470,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 84
+     "ms": 52
     }
    },
    "workflows": [
@@ -1470,7 +1661,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 75
+     "ms": 44
     }
    },
    "workflows": [
@@ -1678,7 +1869,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 1411
+     "ms": 69
     }
    },
    "workflows": [
@@ -1891,7 +2082,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 84
+     "ms": 160
     }
    },
    "workflows": [
@@ -2094,7 +2285,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 275
+     "ms": 82
     }
    },
    "workflows": [
@@ -2727,18 +2918,23 @@
      "users": 1,
      "sessions": 4,
      "views": 4
+    },
+    "2026-11-18": {
+     "users": 1,
+     "sessions": 2,
+     "views": 2
     }
    },
    "pages": [
     {
      "name": "/",
-     "count": 61
+     "count": 63
     }
    ],
    "sources": [
     {
      "name": "(direct)",
-     "count": 54
+     "count": 55
     },
     {
      "name": "dataindex.pro",
@@ -2750,6 +2946,10 @@
     },
     {
      "name": "mediavanity-dev.github.io",
+     "count": 1
+    },
+    {
+     "name": "scriblihelp.com",
      "count": 1
     }
    ],
@@ -2775,6 +2975,10 @@
      "count": 1
     },
     {
+     "name": "Germany",
+     "count": 1
+    },
+    {
      "name": "India",
      "count": 1
     },
@@ -2790,7 +2994,7 @@
    "devices": [
     {
      "name": "desktop",
-     "count": 21
+     "count": 22
     },
     {
      "name": "mobile",
