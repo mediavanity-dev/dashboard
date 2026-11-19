@@ -823,6 +823,12 @@
    "viewUniques": 0,
    "clones": 33,
    "cloneUniques": 17
+  },
+  "2026-11-18": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 28,
+   "cloneUniques": 12
   }
  },
  "chordshapes": {
@@ -1329,6 +1335,12 @@
    "viewUniques": 0,
    "clones": 0,
    "cloneUniques": 0
+  },
+  "2026-11-18": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
   }
  },
  "OpenWorld": {
@@ -1493,6 +1505,12 @@
    "viewUniques": 0,
    "clones": 79,
    "cloneUniques": 37
+  },
+  "2026-11-18": {
+   "views": 1,
+   "viewUniques": 1,
+   "clones": 41,
+   "cloneUniques": 15
   }
  },
  "wholeguitar": {
@@ -1657,6 +1675,12 @@
    "viewUniques": 0,
    "clones": 1,
    "cloneUniques": 1
+  },
+  "2026-11-18": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
   }
  },
  "alchemy-app": {
@@ -1767,6 +1791,12 @@
    "viewUniques": 0,
    "clones": 12,
    "cloneUniques": 8
+  },
+  "2026-11-18": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 1,
+   "cloneUniques": 1
   }
  },
  "ask-the-potato": {
@@ -2064,6 +2094,178 @@
    "clones": 0,
    "cloneUniques": 0
   },
+  "2026-11-06": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-07": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-08": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-09": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-10": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-11": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-12": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-13": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-14": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-15": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-16": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-17": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-18": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 15,
+   "cloneUniques": 11
+  },
+  "2026-11-19": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  }
+ },
+ "EarthRacer": {
+  "2026-11-06": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-07": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-08": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-09": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-10": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-11": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-12": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-13": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-14": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-15": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-16": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-17": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-18": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-19": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  }
+ },
+ "openearth-app": {
   "2026-11-06": {
    "views": 0,
    "viewUniques": 0,
