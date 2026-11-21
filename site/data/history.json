@@ -337,6 +337,12 @@
    "viewUniques": 0,
    "clones": 43,
    "cloneUniques": 18
+  },
+  "2026-11-20": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 11,
+   "cloneUniques": 7
   }
  },
  "standards": {
@@ -683,6 +689,12 @@
    "viewUniques": 0,
    "clones": 0,
    "cloneUniques": 0
+  },
+  "2026-11-20": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
   }
  },
  "dashboard": {
@@ -859,6 +871,12 @@
    "viewUniques": 0,
    "clones": 22,
    "cloneUniques": 12
+  },
+  "2026-11-20": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 43,
+   "cloneUniques": 22
   }
  },
  "chordshapes": {
@@ -1035,6 +1053,12 @@
    "viewUniques": 0,
    "clones": 1,
    "cloneUniques": 1
+  },
+  "2026-11-20": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
   }
  },
  "fretboard": {
@@ -1389,6 +1413,12 @@
    "viewUniques": 0,
    "clones": 1,
    "cloneUniques": 1
+  },
+  "2026-11-20": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
   }
  },
  "OpenWorld": {
@@ -1565,6 +1595,12 @@
    "viewUniques": 1,
    "clones": 108,
    "cloneUniques": 29
+  },
+  "2026-11-20": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 53,
+   "cloneUniques": 28
   }
  },
  "wholeguitar": {
@@ -1979,6 +2015,12 @@
    "viewUniques": 0,
    "clones": 0,
    "cloneUniques": 0
+  },
+  "2026-11-20": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
   }
  },
  "standards-support": {
@@ -2083,6 +2125,12 @@
    "viewUniques": 0,
    "clones": 1,
    "cloneUniques": 1
+  },
+  "2026-11-20": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 11,
+   "cloneUniques": 6
   }
  },
  "pet-resting-respiratory-rate-support": {
@@ -2363,8 +2411,8 @@
   "2026-11-20": {
    "views": 0,
    "viewUniques": 0,
-   "clones": 0,
-   "cloneUniques": 0
+   "clones": 14,
+   "cloneUniques": 9
   }
  },
  "openearth-app": {

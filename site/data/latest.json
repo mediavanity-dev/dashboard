@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T07:38:53.028Z",
+ "generatedAt": "2026-11-21T13:27:00.098Z",
  "owner": {
   "login": "mediavanity-dev",
   "url": "https://github.com/mediavanity-dev",
@@ -17,7 +17,7 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 1,
-    "pushedAt": "2026-11-21T07:21:19Z",
+    "pushedAt": "2026-11-21T13:06:07Z",
     "createdAt": "2026-10-31T17:03:54Z",
     "sizeKB": 263
    },
@@ -31,7 +31,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 220
+     "ms": 121
     }
    },
    "workflows": [
@@ -55,18 +55,13 @@
       "status": "completed",
       "conclusion": "success",
       "event": "schedule",
-      "at": "2026-11-21T07:13:41Z",
-      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/44879249764"
+      "at": "2026-11-21T12:59:53Z",
+      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/44906615382"
      }
     }
    ],
    "traffic": {
     "views": [
-     {
-      "date": "2026-11-06",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-11-07",
       "count": 0,
@@ -131,14 +126,14 @@
       "date": "2026-11-19",
       "count": 0,
       "uniques": 0
+     },
+     {
+      "date": "2026-11-20",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "clones": [
-     {
-      "date": "2026-11-06",
-      "count": 78,
-      "uniques": 35
-     },
      {
       "date": "2026-11-07",
       "count": 53,
@@ -203,6 +198,11 @@
       "date": "2026-11-19",
       "count": 43,
       "uniques": 18
+     },
+     {
+      "date": "2026-11-20",
+      "count": 11,
+      "uniques": 7
      }
     ],
     "referrers": [
@@ -247,9 +247,9 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 0,
-    "pushedAt": "2026-11-21T01:42:05Z",
+    "pushedAt": "2026-11-21T07:38:54Z",
     "createdAt": "2026-11-04T00:14:03Z",
-    "sizeKB": 150
+    "sizeKB": 151
    },
    "site": {
     "url": "https://mediavanity-dev.github.io/dashboard/",
@@ -261,7 +261,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 112
+     "ms": 50
     }
    },
    "workflows": [
@@ -273,18 +273,13 @@
       "status": "in_progress",
       "conclusion": null,
       "event": "schedule",
-      "at": "2026-11-21T07:38:29Z",
-      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/44881179739"
+      "at": "2026-11-21T13:26:41Z",
+      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/44908882994"
      }
     }
    ],
    "traffic": {
     "views": [
-     {
-      "date": "2026-11-06",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-11-07",
       "count": 0,
@@ -349,14 +344,14 @@
       "date": "2026-11-19",
       "count": 0,
       "uniques": 0
+     },
+     {
+      "date": "2026-11-20",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "clones": [
-     {
-      "date": "2026-11-06",
-      "count": 81,
-      "uniques": 37
-     },
      {
       "date": "2026-11-07",
       "count": 60,
@@ -421,6 +416,11 @@
       "date": "2026-11-19",
       "count": 22,
       "uniques": 12
+     },
+     {
+      "date": "2026-11-20",
+      "count": 43,
+      "uniques": 22
      }
     ],
     "referrers": [],
@@ -452,7 +452,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 105
+     "ms": 56
     }
    },
    "workflows": [
@@ -507,11 +507,6 @@
    ],
    "traffic": {
     "views": [
-     {
-      "date": "2026-11-06",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-11-07",
       "count": 0,
@@ -576,14 +571,14 @@
       "date": "2026-11-19",
       "count": 1,
       "uniques": 1
+     },
+     {
+      "date": "2026-11-20",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "clones": [
-     {
-      "date": "2026-11-06",
-      "count": 68,
-      "uniques": 29
-     },
      {
       "date": "2026-11-07",
       "count": 18,
@@ -648,6 +643,11 @@
       "date": "2026-11-19",
       "count": 108,
       "uniques": 29
+     },
+     {
+      "date": "2026-11-20",
+      "count": 53,
+      "uniques": 28
      }
     ],
     "referrers": [
@@ -701,7 +701,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 172
+     "ms": 40
     }
    },
    "workflows": [
@@ -732,11 +732,6 @@
    ],
    "traffic": {
     "views": [
-     {
-      "date": "2026-11-06",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-11-07",
       "count": 0,
@@ -801,14 +796,14 @@
       "date": "2026-11-19",
       "count": 1,
       "uniques": 1
+     },
+     {
+      "date": "2026-11-20",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "clones": [
-     {
-      "date": "2026-11-06",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-11-07",
       "count": 0,
@@ -873,6 +868,11 @@
       "date": "2026-11-19",
       "count": 59,
       "uniques": 25
+     },
+     {
+      "date": "2026-11-20",
+      "count": 14,
+      "uniques": 9
      }
     ],
     "referrers": [],
@@ -910,7 +910,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 117
+     "ms": 44
     }
    },
    "workflows": [
@@ -929,11 +929,6 @@
    ],
    "traffic": {
     "views": [
-     {
-      "date": "2026-11-06",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-11-07",
       "count": 0,
@@ -998,14 +993,14 @@
       "date": "2026-11-19",
       "count": 0,
       "uniques": 0
+     },
+     {
+      "date": "2026-11-20",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "clones": [
-     {
-      "date": "2026-11-06",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-11-07",
       "count": 0,
@@ -1070,6 +1065,11 @@
       "date": "2026-11-19",
       "count": 24,
       "uniques": 18
+     },
+     {
+      "date": "2026-11-20",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "referrers": [],
@@ -1101,7 +1101,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 91
+     "ms": 41
     }
    },
    "workflows": [
@@ -1292,7 +1292,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 181
+     "ms": 64
     }
    },
    "workflows": [
@@ -1311,11 +1311,6 @@
    ],
    "traffic": {
     "views": [
-     {
-      "date": "2026-11-06",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-11-07",
       "count": 0,
@@ -1380,14 +1375,14 @@
       "date": "2026-11-19",
       "count": 0,
       "uniques": 0
+     },
+     {
+      "date": "2026-11-20",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "clones": [
-     {
-      "date": "2026-11-06",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-11-07",
       "count": 0,
@@ -1452,6 +1447,11 @@
       "date": "2026-11-19",
       "count": 1,
       "uniques": 1
+     },
+     {
+      "date": "2026-11-20",
+      "count": 11,
+      "uniques": 6
      }
     ],
     "referrers": [],
@@ -1483,7 +1483,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 92
+     "ms": 65
     }
    },
    "workflows": [
@@ -1674,7 +1674,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 163
+     "ms": 139
     }
    },
    "workflows": [
@@ -1865,7 +1865,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 99
+     "ms": 57
     }
    },
    "workflows": [
@@ -1884,11 +1884,6 @@
    ],
    "traffic": {
     "views": [
-     {
-      "date": "2026-11-06",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-11-07",
       "count": 0,
@@ -1953,14 +1948,14 @@
       "date": "2026-11-19",
       "count": 0,
       "uniques": 0
+     },
+     {
+      "date": "2026-11-20",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "clones": [
-     {
-      "date": "2026-11-06",
-      "count": 1,
-      "uniques": 1
-     },
      {
       "date": "2026-11-07",
       "count": 0,
@@ -2025,6 +2020,11 @@
       "date": "2026-11-19",
       "count": 1,
       "uniques": 1
+     },
+     {
+      "date": "2026-11-20",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "referrers": [],
@@ -2056,7 +2056,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 100
+     "ms": 44
     }
    },
    "workflows": [
@@ -2075,11 +2075,6 @@
    ],
    "traffic": {
     "views": [
-     {
-      "date": "2026-11-06",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-11-07",
       "count": 0,
@@ -2144,14 +2139,14 @@
       "date": "2026-11-19",
       "count": 0,
       "uniques": 0
+     },
+     {
+      "date": "2026-11-20",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "clones": [
-     {
-      "date": "2026-11-06",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-11-07",
       "count": 0,
@@ -2216,6 +2211,11 @@
       "date": "2026-11-19",
       "count": 0,
       "uniques": 0
+     },
+     {
+      "date": "2026-11-20",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "referrers": [
@@ -2264,7 +2264,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 224
+     "ms": 113
     }
    },
    "workflows": [
@@ -2283,11 +2283,6 @@
    ],
    "traffic": {
     "views": [
-     {
-      "date": "2026-11-06",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-11-07",
       "count": 0,
@@ -2352,14 +2347,14 @@
       "date": "2026-11-19",
       "count": 0,
       "uniques": 0
+     },
+     {
+      "date": "2026-11-20",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "clones": [
-     {
-      "date": "2026-11-06",
-      "count": 3,
-      "uniques": 3
-     },
      {
       "date": "2026-11-07",
       "count": 2,
@@ -2424,6 +2419,11 @@
       "date": "2026-11-19",
       "count": 1,
       "uniques": 1
+     },
+     {
+      "date": "2026-11-20",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "referrers": [],
@@ -2455,7 +2455,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 107
+     "ms": 50
     }
    },
    "workflows": [
@@ -2646,7 +2646,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 208
+     "ms": 64
     }
    },
    "workflows": [
@@ -2665,11 +2665,6 @@
    ],
    "traffic": {
     "views": [
-     {
-      "date": "2026-11-06",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-11-07",
       "count": 0,
@@ -2734,14 +2729,14 @@
       "date": "2026-11-19",
       "count": 0,
       "uniques": 0
+     },
+     {
+      "date": "2026-11-20",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "clones": [
-     {
-      "date": "2026-11-06",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-11-07",
       "count": 1,
@@ -2804,6 +2799,11 @@
      },
      {
       "date": "2026-11-19",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-20",
       "count": 0,
       "uniques": 0
      }
