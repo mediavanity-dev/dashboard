@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T01:42:04.322Z",
+ "generatedAt": "2026-11-21T07:38:53.028Z",
  "owner": {
   "login": "mediavanity-dev",
   "url": "https://github.com/mediavanity-dev",
@@ -17,9 +17,9 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 1,
-    "pushedAt": "2026-11-21T01:24:10Z",
+    "pushedAt": "2026-11-21T07:21:19Z",
     "createdAt": "2026-10-31T17:03:54Z",
-    "sizeKB": 276
+    "sizeKB": 263
    },
    "site": {
     "url": "https://dailygeographer.com/",
@@ -31,7 +31,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 225
+     "ms": 220
     }
    },
    "workflows": [
@@ -55,8 +55,8 @@
       "status": "completed",
       "conclusion": "success",
       "event": "schedule",
-      "at": "2026-11-21T01:15:28Z",
-      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/44849073967"
+      "at": "2026-11-21T07:13:41Z",
+      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/44879249764"
      }
     }
    ],
@@ -247,9 +247,9 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 0,
-    "pushedAt": "2026-11-20T19:29:34Z",
+    "pushedAt": "2026-11-21T01:42:05Z",
     "createdAt": "2026-11-04T00:14:03Z",
-    "sizeKB": 149
+    "sizeKB": 150
    },
    "site": {
     "url": "https://mediavanity-dev.github.io/dashboard/",
@@ -261,7 +261,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 86
+     "ms": 112
     }
    },
    "workflows": [
@@ -273,8 +273,8 @@
       "status": "in_progress",
       "conclusion": null,
       "event": "schedule",
-      "at": "2026-11-21T01:41:41Z",
-      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/44851676195"
+      "at": "2026-11-21T07:38:29Z",
+      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/44881179739"
      }
     }
    ],
@@ -452,7 +452,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 86
+     "ms": 105
     }
    },
    "workflows": [
@@ -701,7 +701,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 76
+     "ms": 172
     }
    },
    "workflows": [
@@ -910,7 +910,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 95
+     "ms": 117
     }
    },
    "workflows": [
@@ -1101,7 +1101,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 74
+     "ms": 91
     }
    },
    "workflows": [
@@ -1292,7 +1292,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 76
+     "ms": 181
     }
    },
    "workflows": [
@@ -1483,7 +1483,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 76
+     "ms": 92
     }
    },
    "workflows": [
@@ -1674,7 +1674,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 135
+     "ms": 163
     }
    },
    "workflows": [
@@ -1865,7 +1865,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 91
+     "ms": 99
     }
    },
    "workflows": [
@@ -2056,7 +2056,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 76
+     "ms": 100
     }
    },
    "workflows": [
@@ -2264,7 +2264,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 174
+     "ms": 224
     }
    },
    "workflows": [
@@ -2455,7 +2455,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 83
+     "ms": 107
     }
    },
    "workflows": [
@@ -2646,7 +2646,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 230
+     "ms": 208
     }
    },
    "workflows": [
@@ -2856,37 +2856,37 @@
      "sessions": 8,
      "views": 10
     },
+    "2026-11-20": {
+     "users": 1,
+     "sessions": 3,
+     "views": 3
+    },
     "2026-11-13": {
      "users": 0,
      "sessions": 2,
      "views": 2
-    },
-    "2026-11-20": {
-     "users": 0,
-     "sessions": 1,
-     "views": 1
     }
    },
    "pages": [
     {
      "name": "/",
-     "count": 116
+     "count": 118
     }
    ],
    "sources": [
     {
      "name": "(direct)",
-     "count": 73
+     "count": 74
     },
     {
      "name": "google",
-     "count": 18
+     "count": 19
     }
    ],
    "countries": [
     {
      "name": "United States",
-     "count": 40
+     "count": 41
     },
     {
      "name": "Netherlands",
@@ -2928,7 +2928,7 @@
    "devices": [
     {
      "name": "desktop",
-     "count": 41
+     "count": 42
     },
     {
      "name": "mobile",
