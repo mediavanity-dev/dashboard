@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T19:29:32.862Z",
+ "generatedAt": "2026-11-21T01:42:04.322Z",
  "owner": {
   "login": "mediavanity-dev",
   "url": "https://github.com/mediavanity-dev",
@@ -17,9 +17,9 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 1,
-    "pushedAt": "2026-11-20T19:12:53Z",
+    "pushedAt": "2026-11-21T01:24:10Z",
     "createdAt": "2026-10-31T17:03:54Z",
-    "sizeKB": 268
+    "sizeKB": 276
    },
    "site": {
     "url": "https://dailygeographer.com/",
@@ -31,7 +31,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 149
+     "ms": 225
     }
    },
    "workflows": [
@@ -55,8 +55,8 @@
       "status": "completed",
       "conclusion": "success",
       "event": "schedule",
-      "at": "2026-11-20T19:03:48Z",
-      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/44798608434"
+      "at": "2026-11-21T01:15:28Z",
+      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/44849073967"
      }
     }
    ],
@@ -247,9 +247,9 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 0,
-    "pushedAt": "2026-11-20T13:40:49Z",
+    "pushedAt": "2026-11-20T19:29:34Z",
     "createdAt": "2026-11-04T00:14:03Z",
-    "sizeKB": 140
+    "sizeKB": 149
    },
    "site": {
     "url": "https://mediavanity-dev.github.io/dashboard/",
@@ -261,7 +261,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 113
+     "ms": 86
     }
    },
    "workflows": [
@@ -273,8 +273,8 @@
       "status": "in_progress",
       "conclusion": null,
       "event": "schedule",
-      "at": "2026-11-20T19:29:07Z",
-      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/44802542980"
+      "at": "2026-11-21T01:41:41Z",
+      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/44851676195"
      }
     }
    ],
@@ -452,7 +452,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 114
+     "ms": 86
     }
    },
    "workflows": [
@@ -701,7 +701,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 110
+     "ms": 76
     }
    },
    "workflows": [
@@ -733,6 +733,11 @@
    "traffic": {
     "views": [
      {
+      "date": "2026-11-06",
+      "count": 0,
+      "uniques": 0
+     },
+     {
       "date": "2026-11-07",
       "count": 0,
       "uniques": 0
@@ -794,17 +799,17 @@
      },
      {
       "date": "2026-11-19",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-20",
-      "count": 0,
-      "uniques": 0
+      "count": 1,
+      "uniques": 1
      }
     ],
     "clones": [
      {
+      "date": "2026-11-06",
+      "count": 0,
+      "uniques": 0
+     },
+     {
       "date": "2026-11-07",
       "count": 0,
       "uniques": 0
@@ -866,17 +871,18 @@
      },
      {
       "date": "2026-11-19",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-20",
-      "count": 0,
-      "uniques": 0
+      "count": 59,
+      "uniques": 25
      }
     ],
     "referrers": [],
-    "paths": []
+    "paths": [
+     {
+      "path": "/mediavanity-dev/EarthRacer/actions/runs/44540685447",
+      "count": 1,
+      "uniques": 1
+     }
+    ]
    }
   },
   {
@@ -904,7 +910,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 105
+     "ms": 95
     }
    },
    "workflows": [
@@ -1095,7 +1101,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 581
+     "ms": 74
     }
    },
    "workflows": [
@@ -1286,7 +1292,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 116
+     "ms": 76
     }
    },
    "workflows": [
@@ -1477,7 +1483,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 105
+     "ms": 76
     }
    },
    "workflows": [
@@ -1668,7 +1674,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 160
+     "ms": 135
     }
    },
    "workflows": [
@@ -1859,7 +1865,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 109
+     "ms": 91
     }
    },
    "workflows": [
@@ -2050,7 +2056,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 120
+     "ms": 76
     }
    },
    "workflows": [
@@ -2258,7 +2264,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 173
+     "ms": 174
     }
    },
    "workflows": [
@@ -2449,7 +2455,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 279
+     "ms": 83
     }
    },
    "workflows": [
@@ -2640,7 +2646,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 166
+     "ms": 230
     }
    },
    "workflows": [
@@ -3274,6 +3280,11 @@
      "sessions": 5,
      "views": 8
     },
+    "2026-11-20": {
+     "users": 3,
+     "sessions": 3,
+     "views": 2
+    },
     "2026-11-12": {
      "users": 1,
      "sessions": 2,
@@ -3298,23 +3309,22 @@
      "users": 1,
      "sessions": 1,
      "views": 1
-    },
-    "2026-11-20": {
-     "users": 1,
-     "sessions": 1,
-     "views": 1
     }
    },
    "pages": [
     {
      "name": "/",
-     "count": 71
+     "count": 72
     }
    ],
    "sources": [
     {
      "name": "(direct)",
-     "count": 60
+     "count": 61
+    },
+    {
+     "name": "(not set)",
+     "count": 1
     },
     {
      "name": "dataindex.pro",
@@ -3336,7 +3346,7 @@
    "countries": [
     {
      "name": "United States",
-     "count": 26
+     "count": 28
     },
     {
      "name": "Taiwan",
@@ -3378,7 +3388,7 @@
     },
     {
      "name": "mobile",
-     "count": 11
+     "count": 13
     }
    ]
   },
@@ -3423,18 +3433,23 @@
      "users": 1,
      "sessions": 2,
      "views": 2
+    },
+    "2026-11-20": {
+     "users": 1,
+     "sessions": 1,
+     "views": 1
     }
    },
    "pages": [
     {
      "name": "/",
-     "count": 15
+     "count": 16
     }
    ],
    "sources": [
     {
      "name": "(direct)",
-     "count": 13
+     "count": 14
     }
    ],
    "countries": [
@@ -3445,12 +3460,16 @@
     {
      "name": "Germany",
      "count": 1
+    },
+    {
+     "name": "Hong Kong",
+     "count": 1
     }
    ],
    "devices": [
     {
      "name": "desktop",
-     "count": 5
+     "count": 6
     },
     {
      "name": "mobile",
