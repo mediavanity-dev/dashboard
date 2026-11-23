@@ -1,220 +1,11 @@
 {
- "generatedAt": "2026-11-23T13:48:53.224Z",
+ "generatedAt": "2026-11-23T19:28:18.045Z",
  "owner": {
   "login": "mediavanity-dev",
   "url": "https://github.com/mediavanity-dev",
   "avatar": "https://avatars.githubusercontent.com/u/350796533?v=4"
  },
  "repos": [
-  {
-   "repo": {
-    "name": "EarthRacer",
-    "url": "https://github.com/mediavanity-dev/EarthRacer",
-    "description": "Drive, ride and sail the real Earth, built from open map data.",
-    "private": false,
-    "language": "JavaScript",
-    "stars": 0,
-    "forks": 0,
-    "watchers": 0,
-    "openIssues": 0,
-    "pushedAt": "2026-11-23T13:39:50Z",
-    "createdAt": "2026-11-19T05:03:56Z",
-    "sizeKB": 450
-   },
-   "site": {
-    "url": "https://mediavanity-dev.github.io/EarthRacer/",
-    "domain": null,
-    "https": true,
-    "buildType": "workflow",
-    "buildStatus": null,
-    "builtAt": null,
-    "probe": {
-     "ok": true,
-     "status": 200,
-     "ms": 48
-    }
-   },
-   "workflows": [
-    {
-     "name": "iOS → TestFlight",
-     "state": "active",
-     "url": "https://github.com/mediavanity-dev/EarthRacer/blob/main/.github/workflows/ios-testflight.yml",
-     "run": {
-      "status": "queued",
-      "conclusion": null,
-      "event": "workflow_dispatch",
-      "at": "2026-11-23T13:39:52Z",
-      "url": "https://github.com/mediavanity-dev/EarthRacer/actions/runs/45186147949"
-     }
-    },
-    {
-     "name": "Deploy to GitHub Pages",
-     "state": "active",
-     "url": "https://github.com/mediavanity-dev/EarthRacer/blob/main/.github/workflows/pages.yml",
-     "run": {
-      "status": "completed",
-      "conclusion": "success",
-      "event": "push",
-      "at": "2026-11-23T13:39:52Z",
-      "url": "https://github.com/mediavanity-dev/EarthRacer/actions/runs/45186147047"
-     }
-    }
-   ],
-   "traffic": {
-    "views": [
-     {
-      "date": "2026-11-08",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-09",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-10",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-11",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-12",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-13",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-14",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-15",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-16",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-17",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-18",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-19",
-      "count": 1,
-      "uniques": 1
-     },
-     {
-      "date": "2026-11-20",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-21",
-      "count": 0,
-      "uniques": 0
-     }
-    ],
-    "clones": [
-     {
-      "date": "2026-11-08",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-09",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-10",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-11",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-12",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-13",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-14",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-15",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-16",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-17",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-18",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-19",
-      "count": 59,
-      "uniques": 25
-     },
-     {
-      "date": "2026-11-20",
-      "count": 14,
-      "uniques": 9
-     },
-     {
-      "date": "2026-11-21",
-      "count": 11,
-      "uniques": 7
-     }
-    ],
-    "referrers": [],
-    "paths": [
-     {
-      "path": "/mediavanity-dev/EarthRacer/actions/runs/44540685447",
-      "count": 1,
-      "uniques": 1
-     }
-    ]
-   }
-  },
   {
    "repo": {
     "name": "dailygeographer",
@@ -226,9 +17,9 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 1,
-    "pushedAt": "2026-11-23T13:32:03Z",
+    "pushedAt": "2026-11-23T19:11:25Z",
     "createdAt": "2026-10-31T17:03:54Z",
-    "sizeKB": 280
+    "sizeKB": 281
    },
    "site": {
     "url": "https://dailygeographer.com/",
@@ -240,7 +31,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 39
+     "ms": 174
     }
    },
    "workflows": [
@@ -264,8 +55,8 @@
       "status": "completed",
       "conclusion": "success",
       "event": "schedule",
-      "at": "2026-11-23T13:25:26Z",
-      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/45183768853"
+      "at": "2026-11-23T19:07:31Z",
+      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/45245603338"
      }
     }
    ],
@@ -447,6 +238,418 @@
   },
   {
    "repo": {
+    "name": "EarthRacer",
+    "url": "https://github.com/mediavanity-dev/EarthRacer",
+    "description": "Drive, ride and sail the real Earth, built from open map data.",
+    "private": false,
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "openIssues": 0,
+    "pushedAt": "2026-11-23T18:53:23Z",
+    "createdAt": "2026-11-19T05:03:56Z",
+    "sizeKB": 10065
+   },
+   "site": {
+    "url": "https://mediavanity-dev.github.io/EarthRacer/",
+    "domain": null,
+    "https": true,
+    "buildType": "workflow",
+    "buildStatus": null,
+    "builtAt": null,
+    "probe": {
+     "ok": true,
+     "status": 200,
+     "ms": 84
+    }
+   },
+   "workflows": [
+    {
+     "name": "iOS → TestFlight",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/EarthRacer/blob/main/.github/workflows/ios-testflight.yml",
+     "run": {
+      "status": "completed",
+      "conclusion": "success",
+      "event": "workflow_dispatch",
+      "at": "2026-11-23T18:36:08Z",
+      "url": "https://github.com/mediavanity-dev/EarthRacer/actions/runs/45240129121"
+     }
+    },
+    {
+     "name": "Deploy to GitHub Pages",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/EarthRacer/blob/main/.github/workflows/pages.yml",
+     "run": {
+      "status": "completed",
+      "conclusion": "success",
+      "event": "push",
+      "at": "2026-11-23T18:53:25Z",
+      "url": "https://github.com/mediavanity-dev/EarthRacer/actions/runs/45243124790"
+     }
+    },
+    {
+     "name": "App Store listing",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/EarthRacer/blob/main/.github/workflows/store-listing.yml",
+     "run": {
+      "status": "completed",
+      "conclusion": "failure",
+      "event": "workflow_dispatch",
+      "at": "2026-11-23T18:30:26Z",
+      "url": "https://github.com/mediavanity-dev/EarthRacer/actions/runs/45239118040"
+     }
+    }
+   ],
+   "traffic": {
+    "views": [
+     {
+      "date": "2026-11-09",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-10",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-11",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-12",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-13",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-14",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-15",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-16",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-17",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-18",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-19",
+      "count": 1,
+      "uniques": 1
+     },
+     {
+      "date": "2026-11-20",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-21",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-22",
+      "count": 0,
+      "uniques": 0
+     }
+    ],
+    "clones": [
+     {
+      "date": "2026-11-09",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-10",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-11",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-12",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-13",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-14",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-15",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-16",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-17",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-18",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-19",
+      "count": 59,
+      "uniques": 25
+     },
+     {
+      "date": "2026-11-20",
+      "count": 14,
+      "uniques": 9
+     },
+     {
+      "date": "2026-11-21",
+      "count": 11,
+      "uniques": 7
+     },
+     {
+      "date": "2026-11-22",
+      "count": 14,
+      "uniques": 3
+     }
+    ],
+    "referrers": [],
+    "paths": [
+     {
+      "path": "/mediavanity-dev/EarthRacer/actions/runs/44540685447",
+      "count": 1,
+      "uniques": 1
+     }
+    ]
+   }
+  },
+  {
+   "repo": {
+    "name": "earthracer-app",
+    "url": "https://github.com/mediavanity-dev/earthracer-app",
+    "description": "Support and privacy pages for the EarthRacer iPhone app",
+    "private": false,
+    "language": "HTML",
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "openIssues": 0,
+    "pushedAt": "2026-11-23T18:11:29Z",
+    "createdAt": "2026-11-23T18:11:23Z",
+    "sizeKB": 3
+   },
+   "site": {
+    "url": "https://mediavanity-dev.github.io/earthracer-app/",
+    "domain": null,
+    "https": true,
+    "buildType": "legacy",
+    "buildStatus": "built",
+    "builtAt": "2026-11-23T18:12:06Z",
+    "probe": {
+     "ok": true,
+     "status": 200,
+     "ms": 101
+    }
+   },
+   "workflows": [
+    {
+     "name": "pages-build-deployment",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/earthracer-app/actions/workflows/pages/pages-build-deployment",
+     "run": {
+      "status": "completed",
+      "conclusion": "success",
+      "event": "dynamic",
+      "at": "2026-11-23T18:11:33Z",
+      "url": "https://github.com/mediavanity-dev/earthracer-app/actions/runs/45235720467"
+     }
+    }
+   ],
+   "traffic": {
+    "views": [
+     {
+      "date": "2026-11-10",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-11",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-12",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-13",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-14",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-15",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-16",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-17",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-18",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-19",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-20",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-21",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-22",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-23",
+      "count": 0,
+      "uniques": 0
+     }
+    ],
+    "clones": [
+     {
+      "date": "2026-11-10",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-11",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-12",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-13",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-14",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-15",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-16",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-17",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-18",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-19",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-20",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-21",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-22",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-23",
+      "count": 0,
+      "uniques": 0
+     }
+    ],
+    "referrers": [],
+    "paths": []
+   }
+  },
+  {
+   "repo": {
     "name": "dashboard",
     "url": "https://github.com/mediavanity-dev/dashboard",
     "description": null,
@@ -456,9 +659,9 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 0,
-    "pushedAt": "2026-11-23T08:00:28Z",
+    "pushedAt": "2026-11-23T13:48:54Z",
     "createdAt": "2026-11-04T00:14:03Z",
-    "sizeKB": 192
+    "sizeKB": 193
    },
    "site": {
     "url": "https://mediavanity-dev.github.io/dashboard/",
@@ -470,7 +673,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 262
+     "ms": 210
     }
    },
    "workflows": [
@@ -482,18 +685,13 @@
       "status": "in_progress",
       "conclusion": null,
       "event": "schedule",
-      "at": "2026-11-23T13:48:31Z",
-      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/45187588562"
+      "at": "2026-11-23T19:27:47Z",
+      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/45249188909"
      }
     }
    ],
    "traffic": {
     "views": [
-     {
-      "date": "2026-11-08",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-11-09",
       "count": 0,
@@ -558,14 +756,14 @@
       "date": "2026-11-21",
       "count": 0,
       "uniques": 0
+     },
+     {
+      "date": "2026-11-22",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "clones": [
-     {
-      "date": "2026-11-08",
-      "count": 50,
-      "uniques": 22
-     },
      {
       "date": "2026-11-09",
       "count": 65,
@@ -630,6 +828,11 @@
       "date": "2026-11-21",
       "count": 40,
       "uniques": 20
+     },
+     {
+      "date": "2026-11-22",
+      "count": 5,
+      "uniques": 2
      }
     ],
     "referrers": [],
@@ -661,7 +864,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 42
+     "ms": 120
     }
    },
    "workflows": [
@@ -905,7 +1108,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 47
+     "ms": 101
     }
    },
    "workflows": [
@@ -1096,7 +1299,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 38
+     "ms": 112
     }
    },
    "workflows": [
@@ -1287,7 +1490,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 44
+     "ms": 131
     }
    },
    "workflows": [
@@ -1306,11 +1509,6 @@
    ],
    "traffic": {
     "views": [
-     {
-      "date": "2026-11-08",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-11-09",
       "count": 0,
@@ -1375,14 +1573,14 @@
       "date": "2026-11-21",
       "count": 0,
       "uniques": 0
+     },
+     {
+      "date": "2026-11-22",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "clones": [
-     {
-      "date": "2026-11-08",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-11-09",
       "count": 0,
@@ -1447,6 +1645,11 @@
       "date": "2026-11-21",
       "count": 3,
       "uniques": 3
+     },
+     {
+      "date": "2026-11-22",
+      "count": 4,
+      "uniques": 3
      }
     ],
     "referrers": [],
@@ -1478,7 +1681,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 33
+     "ms": 109
     }
    },
    "workflows": [
@@ -1669,7 +1872,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 68
+     "ms": 156
     }
    },
    "workflows": [
@@ -1688,11 +1891,6 @@
    ],
    "traffic": {
     "views": [
-     {
-      "date": "2026-11-08",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-11-09",
       "count": 0,
@@ -1757,14 +1955,14 @@
       "date": "2026-11-21",
       "count": 0,
       "uniques": 0
+     },
+     {
+      "date": "2026-11-22",
+      "count": 0,
+      "uniques": 0
      }
     ],
     "clones": [
-     {
-      "date": "2026-11-08",
-      "count": 0,
-      "uniques": 0
-     },
      {
       "date": "2026-11-09",
       "count": 0,
@@ -1829,6 +2027,11 @@
       "date": "2026-11-21",
       "count": 1,
       "uniques": 1
+     },
+     {
+      "date": "2026-11-22",
+      "count": 1,
+      "uniques": 1
      }
     ],
     "referrers": [],
@@ -1860,7 +2063,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 85
+     "ms": 106
     }
    },
    "workflows": [
@@ -2051,7 +2254,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 63
+     "ms": 111
     }
    },
    "workflows": [
@@ -2259,7 +2462,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 100
+     "ms": 211
     }
    },
    "workflows": [
@@ -2450,7 +2653,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 45
+     "ms": 114
     }
    },
    "workflows": [
@@ -2641,7 +2844,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 100
+     "ms": 164
     }
    },
    "workflows": [
@@ -2831,6 +3034,11 @@
      "sessions": 7,
      "views": 8
     },
+    "2026-11-23": {
+     "users": 2,
+     "sessions": 2,
+     "views": 2
+    },
     "2026-11-12": {
      "users": 1,
      "sessions": 1,
@@ -2875,13 +3083,13 @@
    "pages": [
     {
      "name": "/",
-     "count": 125
+     "count": 127
     }
    ],
    "sources": [
     {
      "name": "(direct)",
-     "count": 75
+     "count": 77
     },
     {
      "name": "google",
@@ -2910,6 +3118,10 @@
      "count": 2
     },
     {
+     "name": "Spain",
+     "count": 2
+    },
+    {
      "name": "Algeria",
      "count": 1
     },
@@ -2933,7 +3145,7 @@
    "devices": [
     {
      "name": "desktop",
-     "count": 43
+     "count": 45
     },
     {
      "name": "mobile",
