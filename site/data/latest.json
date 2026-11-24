@@ -1,11 +1,255 @@
 {
- "generatedAt": "2026-11-23T19:28:18.045Z",
+ "generatedAt": "2026-11-24T01:44:06.948Z",
  "owner": {
   "login": "mediavanity-dev",
   "url": "https://github.com/mediavanity-dev",
   "avatar": "https://avatars.githubusercontent.com/u/350796533?v=4"
  },
  "repos": [
+  {
+   "repo": {
+    "name": "OpenWorld",
+    "url": "https://github.com/mediavanity-dev/OpenWorld",
+    "description": null,
+    "private": false,
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "openIssues": 0,
+    "pushedAt": "2026-11-24T01:42:53Z",
+    "createdAt": "2026-11-04T18:20:59Z",
+    "sizeKB": 8208
+   },
+   "site": {
+    "url": "https://mediavanity-dev.github.io/OpenWorld/",
+    "domain": null,
+    "https": true,
+    "buildType": "workflow",
+    "buildStatus": null,
+    "builtAt": null,
+    "probe": {
+     "ok": true,
+     "status": 200,
+     "ms": 85
+    }
+   },
+   "workflows": [
+    {
+     "name": "Checks",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/OpenWorld/blob/main/.github/workflows/checks.yml",
+     "run": {
+      "status": "completed",
+      "conclusion": "success",
+      "event": "pull_request",
+      "at": "2026-11-24T01:41:24Z",
+      "url": "https://github.com/mediavanity-dev/OpenWorld/actions/runs/45306892800"
+     }
+    },
+    {
+     "name": "iOS → TestFlight",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/OpenWorld/blob/main/.github/workflows/ios-testflight.yml",
+     "run": {
+      "status": "in_progress",
+      "conclusion": null,
+      "event": "workflow_dispatch",
+      "at": "2026-11-24T01:42:55Z",
+      "url": "https://github.com/mediavanity-dev/OpenWorld/actions/runs/45307080630"
+     }
+    },
+    {
+     "name": "Deploy to GitHub Pages",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/OpenWorld/blob/main/.github/workflows/pages.yml",
+     "run": {
+      "status": "in_progress",
+      "conclusion": null,
+      "event": "push",
+      "at": "2026-11-24T01:42:53Z",
+      "url": "https://github.com/mediavanity-dev/OpenWorld/actions/runs/45307076650"
+     }
+    },
+    {
+     "name": "App Store listing",
+     "state": "active",
+     "url": "https://github.com/mediavanity-dev/OpenWorld/blob/main/.github/workflows/store-listing.yml",
+     "run": {
+      "status": "completed",
+      "conclusion": "success",
+      "event": "workflow_dispatch",
+      "at": "2026-11-19T21:34:51Z",
+      "url": "https://github.com/mediavanity-dev/OpenWorld/actions/runs/44620184355"
+     }
+    }
+   ],
+   "traffic": {
+    "views": [
+     {
+      "date": "2026-11-09",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-10",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-11",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-12",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-13",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-14",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-15",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-16",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-17",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-18",
+      "count": 1,
+      "uniques": 1
+     },
+     {
+      "date": "2026-11-19",
+      "count": 1,
+      "uniques": 1
+     },
+     {
+      "date": "2026-11-20",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-21",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-22",
+      "count": 0,
+      "uniques": 0
+     }
+    ],
+    "clones": [
+     {
+      "date": "2026-11-09",
+      "count": 21,
+      "uniques": 16
+     },
+     {
+      "date": "2026-11-10",
+      "count": 1,
+      "uniques": 1
+     },
+     {
+      "date": "2026-11-11",
+      "count": 2,
+      "uniques": 2
+     },
+     {
+      "date": "2026-11-12",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-13",
+      "count": 4,
+      "uniques": 4
+     },
+     {
+      "date": "2026-11-14",
+      "count": 2,
+      "uniques": 2
+     },
+     {
+      "date": "2026-11-15",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-16",
+      "count": 40,
+      "uniques": 14
+     },
+     {
+      "date": "2026-11-17",
+      "count": 79,
+      "uniques": 37
+     },
+     {
+      "date": "2026-11-18",
+      "count": 41,
+      "uniques": 15
+     },
+     {
+      "date": "2026-11-19",
+      "count": 108,
+      "uniques": 29
+     },
+     {
+      "date": "2026-11-20",
+      "count": 53,
+      "uniques": 28
+     },
+     {
+      "date": "2026-11-21",
+      "count": 20,
+      "uniques": 11
+     },
+     {
+      "date": "2026-11-22",
+      "count": 18,
+      "uniques": 5
+     }
+    ],
+    "referrers": [
+     {
+      "referrer": "github.com",
+      "count": 1,
+      "uniques": 1
+     }
+    ],
+    "paths": [
+     {
+      "path": "/mediavanity-dev/OpenWorld",
+      "count": 1,
+      "uniques": 1
+     },
+     {
+      "path": "/mediavanity-dev/OpenWorld/blob/main/docs/CREATURES.md",
+      "count": 1,
+      "uniques": 1
+     }
+    ]
+   }
+  },
   {
    "repo": {
     "name": "dailygeographer",
@@ -17,9 +261,9 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 1,
-    "pushedAt": "2026-11-23T19:11:25Z",
+    "pushedAt": "2026-11-24T01:24:17Z",
     "createdAt": "2026-10-31T17:03:54Z",
-    "sizeKB": 281
+    "sizeKB": 286
    },
    "site": {
     "url": "https://dailygeographer.com/",
@@ -31,7 +275,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 174
+     "ms": 238
     }
    },
    "workflows": [
@@ -55,8 +299,8 @@
       "status": "completed",
       "conclusion": "success",
       "event": "schedule",
-      "at": "2026-11-23T19:07:31Z",
-      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/45245603338"
+      "at": "2026-11-24T01:15:32Z",
+      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/45303679440"
      }
     }
    ],
@@ -247,9 +491,9 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 0,
-    "pushedAt": "2026-11-23T18:53:23Z",
+    "pushedAt": "2026-11-24T00:45:53Z",
     "createdAt": "2026-11-19T05:03:56Z",
-    "sizeKB": 10065
+    "sizeKB": 10189
    },
    "site": {
     "url": "https://mediavanity-dev.github.io/EarthRacer/",
@@ -261,7 +505,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 84
+     "ms": 90
     }
    },
    "workflows": [
@@ -273,8 +517,8 @@
       "status": "completed",
       "conclusion": "success",
       "event": "workflow_dispatch",
-      "at": "2026-11-23T18:36:08Z",
-      "url": "https://github.com/mediavanity-dev/EarthRacer/actions/runs/45240129121"
+      "at": "2026-11-24T00:45:55Z",
+      "url": "https://github.com/mediavanity-dev/EarthRacer/actions/runs/45299803949"
      }
     },
     {
@@ -285,8 +529,8 @@
       "status": "completed",
       "conclusion": "success",
       "event": "push",
-      "at": "2026-11-23T18:53:25Z",
-      "url": "https://github.com/mediavanity-dev/EarthRacer/actions/runs/45243124790"
+      "at": "2026-11-24T00:45:55Z",
+      "url": "https://github.com/mediavanity-dev/EarthRacer/actions/runs/45299803887"
      }
     },
     {
@@ -459,197 +703,6 @@
   },
   {
    "repo": {
-    "name": "earthracer-app",
-    "url": "https://github.com/mediavanity-dev/earthracer-app",
-    "description": "Support and privacy pages for the EarthRacer iPhone app",
-    "private": false,
-    "language": "HTML",
-    "stars": 0,
-    "forks": 0,
-    "watchers": 0,
-    "openIssues": 0,
-    "pushedAt": "2026-11-23T18:11:29Z",
-    "createdAt": "2026-11-23T18:11:23Z",
-    "sizeKB": 3
-   },
-   "site": {
-    "url": "https://mediavanity-dev.github.io/earthracer-app/",
-    "domain": null,
-    "https": true,
-    "buildType": "legacy",
-    "buildStatus": "built",
-    "builtAt": "2026-11-23T18:12:06Z",
-    "probe": {
-     "ok": true,
-     "status": 200,
-     "ms": 101
-    }
-   },
-   "workflows": [
-    {
-     "name": "pages-build-deployment",
-     "state": "active",
-     "url": "https://github.com/mediavanity-dev/earthracer-app/actions/workflows/pages/pages-build-deployment",
-     "run": {
-      "status": "completed",
-      "conclusion": "success",
-      "event": "dynamic",
-      "at": "2026-11-23T18:11:33Z",
-      "url": "https://github.com/mediavanity-dev/earthracer-app/actions/runs/45235720467"
-     }
-    }
-   ],
-   "traffic": {
-    "views": [
-     {
-      "date": "2026-11-10",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-11",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-12",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-13",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-14",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-15",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-16",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-17",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-18",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-19",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-20",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-21",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-22",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-23",
-      "count": 0,
-      "uniques": 0
-     }
-    ],
-    "clones": [
-     {
-      "date": "2026-11-10",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-11",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-12",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-13",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-14",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-15",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-16",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-17",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-18",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-19",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-20",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-21",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-22",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-23",
-      "count": 0,
-      "uniques": 0
-     }
-    ],
-    "referrers": [],
-    "paths": []
-   }
-  },
-  {
-   "repo": {
     "name": "dashboard",
     "url": "https://github.com/mediavanity-dev/dashboard",
     "description": null,
@@ -659,9 +712,9 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 0,
-    "pushedAt": "2026-11-23T13:48:54Z",
+    "pushedAt": "2026-11-23T19:28:19Z",
     "createdAt": "2026-11-04T00:14:03Z",
-    "sizeKB": 193
+    "sizeKB": 202
    },
    "site": {
     "url": "https://mediavanity-dev.github.io/dashboard/",
@@ -673,7 +726,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 210
+     "ms": 76
     }
    },
    "workflows": [
@@ -685,8 +738,8 @@
       "status": "in_progress",
       "conclusion": null,
       "event": "schedule",
-      "at": "2026-11-23T19:27:47Z",
-      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/45249188909"
+      "at": "2026-11-24T01:43:43Z",
+      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/45307181278"
      }
     }
    ],
@@ -841,95 +894,49 @@
   },
   {
    "repo": {
-    "name": "OpenWorld",
-    "url": "https://github.com/mediavanity-dev/OpenWorld",
-    "description": null,
+    "name": "earthracer-app",
+    "url": "https://github.com/mediavanity-dev/earthracer-app",
+    "description": "Support and privacy pages for the EarthRacer iPhone app",
     "private": false,
-    "language": "JavaScript",
+    "language": "HTML",
     "stars": 0,
     "forks": 0,
     "watchers": 0,
     "openIssues": 0,
-    "pushedAt": "2026-11-19T19:51:30Z",
-    "createdAt": "2026-11-04T18:20:59Z",
-    "sizeKB": 8208
+    "pushedAt": "2026-11-23T18:11:29Z",
+    "createdAt": "2026-11-23T18:11:23Z",
+    "sizeKB": 3
    },
    "site": {
-    "url": "https://mediavanity-dev.github.io/OpenWorld/",
+    "url": "https://mediavanity-dev.github.io/earthracer-app/",
     "domain": null,
     "https": true,
-    "buildType": "workflow",
-    "buildStatus": null,
-    "builtAt": null,
+    "buildType": "legacy",
+    "buildStatus": "built",
+    "builtAt": "2026-11-23T18:12:06Z",
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 120
+     "ms": 92
     }
    },
    "workflows": [
     {
-     "name": "Checks",
+     "name": "pages-build-deployment",
      "state": "active",
-     "url": "https://github.com/mediavanity-dev/OpenWorld/blob/main/.github/workflows/checks.yml",
+     "url": "https://github.com/mediavanity-dev/earthracer-app/actions/workflows/pages/pages-build-deployment",
      "run": {
       "status": "completed",
       "conclusion": "success",
-      "event": "pull_request",
-      "at": "2026-11-19T19:49:30Z",
-      "url": "https://github.com/mediavanity-dev/OpenWorld/actions/runs/44602309387"
-     }
-    },
-    {
-     "name": "iOS → TestFlight",
-     "state": "active",
-     "url": "https://github.com/mediavanity-dev/OpenWorld/blob/main/.github/workflows/ios-testflight.yml",
-     "run": {
-      "status": "completed",
-      "conclusion": "success",
-      "event": "workflow_dispatch",
-      "at": "2026-11-19T19:51:33Z",
-      "url": "https://github.com/mediavanity-dev/OpenWorld/actions/runs/44602659314"
-     }
-    },
-    {
-     "name": "Deploy to GitHub Pages",
-     "state": "active",
-     "url": "https://github.com/mediavanity-dev/OpenWorld/blob/main/.github/workflows/pages.yml",
-     "run": {
-      "status": "completed",
-      "conclusion": "success",
-      "event": "push",
-      "at": "2026-11-19T19:51:30Z",
-      "url": "https://github.com/mediavanity-dev/OpenWorld/actions/runs/44602650305"
-     }
-    },
-    {
-     "name": "App Store listing",
-     "state": "active",
-     "url": "https://github.com/mediavanity-dev/OpenWorld/blob/main/.github/workflows/store-listing.yml",
-     "run": {
-      "status": "completed",
-      "conclusion": "success",
-      "event": "workflow_dispatch",
-      "at": "2026-11-19T21:34:51Z",
-      "url": "https://github.com/mediavanity-dev/OpenWorld/actions/runs/44620184355"
+      "event": "dynamic",
+      "at": "2026-11-23T18:11:33Z",
+      "url": "https://github.com/mediavanity-dev/earthracer-app/actions/runs/45235720467"
      }
     }
    ],
    "traffic": {
     "views": [
      {
-      "date": "2026-11-09",
-      "count": 0,
-      "uniques": 0
-     },
-     {
-      "date": "2026-11-10",
-      "count": 0,
-      "uniques": 0
-     },
-     {
       "date": "2026-11-11",
       "count": 0,
       "uniques": 0
@@ -966,13 +973,13 @@
      },
      {
       "date": "2026-11-18",
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
      },
      {
       "date": "2026-11-19",
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
      },
      {
       "date": "2026-11-20",
@@ -986,25 +993,25 @@
      },
      {
       "date": "2026-11-22",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-23",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-24",
       "count": 0,
       "uniques": 0
      }
     ],
     "clones": [
      {
-      "date": "2026-11-09",
-      "count": 21,
-      "uniques": 16
-     },
-     {
-      "date": "2026-11-10",
-      "count": 1,
-      "uniques": 1
-     },
-     {
       "date": "2026-11-11",
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
      },
      {
       "date": "2026-11-12",
@@ -1013,13 +1020,13 @@
      },
      {
       "date": "2026-11-13",
-      "count": 4,
-      "uniques": 4
+      "count": 0,
+      "uniques": 0
      },
      {
       "date": "2026-11-14",
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
      },
      {
       "date": "2026-11-15",
@@ -1028,59 +1035,52 @@
      },
      {
       "date": "2026-11-16",
-      "count": 40,
-      "uniques": 14
+      "count": 0,
+      "uniques": 0
      },
      {
       "date": "2026-11-17",
-      "count": 79,
-      "uniques": 37
+      "count": 0,
+      "uniques": 0
      },
      {
       "date": "2026-11-18",
-      "count": 41,
-      "uniques": 15
+      "count": 0,
+      "uniques": 0
      },
      {
       "date": "2026-11-19",
-      "count": 108,
-      "uniques": 29
+      "count": 0,
+      "uniques": 0
      },
      {
       "date": "2026-11-20",
-      "count": 53,
-      "uniques": 28
+      "count": 0,
+      "uniques": 0
      },
      {
       "date": "2026-11-21",
-      "count": 20,
-      "uniques": 11
+      "count": 0,
+      "uniques": 0
      },
      {
       "date": "2026-11-22",
-      "count": 18,
-      "uniques": 5
-     }
-    ],
-    "referrers": [
-     {
-      "referrer": "github.com",
-      "count": 1,
-      "uniques": 1
-     }
-    ],
-    "paths": [
-     {
-      "path": "/mediavanity-dev/OpenWorld",
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
      },
      {
-      "path": "/mediavanity-dev/OpenWorld/blob/main/docs/CREATURES.md",
-      "count": 1,
-      "uniques": 1
+      "date": "2026-11-23",
+      "count": 0,
+      "uniques": 0
+     },
+     {
+      "date": "2026-11-24",
+      "count": 0,
+      "uniques": 0
      }
-    ]
+    ],
+    "referrers": [],
+    "paths": []
    }
   },
   {
@@ -1108,7 +1108,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 101
+     "ms": 93
     }
    },
    "workflows": [
@@ -1299,7 +1299,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 112
+     "ms": 94
     }
    },
    "workflows": [
@@ -1490,7 +1490,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 131
+     "ms": 89
     }
    },
    "workflows": [
@@ -1681,7 +1681,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 109
+     "ms": 89
     }
    },
    "workflows": [
@@ -1872,7 +1872,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 156
+     "ms": 174
     }
    },
    "workflows": [
@@ -2063,7 +2063,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 106
+     "ms": 99
     }
    },
    "workflows": [
@@ -2254,7 +2254,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 111
+     "ms": 232
     }
    },
    "workflows": [
@@ -2462,7 +2462,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 211
+     "ms": 289
     }
    },
    "workflows": [
@@ -2653,7 +2653,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 114
+     "ms": 147
     }
    },
    "workflows": [
@@ -2844,7 +2844,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 164
+     "ms": 204
     }
    },
    "workflows": [
@@ -3036,8 +3036,8 @@
     },
     "2026-11-23": {
      "users": 2,
-     "sessions": 2,
-     "views": 2
+     "sessions": 3,
+     "views": 3
     },
     "2026-11-12": {
      "users": 1,
@@ -3083,7 +3083,7 @@
    "pages": [
     {
      "name": "/",
-     "count": 127
+     "count": 128
     }
    ],
    "sources": [
@@ -3093,7 +3093,7 @@
     },
     {
      "name": "google",
-     "count": 25
+     "count": 26
     }
    ],
    "countries": [
