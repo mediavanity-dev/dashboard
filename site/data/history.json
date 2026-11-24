@@ -355,6 +355,12 @@
    "viewUniques": 0,
    "clones": 29,
    "cloneUniques": 15
+  },
+  "2026-11-23": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 57,
+   "cloneUniques": 29
   }
  },
  "standards": {
@@ -719,6 +725,12 @@
    "viewUniques": 0,
    "clones": 1,
    "cloneUniques": 1
+  },
+  "2026-11-23": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
   }
  },
  "dashboard": {
@@ -1491,6 +1503,12 @@
    "viewUniques": 0,
    "clones": 1,
    "cloneUniques": 1
+  },
+  "2026-11-23": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
   }
  },
  "OpenWorld": {
@@ -1885,6 +1903,12 @@
    "viewUniques": 0,
    "clones": 1,
    "cloneUniques": 1
+  },
+  "2026-11-23": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
   }
  },
  "alchemy-app": {
@@ -2165,6 +2189,12 @@
    "viewUniques": 0,
    "clones": 1,
    "cloneUniques": 1
+  },
+  "2026-11-23": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
   }
  },
  "standards-support": {
@@ -2409,6 +2439,12 @@
    "viewUniques": 0,
    "clones": 2,
    "cloneUniques": 2
+  },
+  "2026-11-23": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
   }
  },
  "grandparents-pregnancy-tracker-support": {
@@ -2829,8 +2865,8 @@
   "2026-11-23": {
    "views": 0,
    "viewUniques": 0,
-   "clones": 0,
-   "cloneUniques": 0
+   "clones": 27,
+   "cloneUniques": 21
   },
   "2026-11-24": {
    "views": 0,
