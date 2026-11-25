@@ -361,6 +361,12 @@
    "viewUniques": 0,
    "clones": 57,
    "cloneUniques": 29
+  },
+  "2026-11-24": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 18,
+   "cloneUniques": 9
   }
  },
  "standards": {
@@ -731,6 +737,12 @@
    "viewUniques": 0,
    "clones": 0,
    "cloneUniques": 0
+  },
+  "2026-11-24": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 1,
+   "cloneUniques": 1
   }
  },
  "dashboard": {
@@ -931,6 +943,12 @@
    "viewUniques": 0,
    "clones": 49,
    "cloneUniques": 26
+  },
+  "2026-11-24": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 18,
+   "cloneUniques": 9
   }
  },
  "chordshapes": {
@@ -1131,6 +1149,12 @@
    "viewUniques": 0,
    "clones": 0,
    "cloneUniques": 0
+  },
+  "2026-11-24": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 1,
+   "cloneUniques": 1
   }
  },
  "fretboard": {
@@ -1509,6 +1533,12 @@
    "viewUniques": 0,
    "clones": 0,
    "cloneUniques": 0
+  },
+  "2026-11-24": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 9,
+   "cloneUniques": 5
   }
  },
  "OpenWorld": {
@@ -1909,6 +1939,12 @@
    "viewUniques": 0,
    "clones": 0,
    "cloneUniques": 0
+  },
+  "2026-11-24": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 1,
+   "cloneUniques": 1
   }
  },
  "alchemy-app": {
@@ -2055,6 +2091,12 @@
    "viewUniques": 0,
    "clones": 1,
    "cloneUniques": 1
+  },
+  "2026-11-24": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 3,
+   "cloneUniques": 2
   }
  },
  "ask-the-potato": {
@@ -2195,6 +2237,12 @@
    "viewUniques": 0,
    "clones": 0,
    "cloneUniques": 0
+  },
+  "2026-11-24": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
   }
  },
  "standards-support": {
@@ -2323,6 +2371,12 @@
    "viewUniques": 0,
    "clones": 0,
    "cloneUniques": 0
+  },
+  "2026-11-24": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 2,
+   "cloneUniques": 2
   }
  },
  "pet-resting-respiratory-rate-support": {
@@ -2561,6 +2615,12 @@
    "viewUniques": 0,
    "clones": 1,
    "cloneUniques": 1
+  },
+  "2026-11-24": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 18,
+   "cloneUniques": 13
   }
  },
  "EarthRacer": {
@@ -2671,6 +2731,12 @@
    "viewUniques": 1,
    "clones": 63,
    "cloneUniques": 25
+  },
+  "2026-11-24": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 59,
+   "cloneUniques": 29
   }
  },
  "openearth-app": {
@@ -2871,8 +2937,8 @@
   "2026-11-24": {
    "views": 0,
    "viewUniques": 0,
-   "clones": 0,
-   "cloneUniques": 0
+   "clones": 7,
+   "cloneUniques": 6
   }
  },
  "oil-change-log-support": {
@@ -2882,6 +2948,350 @@
    "clones": 0,
    "cloneUniques": 0
   },
+  "2026-11-12": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-13": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-14": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-15": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-16": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-17": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-18": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-19": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-20": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-21": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-22": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-23": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-24": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 18,
+   "cloneUniques": 14
+  },
+  "2026-11-25": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  }
+ },
+ "supervised-driving-log-support": {
+  "2026-11-12": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-13": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-14": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-15": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-16": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-17": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-18": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-19": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-20": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-21": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-22": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-23": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-24": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-25": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  }
+ },
+ "spa-log-support": {
+  "2026-11-12": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-13": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-14": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-15": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-16": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-17": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-18": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-19": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-20": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-21": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-22": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-23": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-24": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-25": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  }
+ },
+ "dementia-day-clock-support": {
+  "2026-11-12": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-13": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-14": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-15": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-16": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-17": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-18": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-19": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-20": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-21": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-22": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-23": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-24": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-25": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  }
+ },
+ "quiet-voice-support": {
   "2026-11-12": {
    "views": 0,
    "viewUniques": 0,
