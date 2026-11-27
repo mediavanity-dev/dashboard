@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T01:50:15.392Z",
+ "generatedAt": "2026-11-27T07:49:47.744Z",
  "owner": {
   "login": "mediavanity-dev",
   "url": "https://github.com/mediavanity-dev",
@@ -17,9 +17,9 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 1,
-    "pushedAt": "2026-11-27T01:34:20Z",
+    "pushedAt": "2026-11-27T07:30:07Z",
     "createdAt": "2026-10-31T17:03:54Z",
-    "sizeKB": 332
+    "sizeKB": 333
    },
    "site": {
     "url": "https://dailygeographer.com/",
@@ -31,7 +31,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 123
+     "ms": 109
     }
    },
    "workflows": [
@@ -55,8 +55,8 @@
       "status": "completed",
       "conclusion": "success",
       "event": "schedule",
-      "at": "2026-11-27T01:25:38Z",
-      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/45922508757"
+      "at": "2026-11-27T07:26:14Z",
+      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/45958442766"
      }
     }
    ],
@@ -247,9 +247,9 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 0,
-    "pushedAt": "2026-11-26T19:29:29Z",
+    "pushedAt": "2026-11-27T01:50:16Z",
     "createdAt": "2026-11-04T00:14:03Z",
-    "sizeKB": 247
+    "sizeKB": 248
    },
    "site": {
     "url": "https://mediavanity-dev.github.io/dashboard/",
@@ -261,7 +261,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 56
+     "ms": 60
     }
    },
    "workflows": [
@@ -273,8 +273,8 @@
       "status": "in_progress",
       "conclusion": null,
       "event": "schedule",
-      "at": "2026-11-27T01:49:48Z",
-      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/45924793913"
+      "at": "2026-11-27T07:49:23Z",
+      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/45961114018"
      }
     }
    ],
@@ -452,7 +452,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 63
+     "ms": 61
     }
    },
    "workflows": [
@@ -696,7 +696,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 47
+     "ms": 63
     }
    },
    "workflows": [
@@ -887,7 +887,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 132
+     "ms": 81
     }
    },
    "workflows": [
@@ -1102,7 +1102,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 119
+     "ms": 60
     }
    },
    "workflows": [
@@ -1293,7 +1293,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 169
+     "ms": 53
     }
    },
    "workflows": [
@@ -1484,7 +1484,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 119
+     "ms": 52
     }
    },
    "workflows": [
@@ -1675,7 +1675,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 77
+     "ms": 46
     }
    },
    "workflows": [
@@ -1866,7 +1866,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 61
+     "ms": 46
     }
    },
    "workflows": [
@@ -2057,7 +2057,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 59
+     "ms": 49
     }
    },
    "workflows": [
@@ -2313,7 +2313,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 49
+     "ms": 46
     }
    },
    "workflows": [
@@ -2504,7 +2504,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 66
+     "ms": 46
     }
    },
    "workflows": [
@@ -2695,7 +2695,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 49
+     "ms": 70
     }
    },
    "workflows": [
@@ -2886,7 +2886,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 46
+     "ms": 45
     }
    },
    "workflows": [
@@ -3077,7 +3077,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 93
+     "ms": 122
     }
    },
    "workflows": [
@@ -3268,7 +3268,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 45
+     "ms": 48
     }
    },
    "workflows": [
@@ -3459,7 +3459,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 80
+     "ms": 59
     }
    },
    "workflows": [
@@ -3667,7 +3667,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 155
+     "ms": 65
     }
    },
    "workflows": [
@@ -3858,7 +3858,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 132
+     "ms": 404
     }
    },
    "workflows": [
@@ -4093,6 +4093,11 @@
      "sessions": 3,
      "views": 3
     },
+    "2026-11-26": {
+     "users": 2,
+     "sessions": 2,
+     "views": 1
+    },
     "2026-11-13": {
      "users": 0,
      "sessions": 2,
@@ -4107,17 +4112,21 @@
    "pages": [
     {
      "name": "/",
-     "count": 141
+     "count": 142
     }
    ],
    "sources": [
     {
      "name": "(direct)",
-     "count": 80
+     "count": 81
     },
     {
      "name": "google",
      "count": 35
+    },
+    {
+     "name": "(not set)",
+     "count": 1
     }
    ],
    "countries": [
@@ -4132,6 +4141,10 @@
     {
      "name": "United Kingdom",
      "count": 4
+    },
+    {
+     "name": "France",
+     "count": 3
     },
     {
      "name": "Czechia",
@@ -4150,10 +4163,6 @@
      "count": 1
     },
     {
-     "name": "France",
-     "count": 1
-    },
-    {
      "name": "Germany",
      "count": 1
     },
@@ -4169,7 +4178,7 @@
    "devices": [
     {
      "name": "desktop",
-     "count": 46
+     "count": 48
     },
     {
      "name": "mobile",
@@ -4575,18 +4584,23 @@
      "users": 1,
      "sessions": 1,
      "views": 1
+    },
+    "2026-11-26": {
+     "users": 1,
+     "sessions": 1,
+     "views": 1
     }
    },
    "pages": [
     {
      "name": "/",
-     "count": 79
+     "count": 80
     }
    ],
    "sources": [
     {
      "name": "(direct)",
-     "count": 66
+     "count": 67
     },
     {
      "name": "github.com",
@@ -4612,7 +4626,7 @@
     },
     {
      "name": "Taiwan",
-     "count": 2
+     "count": 3
     },
     {
      "name": "Argentina",
@@ -4646,7 +4660,7 @@
    "devices": [
     {
      "name": "desktop",
-     "count": 28
+     "count": 29
     },
     {
      "name": "mobile",
