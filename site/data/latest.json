@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T19:29:28.387Z",
+ "generatedAt": "2026-11-27T01:50:15.392Z",
  "owner": {
   "login": "mediavanity-dev",
   "url": "https://github.com/mediavanity-dev",
@@ -17,9 +17,9 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 1,
-    "pushedAt": "2026-11-26T19:13:40Z",
+    "pushedAt": "2026-11-27T01:34:20Z",
     "createdAt": "2026-10-31T17:03:54Z",
-    "sizeKB": 317
+    "sizeKB": 332
    },
    "site": {
     "url": "https://dailygeographer.com/",
@@ -31,7 +31,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 195
+     "ms": 123
     }
    },
    "workflows": [
@@ -55,8 +55,8 @@
       "status": "completed",
       "conclusion": "success",
       "event": "schedule",
-      "at": "2026-11-26T19:04:47Z",
-      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/45880890851"
+      "at": "2026-11-27T01:25:38Z",
+      "url": "https://github.com/mediavanity-dev/dailygeographer/actions/runs/45922508757"
      }
     }
    ],
@@ -247,9 +247,9 @@
     "forks": 0,
     "watchers": 0,
     "openIssues": 0,
-    "pushedAt": "2026-11-26T13:46:51Z",
+    "pushedAt": "2026-11-26T19:29:29Z",
     "createdAt": "2026-11-04T00:14:03Z",
-    "sizeKB": 236
+    "sizeKB": 247
    },
    "site": {
     "url": "https://mediavanity-dev.github.io/dashboard/",
@@ -261,7 +261,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 155
+     "ms": 56
     }
    },
    "workflows": [
@@ -273,8 +273,8 @@
       "status": "in_progress",
       "conclusion": null,
       "event": "schedule",
-      "at": "2026-11-26T19:28:55Z",
-      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/45883950652"
+      "at": "2026-11-27T01:49:48Z",
+      "url": "https://github.com/mediavanity-dev/dashboard/actions/runs/45924793913"
      }
     }
    ],
@@ -452,7 +452,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 128
+     "ms": 63
     }
    },
    "workflows": [
@@ -696,7 +696,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 114
+     "ms": 47
     }
    },
    "workflows": [
@@ -887,7 +887,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 221
+     "ms": 132
     }
    },
    "workflows": [
@@ -1102,7 +1102,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 279
+     "ms": 119
     }
    },
    "workflows": [
@@ -1293,7 +1293,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 164
+     "ms": 169
     }
    },
    "workflows": [
@@ -1484,7 +1484,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 145
+     "ms": 119
     }
    },
    "workflows": [
@@ -1675,7 +1675,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 187
+     "ms": 77
     }
    },
    "workflows": [
@@ -1866,7 +1866,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 114
+     "ms": 61
     }
    },
    "workflows": [
@@ -2057,7 +2057,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 117
+     "ms": 59
     }
    },
    "workflows": [
@@ -2313,7 +2313,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 134
+     "ms": 49
     }
    },
    "workflows": [
@@ -2504,7 +2504,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 121
+     "ms": 66
     }
    },
    "workflows": [
@@ -2695,7 +2695,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 166
+     "ms": 49
     }
    },
    "workflows": [
@@ -2886,7 +2886,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 115
+     "ms": 46
     }
    },
    "workflows": [
@@ -3077,7 +3077,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 208
+     "ms": 93
     }
    },
    "workflows": [
@@ -3268,7 +3268,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 172
+     "ms": 45
     }
    },
    "workflows": [
@@ -3459,7 +3459,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 178
+     "ms": 80
     }
    },
    "workflows": [
@@ -3667,7 +3667,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 238
+     "ms": 155
     }
    },
    "workflows": [
@@ -3858,7 +3858,7 @@
     "probe": {
      "ok": true,
      "status": 200,
-     "ms": 201
+     "ms": 132
     }
    },
    "workflows": [
