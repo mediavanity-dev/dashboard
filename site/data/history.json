@@ -379,6 +379,12 @@
    "viewUniques": 0,
    "clones": 44,
    "cloneUniques": 21
+  },
+  "2026-11-27": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 57,
+   "cloneUniques": 22
   }
  },
  "standards": {
@@ -767,6 +773,12 @@
    "viewUniques": 0,
    "clones": 0,
    "cloneUniques": 0
+  },
+  "2026-11-27": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
   }
  },
  "dashboard": {
@@ -985,6 +997,12 @@
    "viewUniques": 0,
    "clones": 10,
    "cloneUniques": 4
+  },
+  "2026-11-27": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 47,
+   "cloneUniques": 20
   }
  },
  "chordshapes": {
@@ -1199,6 +1217,12 @@
    "cloneUniques": 0
   },
   "2026-11-26": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-27": {
    "views": 0,
    "viewUniques": 0,
    "clones": 0,
@@ -1599,6 +1623,12 @@
    "viewUniques": 0,
    "clones": 23,
    "cloneUniques": 12
+  },
+  "2026-11-27": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 4,
+   "cloneUniques": 1
   }
  },
  "OpenWorld": {
@@ -1817,6 +1847,12 @@
    "viewUniques": 0,
    "clones": 1,
    "cloneUniques": 1
+  },
+  "2026-11-27": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
   }
  },
  "wholeguitar": {
@@ -2035,6 +2071,12 @@
    "viewUniques": 0,
    "clones": 0,
    "cloneUniques": 0
+  },
+  "2026-11-27": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
   }
  },
  "alchemy-app": {
@@ -2199,6 +2241,12 @@
    "viewUniques": 0,
    "clones": 0,
    "cloneUniques": 0
+  },
+  "2026-11-27": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 1,
+   "cloneUniques": 1
   }
  },
  "ask-the-potato": {
@@ -2357,6 +2405,12 @@
    "viewUniques": 0,
    "clones": 0,
    "cloneUniques": 0
+  },
+  "2026-11-27": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
   }
  },
  "standards-support": {
@@ -2503,6 +2557,12 @@
    "viewUniques": 0,
    "clones": 0,
    "cloneUniques": 0
+  },
+  "2026-11-27": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
   }
  },
  "pet-resting-respiratory-rate-support": {
@@ -2643,6 +2703,12 @@
    "viewUniques": 0,
    "clones": 1,
    "cloneUniques": 1
+  },
+  "2026-11-27": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
   }
  },
  "grandparents-pregnancy-tracker-support": {
@@ -2777,6 +2843,12 @@
    "viewUniques": 0,
    "clones": 0,
    "cloneUniques": 0
+  },
+  "2026-11-27": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 1,
+   "cloneUniques": 1
   }
  },
  "EarthRacer": {
@@ -2905,6 +2977,12 @@
    "viewUniques": 0,
    "clones": 121,
    "cloneUniques": 49
+  },
+  "2026-11-27": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 19,
+   "cloneUniques": 3
   }
  },
  "openearth-app": {
@@ -3033,6 +3111,12 @@
    "viewUniques": 0,
    "clones": 0,
    "cloneUniques": 0
+  },
+  "2026-11-27": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
   }
  },
  "earthracer-app": {
@@ -3137,6 +3221,12 @@
    "viewUniques": 0,
    "clones": 18,
    "cloneUniques": 12
+  },
+  "2026-11-27": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 5,
+   "cloneUniques": 2
   }
  },
  "oil-change-log-support": {
@@ -3235,6 +3325,12 @@
    "viewUniques": 0,
    "clones": 1,
    "cloneUniques": 1
+  },
+  "2026-11-27": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
   }
  },
  "supervised-driving-log-support": {
@@ -3327,6 +3423,12 @@
    "viewUniques": 0,
    "clones": 19,
    "cloneUniques": 13
+  },
+  "2026-11-27": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 4,
+   "cloneUniques": 2
   }
  },
  "spa-log-support": {
@@ -3419,6 +3521,12 @@
    "viewUniques": 0,
    "clones": 0,
    "cloneUniques": 0
+  },
+  "2026-11-27": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 1,
+   "cloneUniques": 1
   }
  },
  "dementia-day-clock-support": {
@@ -3511,6 +3619,12 @@
    "viewUniques": 0,
    "clones": 0,
    "cloneUniques": 0
+  },
+  "2026-11-27": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 1,
+   "cloneUniques": 1
   }
  },
  "quiet-voice-support": {
@@ -3599,6 +3713,12 @@
    "cloneUniques": 16
   },
   "2026-11-26": {
+   "views": 0,
+   "viewUniques": 0,
+   "clones": 0,
+   "cloneUniques": 0
+  },
+  "2026-11-27": {
    "views": 0,
    "viewUniques": 0,
    "clones": 0,
